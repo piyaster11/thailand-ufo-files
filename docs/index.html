@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thailand UFO Files — The Truth Is Out There</title>
+  <meta name="description" content="A public, X-Files-styled archive of reported UFO and unusual-sky events in Thailand, drawn from NUFORC, news and official science comments. Unverified reports, not proof.">
+  <meta property="og:title" content="Thailand UFO Files">
+  <meta property="og:description" content="Classified-file dashboard of reported sky anomalies in Thailand. Unverified reports, not proof.">
+  <meta property="og:image" content="img/illustrations/og-cover.png">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect fill='%23050806' width='64' height='64'/%3E%3Ccircle cx='32' cy='32' r='10' fill='none' stroke='%2300ff6a' stroke-width='3'/%3E%3Cellipse cx='32' cy='36' rx='22' ry='7' fill='none' stroke='%2300ff6a' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="js/vendor/leaflet.css">
+  <link rel="stylesheet" href="js/vendor/MarkerCluster.css">
+  <link rel="stylesheet" href="js/vendor/MarkerCluster.Default.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="scanlines" aria-hidden="true"></div>
+  <div class="vignette" aria-hidden="true"></div>
+
+  <div id="boot" class="boot" role="dialog" aria-label="Archive boot sequence">
+    <pre id="bootText"></pre>
+    <p><button class="btn" id="skipBoot" type="button">Skip // ข้าม</button></p>
+  </div>
+
+  <header class="site-header">
+    <button class="btn menu-toggle" id="menuBtn" type="button" aria-expanded="false" data-i="menu">Files</button>
+    <div class="brand">
+      <div class="brand-kicker">Classified archive // ไม่ใช่หลักฐาน</div>
+      <div class="brand-title">THAILAND UFO FILES</div>
+      <div class="brand-sub">The truth is out there</div>
+    </div>
+    <div class="header-actions">
+      <button class="btn btn-ghost" id="heatBtn" type="button" data-i="heat">Heatmap</button>
+      <button class="btn" id="randomBtn" type="button" data-i="random">Random case</button>
+      <button class="btn btn-ghost" id="langBtn" type="button" aria-label="Language">TH</button>
+      <button class="btn btn-ghost" id="soundBtn" type="button" aria-pressed="false" data-i="sound">Sound: off</button>
+      <a class="btn btn-ghost" href="about.html" data-i="about">About</a>
+    </div>
+  </header>
+
+  <div class="app" id="app">
+    <aside class="sidebar" id="sidebar">
+      <div class="disclaimer" data-i="disclaimer">
+        Entries are unverified reports from public sources, not proof of alien craft. Many have mundane explanations. Pins are often approximate.
+      </div>
+      <div class="stats" id="stats"></div>
+
+      <div class="filter-block">
+        <h3 data-i="filters">Filters</h3>
+        <label class="field" for="q" data-i="search">Search</label>
+        <input type="search" id="q" placeholder="province, title, case no." autocomplete="off">
+
+        <label class="field" data-i="years">Year range</label>
+        <div class="year-row">
+          <span id="yearMinLab"></span>
+          <input type="range" id="yearMin" min="1968" max="2026" step="1">
+        </div>
+        <div class="year-row">
+          <span id="yearMaxLab"></span>
+          <input type="range" id="yearMax" min="1968" max="2026" step="1">
+        </div>
+
+        <label class="field" for="province" data-i="province">Province</label>
+        <select id="province"><option value="">All</option></select>
+
+        <label class="field" data-i="category">Category</label>
+        <div class="checks" id="catChecks"></div>
+
+        <label class="field" data-i="credibility">Credibility</label>
+        <div class="checks" id="credChecks"></div>
+
+        <label class="checks" style="margin-top:8px">
+          <input type="checkbox" id="hasPhoto"> <span data-i="hasphoto">Has hosted photo or source media</span>
+        </label>
+        <button class="btn btn-ghost" id="resetBtn" type="button" style="margin-top:10px" data-i="reset">Reset filters</button>
+      </div>
+
+      <div class="case-list-head" id="listHead">Case files</div>
+      <ul class="case-list" id="caseList"></ul>
+    </aside>
+
+    <div class="map-wrap">
+      <div id="map" role="application" aria-label="Map of reported sightings"></div>
+      <div class="radar-sweep" aria-hidden="true"></div>
+    </div>
+
+    <section class="bottom-panel">
+      <div class="timeline">
+        <button class="btn" id="playBtn" type="button" data-i="play">Play timeline</button>
+        <input type="range" id="timeline" min="0" max="100" value="100">
+        <div class="tl-label" id="tlLabel"></div>
+      </div>
+      <div class="charts">
+        <div class="chart-box"><h3 data-i="chartYear">By year</h3><canvas id="chartYear"></canvas></div>
+        <div class="chart-box"><h3 data-i="chartCat">By category</h3><canvas id="chartCat"></canvas></div>
+        <div class="chart-box"><h3 data-i="chartProv">By province</h3><canvas id="chartProv"></canvas></div>
+      </div>
+    </section>
+  </div>
+
+  <div class="drawer-backdrop" id="backdrop"></div>
+  <aside class="case-drawer" id="drawer" aria-live="polite"></aside>
+
+  <script src="js/vendor/leaflet.js"></script>
+  <script src="js/vendor/leaflet.markercluster.js"></script>
+  <script src="js/vendor/leaflet-heat.js"></script>
+  <script src="js/vendor/chart.umd.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

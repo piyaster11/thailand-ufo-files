@@ -1,0 +1,2831 @@
+{
+  "generated_at": "2026-11-11T22:12:25+0700",
+  "timezone": "Asia/Bangkok",
+  "title": "Thailand UFO Files",
+  "disclaimer": "Entries are unverified reports aggregated from public sources. They are not proof of extraterrestrial craft. Many have mundane explanations (meteors, satellites, the ISS, weather balloons, sky lanterns, clouds, rocket debris). Coordinates are geocoded from named places and are often approximate. Nothing here was invented: if a source was blocked or incomplete, the case was omitted or labelled honestly.",
+  "methodology": {
+    "nuforc": "NUFORC's live site is behind a Cloudflare challenge, so the Thailand index was read from a public Wayback Machine snapshot dated 13 May 2026 (https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand). Individual report URLs still point at nuforc.org. Two addendum records were merged with their parent events. A creature report and a filing in which the writer said they had not seen a UFO were omitted.",
+    "news": "Thai and English news and official science comments were added only when a dated article could be read. Naga fireball years are included only when a post-event count or a contemporary photograph exists. Festival preview articles were not treated as confirmation.",
+    "skipped": "nuforc.org (Cloudflare challenge; used Wayback instead). Reddit public JSON returned an HTML interstitial, so no Reddit posts were added. MUFON public data was not reachable as an open dump. Some Thai news photo-galleries returned 404. Robots and access walls were not circumvented.",
+    "photos": "Only Wikimedia Commons photographs (CC BY-SA 4.0, attributed) and clearly labelled generated illustrations are hosted. News photographs are not copied; cases link back to the article."
+  },
+  "counts": {
+    "total": 72,
+    "with_coordinates": 63,
+    "with_hosted_photos": 2,
+    "by_credibility": {
+      "witness_report": 47,
+      "explained": 16,
+      "media_reported": 9
+    },
+    "by_category": {
+      "light_orb": 24,
+      "formation": 2,
+      "triangle": 5,
+      "cylinder_other": 6,
+      "unspecified": 12,
+      "disc": 7,
+      "naga_fireballs": 7,
+      "fireball": 6,
+      "rocket_reentry_starlink": 3
+    },
+    "by_source_family": {
+      "NUFORC": 104,
+      "Wikimedia Commons — J A Forbes": 1,
+      "Wikipedia — Naga fireball": 1,
+      "Bangkok Post — The truth is out there ... in Nakhon Sawan": 1,
+      "Bangkok Post": 4,
+      "Manager Online (27 Oct 2015)": 1,
+      "Manager Online (updated tally)": 1,
+      "Manager Online": 1,
+      "Thai PBS": 5,
+      "The Nation": 1,
+      "Thai News Online": 1,
+      "BBC Thai": 1,
+      "Thairath": 1,
+      "The Thaiger": 2,
+      "Thai Channel 8": 1,
+      "PPTV (2024 recap confirming the 2023 total)": 1,
+      "PPTVHD36": 2,
+      "Matichon": 1
+    },
+    "nuforc": 51,
+    "curated_news_and_naga": 21
+  },
+  "sightings": [
+    {
+      "id": "nuforc-108977",
+      "title": "A zig-zagging bright light over Udorn air base, 1968",
+      "title_th": "แสงสว่างเคลื่อนเป็นซิกแซกเหนือฐานทัพอากาศอุดร ปี 1968",
+      "date": "1968-01-01",
+      "date_label": "1 January 1968, 01:00",
+      "date_precision": "day",
+      "time_local": "01:00",
+      "location_name": "Udorn (Thailand)",
+      "location_name_th": "อุดรธานี (ฐานทัพอากาศในรายงานปี 1968)",
+      "province": "Udon Thani",
+      "province_th": "อุดรธานี",
+      "lat": 17.386,
+      "lng": 102.788,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Sphere",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A later NUFORC filing describes a zig-zagging bright light over the U.S. air base at Udorn (Udon Thani) around 01:00 on 1 January 1968. January the first may be a placeholder date; it is recorded here exactly as NUFORC lists it.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=108977"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "108977",
+      "explanation": null,
+      "case_no": "TH-0001",
+      "year": 1968
+    },
+    {
+      "id": "nuforc-42146",
+      "title": "A line of lights in the NNW from U-Tapao air base, 1968",
+      "title_th": "แถวแสงทางทิศตะวันตกเฉียงเหนือจากอู่ตะเภา ปี 1968",
+      "date": "1968-06-15",
+      "date_label": "15 June 1968, 01:00",
+      "date_precision": "day",
+      "time_local": "01:00",
+      "location_name": "Utapao RTAFB (Thailand)",
+      "location_name_th": "ฐานทัพอากาศอู่ตะเภา จังหวัดระยอง",
+      "province": "Rayong",
+      "province_th": "ระยอง",
+      "lat": 12.6799,
+      "lng": 101.005,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "formation",
+      "shape": "Formation",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A report later filed with NUFORC describes multiple lights in a horizontal formation in the north-northwest sky, seen around 01:00 on 15 June 1968 from U-Tapao Royal Thai Air Force Base in Rayong, a major U.S. staging field during the Vietnam War era.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=42146"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "42146",
+      "explanation": null,
+      "case_no": "TH-0002",
+      "year": 1968
+    },
+    {
+      "id": "nuforc-29788",
+      "title": "Daytime triangle seen by U.S. Navy personnel",
+      "title_th": "วัตถุสามเหลี่ยมกลางวันโดยทหารเรือสหรัฐ",
+      "date": "1985-06-01",
+      "date_label": "1 June 1985, 14:00",
+      "date_precision": "day",
+      "time_local": "14:00",
+      "location_name": "Thailand",
+      "location_name_th": "Thailand",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The report does not name a town that can be geocoded with confidence, so it is not placed on the map.",
+      "category": "triangle",
+      "shape": "Triangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A 2003 NUFORC filing says three U.S. Navy personnel saw a triangular object in a daytime sky outside a popular Thai tourist area in June 1985. The exact town is not named.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=29788"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "29788",
+      "explanation": null,
+      "case_no": "TH-0003",
+      "year": 1985
+    },
+    {
+      "id": "nuforc-5893",
+      "title": "A ruler-shaped object with four steady lights near Hua Hin",
+      "title_th": "วัตถุคล้ายไม้บรรทัดมีไฟสี่จุดใกล้หัวหิน",
+      "date": "1997-11-01",
+      "date_label": "1 November 1997, 23:00",
+      "date_precision": "day",
+      "time_local": "23:00",
+      "location_name": "Hua Hin, Prachuap Kirikan (Thailand) (Near)",
+      "location_name_th": "หัวหิน จังหวัดประจวบคีรีขันธ์",
+      "province": "Prachuap Khiri Khan",
+      "province_th": "ประจวบคีรีขันธ์",
+      "lat": 12.5706,
+      "lng": 99.9588,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "cylinder_other",
+      "shape": "Rectangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "Near Hua Hin, Prachuap Khiri Khan, a witness described a roughly ruler-shaped, seemingly semi-transparent object with four evenly spaced, non-blinking glowing spots along the bottom, seen high in the sky at 23:00 on 1 November 1997.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=5893"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "5893",
+      "explanation": null,
+      "case_no": "TH-0004",
+      "year": 1997
+    },
+    {
+      "id": "nuforc-2987",
+      "title": "Twelve slow red-orange lights over Phuket on Christmas Eve",
+      "title_th": "สิบสองดวงไฟสีแดงส้มเคลื่อนช้าเหนือภูเก็ตคืนคริสต์มาสอีฟ",
+      "date": "1997-12-24",
+      "date_label": "24 December 1997, 10:05",
+      "date_precision": "day",
+      "time_local": "10:05",
+      "location_name": "Phuket (Thailand)",
+      "location_name_th": "ภูเก็ต",
+      "province": "Phuket",
+      "province_th": "ภูเก็ต",
+      "lat": 7.8804,
+      "lng": 98.3923,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "formation",
+      "shape": "Formation",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A witness reported twelve slow-moving, red-orange pulsating objects over Phuket at about 10:05 on Christmas Eve 1997.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=2987"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "2987",
+      "explanation": null,
+      "case_no": "TH-0005",
+      "year": 1997
+    },
+    {
+      "id": "nuforc-48523",
+      "title": "A Phuket air-traffic controller files a report",
+      "title_th": "พนักงานควบคุมจราจรทางอากาศภูเก็ตส่งรายงาน",
+      "date": "1999-06-30",
+      "date_label": "30 June 1999",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Phuket (Thailand)",
+      "location_name_th": "ภูเก็ต",
+      "province": "Phuket",
+      "province_th": "ภูเก็ต",
+      "lat": 7.8804,
+      "lng": 98.3923,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": null,
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A person identifying themselves as a former air-traffic controller at Phuket International Airport filed a NUFORC report dated 30 June 1999 (time given as midnight, which may only mark the date). The public index line says they received a report while on duty; the full narrative sits on the NUFORC record.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=48523"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "48523",
+      "explanation": null,
+      "case_no": "TH-0006",
+      "year": 1999
+    },
+    {
+      "id": "nuforc-18768",
+      "title": "Saucer-like shapes on photos taken on a Bangkok–Hong Kong flight",
+      "title_th": "รูปทรงคล้ายจานในภาพถ่ายระหว่างเที่ยวบินกรุงเทพฯ–ฮ่องกง",
+      "date": "2000-12-15",
+      "date_label": "15 December 2000, 18:00",
+      "date_precision": "day",
+      "time_local": "18:00",
+      "location_name": "Hong Kong from Bangkok (flight to)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "Photographs were taken on a flight from Bangkok toward Hong Kong. The exact location is not stated.",
+      "category": "disc",
+      "shape": "Disk",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A passenger on a flight from Bangkok toward Hong Kong photographed a cloud formation on 15 December 2000 and later thought one, perhaps two, saucer-like shapes appeared in frames taken after the first shot. The exact position over land or sea is not stated, so this case is not pinned to a Thai province.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=18768"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "18768",
+      "explanation": null,
+      "case_no": "TH-0007",
+      "year": 2000
+    },
+    {
+      "id": "nuforc-51312",
+      "title": "A bright green chevron westbound over Hat Yai",
+      "title_th": "แสงเขียวสว่างรูปตัววีพาดไปทิศตะวันตกเหนือหาดใหญ่",
+      "date": "2001-07-04",
+      "date_label": "4 July 2001",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Hatyai, Songkhla (Thailand)",
+      "location_name_th": "หาดใหญ่ จังหวัดสงขลา",
+      "province": "Songkhla",
+      "province_th": "สงขลา",
+      "lat": 7.0084,
+      "lng": 100.4767,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "triangle",
+      "shape": "Chevron",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A Hat Yai, Songkhla, report dated 4 July 2001 describes a bright green, highly luminous chevron-shaped light flying from east to west.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=51312"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "51312",
+      "explanation": null,
+      "case_no": "TH-0008",
+      "year": 2001
+    },
+    {
+      "id": "nuforc-20465",
+      "title": "A fast round glow westbound over Bangkok",
+      "title_th": "วงแสงกลมเคลื่อนเร็วไปทางทิศตะวันตกเหนือกรุงเทพฯ",
+      "date": "2001-11-19",
+      "date_label": "19 November 2001, 01:30",
+      "date_precision": "day",
+      "time_local": "01:30",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A witness in Bangkok described a round, glowing circular object moving very fast toward the west at high altitude, at about 01:30 on 19 November 2001.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=20465"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "20465",
+      "explanation": null,
+      "case_no": "TH-0009",
+      "year": 2001
+    },
+    {
+      "id": "nuforc-162740",
+      "title": "Two rod-like, shape-shifting objects over Ko Chang",
+      "title_th": "วัตถุคล้ายแท่งสองชิ้นที่เปลี่ยนรูปเหนือเกาะช้าง",
+      "date": "2002-12-31",
+      "date_label": "31 December 2002, 01:00",
+      "date_precision": "day",
+      "time_local": "01:00",
+      "location_name": "Island of Koh Chang (Thailand)",
+      "location_name_th": "เกาะช้าง จังหวัดตราด",
+      "province": "Trat",
+      "province_th": "ตราด",
+      "lat": 12.07,
+      "lng": 102.33,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Changing",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "Around 01:00 on 31 December 2002, a witness on Ko Chang described a five-minute sighting of two rod-like, shape-shifting objects that moved deliberately and then disappeared at what the witness called impossible speed.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=162740"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "162740",
+      "explanation": null,
+      "case_no": "TH-0010",
+      "year": 2002
+    },
+    {
+      "id": "nuforc-196742",
+      "title": "Multi-coloured hovering objects over Koh Samui, 2003",
+      "title_th": "วัตถุหลายสีลอยค้างเหนือเกาะสมุย ปี 2003",
+      "date": "2003-07-15",
+      "date_label": "15 July 2003, 19:58",
+      "date_precision": "day",
+      "time_local": "19:58",
+      "location_name": "Ko Samui",
+      "location_name_th": "เกาะสมุย จังหวัดสุราษฎร์ธานี",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.512,
+      "lng": 100.013,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 15 July 2003 at 19:58 a visitor outside a rented house on Koh Samui reported strangely behaving, multi-coloured objects hovering in the sky. Media is flagged on the index.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=196742"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": true,
+      "nuforc_id": "196742",
+      "explanation": null,
+      "case_no": "TH-0011",
+      "year": 2003
+    },
+    {
+      "id": "nuforc-35456",
+      "title": "A briefly described Koh Samui night sighting",
+      "title_th": "รายงานสั้น ๆ จากเกาะสมุยยามค่ำ",
+      "date": "2003-11-20",
+      "date_label": "20 November 2003, 22:00",
+      "date_precision": "day",
+      "time_local": "22:00",
+      "location_name": "Koh Samui (Thailand)",
+      "location_name_th": "เกาะสมุย จังหวัดสุราษฎร์ธานี",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.512,
+      "lng": 100.013,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Changing",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A November 2003 Koh Samui filing is recorded in the NUFORC index with almost no descriptive detail, only a dramatic claim that it was proof of an extraterrestrial visit. It is kept here as a dated, located witness report, with that lack of detail flagged.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=35456"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "35456",
+      "explanation": null,
+      "case_no": "TH-0012",
+      "year": 2003
+    },
+    {
+      "id": "nuforc-36767",
+      "title": "Hundreds of slow red star-like lights over Bangkok",
+      "title_th": "แสงคล้ายดาวสีแดงหลายร้อยดวงลอยช้าเหนือกรุงเทพฯ",
+      "date": "2004-05-07",
+      "date_label": "7 May 2004, 23:48",
+      "date_precision": "day",
+      "time_local": "23:48",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Light",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 7 May 2004 around 23:48 a Bangkok witness described hundreds of star-like objects rising slowly, looking like small red stars, visible for 10–15 minutes before they disappeared. The description is consistent with sky lanterns, though the report does not use that word.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=36767"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "36767",
+      "explanation": null,
+      "case_no": "TH-0013",
+      "year": 2004
+    },
+    {
+      "id": "nuforc-40511",
+      "title": "Hundreds of red lights drifting over Bangkok",
+      "title_th": "แสงสีแดงหลายร้อยดวงลอยข้ามฟ้ากรุงเทพฯ",
+      "date": "2004-08-18",
+      "date_label": "18 August 2004, 23:30",
+      "date_precision": "day",
+      "time_local": "23:30",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Light",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 18 August 2004 at 23:30 a Bangkok witness reported hundreds of strange red lights floating across the night sky. As with other mass red-light reports, lanterns are a common mundane comparison, but the filing itself does not settle the cause.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=40511"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "40511",
+      "explanation": null,
+      "case_no": "TH-0014",
+      "year": 2004
+    },
+    {
+      "id": "nuforc-41643",
+      "title": "A large red pulsating light over Thong Nai Pan",
+      "title_th": "แสงแดงขนาดใหญ่กระพริบเหนือทองนายพาน",
+      "date": "2004-12-26",
+      "date_label": "26 December 2004, 22:30",
+      "date_precision": "day",
+      "time_local": "22:30",
+      "location_name": "Thong Nai Pan (Koh Phan Gan)(Thailand)",
+      "location_name_th": "ทองหลาง / ทองนายพาน เกาะพะงัน",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.779,
+      "lng": 100.057,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Light",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 26 December 2004 at 22:30, a group of about ten people holidaying at Thong Nai Pan on Ko Pha-ngan reported an unusually large, red, pulsating star-like object in the sky.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=41643"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "41643",
+      "explanation": null,
+      "case_no": "TH-0015",
+      "year": 2004
+    },
+    {
+      "id": "nuforc-43319",
+      "title": "An orange sphere over Chiang Mai",
+      "title_th": "ทรงกลมสีส้มเหนือเชียงใหม่",
+      "date": "2005-01-30",
+      "date_label": "30 January 2005, 19:30",
+      "date_precision": "day",
+      "time_local": "19:30",
+      "location_name": "Chiang Mai (Thailand)",
+      "location_name_th": "เชียงใหม่",
+      "province": "Chiang Mai",
+      "province_th": "เชียงใหม่",
+      "lat": 18.7883,
+      "lng": 98.9853,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Sphere",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A witness reported an orange sphere in the sky above Chiang Mai at about 19:30 on 30 January 2005.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=43319"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "43319",
+      "explanation": null,
+      "case_no": "TH-0016",
+      "year": 2005
+    },
+    {
+      "id": "nuforc-70835",
+      "title": "A large object low on the Koh Samui horizon",
+      "title_th": "วัตถุขนาดใหญ่ต่ำที่ขอบฟ้าเกาะสมุย",
+      "date": "2005-06-30",
+      "date_label": "30 June 2005",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Koh Samui (Thailand)",
+      "location_name_th": "เกาะสมุย จังหวัดสุราษฎร์ธานี",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.512,
+      "lng": 100.013,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": null,
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A mid-2005 Koh Samui filing (date given as 30 June, time midnight) describes large object or objects hovering low on the horizon.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=70835"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "70835",
+      "explanation": null,
+      "case_no": "TH-0017",
+      "year": 2005
+    },
+    {
+      "id": "nuforc-50463",
+      "title": "More than 25 lights videotaped over Patong — lanterns suggested",
+      "title_th": "แสงกว่า 25 ดวงถูกถ่ายวิดีโอที่ป่าตอง — มีหมายเหตุว่าอาจเป็นโคม",
+      "date": "2006-03-22",
+      "date_label": "22 March 2006, 23:30",
+      "date_precision": "day",
+      "time_local": "23:30",
+      "location_name": "Patung Beach (Phuket Islan, Thailand)",
+      "location_name_th": "ภูเก็ต",
+      "province": "Phuket",
+      "province_th": "ภูเก็ต",
+      "lat": 7.8804,
+      "lng": 98.3923,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Changing",
+      "credibility": "explained",
+      "credibility_note": "A NUFORC editor noted that the lights may have been lanterns.",
+      "summary": "On 22 March 2006 at 23:30 a witness at Patong Beach, Phuket, said they took a nine-minute video of more than 25 lights travelling east over the island. A NUFORC editor's note on the index asks whether they might have been lanterns.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=50463"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "50463",
+      "explanation": null,
+      "case_no": "TH-0018",
+      "year": 2006
+    },
+    {
+      "id": "nuforc-165709",
+      "title": "A triangle that appeared over the sea and then overhead in Pattaya",
+      "title_th": "สามเหลี่ยมที่เห็นเหนือทะเลแล้วปรากฏเหนือศีรษะที่พัทยา",
+      "date": "2006-07-22",
+      "date_label": "22 July 2006, 03:00",
+      "date_precision": "day",
+      "time_local": "03:00",
+      "location_name": "Pattaya (Thailand)",
+      "location_name_th": "พัทยา จังหวัดชลบุรี",
+      "province": "Chon Buri",
+      "province_th": "ชลบุรี",
+      "lat": 12.9236,
+      "lng": 100.8825,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "triangle",
+      "shape": "Triangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 22 July 2006 at 03:00 a Pattaya witness described a shape hovering over the sea, disappearing, and then appearing overhead.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=165709"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "165709",
+      "explanation": null,
+      "case_no": "TH-0019",
+      "year": 2006
+    },
+    {
+      "id": "nuforc-53965",
+      "title": "A star-like object that suddenly dived and hovered over Bangkok",
+      "title_th": "วัตถุคล้ายดาวที่พุ่งลงแล้วค้างเหนือกรุงเทพฯ",
+      "date": "2006-12-13",
+      "date_label": "13 December 2006, 23:00",
+      "date_precision": "day",
+      "time_local": "23:00",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Changing",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 13 December 2006 at 23:00 a Bangkok witness said an ordinary-looking bright star suddenly caught the eye as it sped inward at a steep angle and then hovered.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=53965"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "53965",
+      "explanation": null,
+      "case_no": "TH-0020",
+      "year": 2006
+    },
+    {
+      "id": "nuforc-54473",
+      "title": "A circle compared to a movie spaceship — location not given",
+      "title_th": "วงกลมที่ผู้เห็นเปรียบกับยานในหนัง — ไม่ระบุสถานที่",
+      "date": "2007-01-02",
+      "date_label": "2 January 2007",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Thailand",
+      "location_name_th": "Thailand",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The report does not name a town that can be geocoded with confidence, so it is not placed on the map.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A 2 January 2007 filing from 'Thailand' compares what was seen to a well-known science-fiction film but does not name a town. It is listed without a map pin.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=54473"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "54473",
+      "explanation": null,
+      "case_no": "TH-0021",
+      "year": 2007
+    },
+    {
+      "id": "nuforc-100377",
+      "title": "Three white circular objects over southern Phuket",
+      "title_th": "วัตถุวงกลมสีขาวสามชิ้นเหนือภูเก็ตตอนใต้",
+      "date": "2007-06-15",
+      "date_label": "15 June 2007, 21:00",
+      "date_precision": "day",
+      "time_local": "21:00",
+      "location_name": "Phuket (Thailand; southern))",
+      "location_name_th": "ภูเก็ต",
+      "province": "Phuket",
+      "province_th": "ภูเก็ต",
+      "lat": 7.8804,
+      "lng": 98.3923,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "A 15 June 2007, 21:00, filing from southern Phuket describes three white, circular objects.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=100377"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "100377",
+      "explanation": null,
+      "case_no": "TH-0022",
+      "year": 2007
+    },
+    {
+      "id": "nuforc-59435",
+      "title": "A long-running dawn light east of Bangkok — Venus suggested",
+      "title_th": "แสงยามรุ่งทางตะวันออกของกรุงเทพฯ นานเป็นเดือน — มีหมายเหตุว่าอาจเป็นดาวศุกร์",
+      "date": "2007-10-26",
+      "date_label": "26 October 2007, 04:00",
+      "date_precision": "day",
+      "time_local": "04:00",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Changing",
+      "credibility": "explained",
+      "credibility_note": "A NUFORC editor suggested the object may have been the planet Venus.",
+      "summary": "A Bangkok witness described unusual lights in the eastern sky between about 04:00 and 06:00, said to have been going on for a month by 26 October 2007. A NUFORC editor's note asks whether the object was Venus.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=59435"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "59435",
+      "explanation": null,
+      "case_no": "TH-0023",
+      "year": 2007
+    },
+    {
+      "id": "nuforc-59932",
+      "title": "An orange oval over the Andaman Sea off Patong",
+      "title_th": "วัตถุสีส้มรูปรีเหนือทะเลอันดามันหน้าป่าตอง",
+      "date": "2007-11-13",
+      "date_label": "13 November 2007, 22:00",
+      "date_precision": "day",
+      "time_local": "22:00",
+      "location_name": "Patong Beach, Phuket (Thailand)",
+      "location_name_th": "ภูเก็ต",
+      "province": "Phuket",
+      "province_th": "ภูเก็ต",
+      "lat": 7.8804,
+      "lng": 98.3923,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "disc",
+      "shape": "Oval",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 13 November 2007 at 22:00 a witness at Patong Beach described an orange, oval, glowing object moving slowly east over the Andaman Sea. It then stopped, according to the index summary.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=59932"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "59932",
+      "explanation": null,
+      "case_no": "TH-0024",
+      "year": 2007
+    },
+    {
+      "id": "nuforc-79273",
+      "title": "Multi-coloured dancing lights videotaped in Salaya",
+      "title_th": "แสงหลายสีเคลื่อนพลิ้วถูกถ่ายวิดีโอที่ศาลายา",
+      "date": "2010-12-13",
+      "date_label": "13 December 2010, 22:00",
+      "date_precision": "day",
+      "time_local": "22:00",
+      "location_name": "Salaya (Thailand)",
+      "location_name_th": "ศาลายา จังหวัดนครปฐม",
+      "province": "Nakhon Pathom",
+      "province_th": "นครปฐม",
+      "lat": 13.801,
+      "lng": 100.323,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Light",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 13 December 2010 at 22:00 a married couple in Salaya, Nakhon Pathom, reported a dancing, multi-coloured object and said they videotaped it for about five minutes.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=79273"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "79273",
+      "explanation": null,
+      "case_no": "TH-0025",
+      "year": 2010
+    },
+    {
+      "id": "nuforc-93382",
+      "title": "Two orange orbs off the coast of Koh Samui",
+      "title_th": "ลูกแสงส้มสองดวงนอกชายฝั่งเกาะสมุย",
+      "date": "2012-10-05",
+      "date_label": "5 October 2012, 21:40",
+      "date_precision": "day",
+      "time_local": "21:40",
+      "location_name": "Koh Samui (Thailand",
+      "location_name_th": "เกาะสมุย จังหวัดสุราษฎร์ธานี",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.512,
+      "lng": 100.013,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Orb",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 5 October 2012 at 21:40 a witness reported two sightings of orange orbs off the coast of Koh Samui. A second NUFORC record filed the same day is an addendum to the same event and is merged here.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=93382"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        },
+        {
+          "name": "NUFORC addendum (93383)",
+          "url": "https://nuforc.org/sighting/?id=93383"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "93382",
+      "explanation": null,
+      "case_no": "TH-0026",
+      "year": 2012
+    },
+    {
+      "id": "nuforc-144299",
+      "title": "Two bright orange lights over Bangkok",
+      "title_th": "แสงส้มสว่างสองดวงเหนือกรุงเทพฯ",
+      "date": "2012-12-05",
+      "date_label": "5 December 2012, 20:00",
+      "date_precision": "day",
+      "time_local": "20:00",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Light",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 5 December 2012 at 20:00 a Bangkok witness reported two bright orange lights that appeared to be far up in the night sky.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=144299"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "144299",
+      "explanation": null,
+      "case_no": "TH-0027",
+      "year": 2012
+    },
+    {
+      "id": "nuforc-103238",
+      "title": "A bright orange sphere in a Koh Samui night sky",
+      "title_th": "ทรงกลมสีส้มสว่างบนฟ้าค่ำเกาะสมุย",
+      "date": "2013-10-12",
+      "date_label": "12 October 2013, 21:00",
+      "date_precision": "day",
+      "time_local": "21:00",
+      "location_name": "Koh Samui (Thailand)",
+      "location_name_th": "เกาะสมุย จังหวัดสุราษฎร์ธานี",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.512,
+      "lng": 100.013,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 12 October 2013 at 21:00 a Koh Samui witness reported a bright orange sphere in the night sky.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=103238"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "103238",
+      "explanation": null,
+      "case_no": "TH-0028",
+      "year": 2013
+    },
+    {
+      "id": "naga-2013",
+      "title": "Naga fireballs photographed on the Mekong",
+      "title_th": "ภาพถ่ายบั้งไฟพญานาคเหนือแม่น้ำโขง",
+      "date": "2013-10-19",
+      "date_label": "19 October 2013, evening",
+      "date_precision": "day",
+      "time_local": "20:38",
+      "location_name": "Mekong River, Nong Khai",
+      "location_name_th": "แม่น้ำโขง จังหวัดหนองคาย",
+      "province": "Nong Khai",
+      "province_th": "หนองคาย",
+      "lat": 17.8782,
+      "lng": 102.7413,
+      "coord_precision": "area",
+      "coord_note": "Geocoded to Nong Khai on the Mekong; the photographer described the balls rising in and around the Nong Khai / Vientiane stretch.",
+      "category": "naga_fireballs",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "Photographs taken on the festival night and published on Wikimedia Commons. The cause of the lights is disputed (folk belief, marsh gas, or flares/tracers from the Lao bank).",
+      "summary": "A visitor photographed rosy-pink balls of light rising from the Mekong around Nong Khai on the night that ends Buddhist Lent (Ok Phansa). The images, later released under a Creative Commons licence, show the annual phenomenon locally called bang fai phaya nak. The lights are said to climb a short way and vanish. Explanations offered over the years include ignited river gas, ceremonial flares, and tracer rounds; none is universally accepted.",
+      "summary_th": "ผู้มาเยือนได้ถ่ายภาพลูกไฟสีชมพูอมแดงพุ่งขึ้นจากแม่น้ำโขงแถวจังหวัดหนองคายในคืนวันออกพรรษา ภาพชุดนี้เผยแพร่ในวิกิมีเดียคอมมอนส์ภายใต้สัญญาอนุญาตครีเอทีฟคอมมอนส์ แสดงปรากฏการณ์ที่ชาวบ้านเรียกว่าบั้งไฟพญานาค คำอธิบายที่มีการเสนอมีทั้งแก๊สจากลำน้ำ แสงพลุ และกระสุนส่องทางจากฝั่งลาว แต่ยังไม่มีข้อสรุปที่เป็นที่ยอมรับร่วมกัน",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "Wikimedia Commons — J A Forbes, 'Beung Fai Phraya Nag' (CC BY-SA 4.0)",
+          "url": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(183)_ball.JPG"
+        },
+        {
+          "name": "Wikipedia — Naga fireball",
+          "url": "https://en.wikipedia.org/wiki/Naga_fireball"
+        }
+      ],
+      "photos": [
+        {
+          "src": "img/commons/naga-183.jpg",
+          "alt": "Pinkish ball of light above a riverbank at night, photographed in Nong Khai, 19 October 2013",
+          "credit": "Photo: J A Forbes, 19 Oct 2013, near Nong Khai / the Mekong. Licence: CC BY-SA 4.0. Source: Wikimedia Commons.",
+          "page": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(183)_ball.JPG",
+          "kind": "source_photo"
+        },
+        {
+          "src": "img/commons/naga-187.jpg",
+          "alt": "Another frame of a Naga fireball over the Mekong, 19 October 2013",
+          "credit": "Photo: J A Forbes, 19 Oct 2013. Licence: CC BY-SA 4.0. Source: Wikimedia Commons.",
+          "page": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(187)_ball.JPG",
+          "kind": "source_photo"
+        }
+      ],
+      "media_in_source": true,
+      "case_no": "TH-0029",
+      "year": 2013
+    },
+    {
+      "id": "nuforc-103372",
+      "title": "Five bright lights over Chaweng Beach",
+      "title_th": "แสงสว่างห้าดวงเหนือหาดเฉวง",
+      "date": "2013-10-19",
+      "date_label": "19 October 2013, 22:00",
+      "date_precision": "day",
+      "time_local": "22:00",
+      "location_name": "Koh Samui (Thailand)",
+      "location_name_th": "เกาะสมุย จังหวัดสุราษฎร์ธานี",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.512,
+      "lng": 100.013,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 19 October 2013 at 22:00 a witness reported five bright lights above Chaweng Beach, Koh Samui. The date is the same night as the annual Naga-fireball festival further north, but this report is a separate island sighting and is not assumed to be the same phenomenon.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=103372"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "103372",
+      "explanation": null,
+      "case_no": "TH-0030",
+      "year": 2013
+    },
+    {
+      "id": "nuforc-107662",
+      "title": "Geometric lights over Erawan, Loei, in daylight",
+      "title_th": "แสงเรขาคณิตเหนือตำบลเอราวัณ จังหวัดเลย กลางวัน",
+      "date": "2014-03-06",
+      "date_label": "6 March 2014, 11:15",
+      "date_precision": "day",
+      "time_local": "11:15",
+      "location_name": "Erawan (Muang Loei)(Thailand)",
+      "location_name_th": "ตำบลเอราวัณ อำเภอเมืองเลย",
+      "province": "Loei",
+      "province_th": "เลย",
+      "lat": 17.486,
+      "lng": 101.722,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "cylinder_other",
+      "shape": "Rectangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 6 March 2014 at 11:15 a witness in Erawan, Mueang Loei, reported geometric lights over north-east Thailand.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=107662"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "107662",
+      "explanation": null,
+      "case_no": "TH-0031",
+      "year": 2014
+    },
+    {
+      "id": "nuforc-118167",
+      "title": "A billboard-like white light at Ban Krut",
+      "title_th": "แสงขาวคล้ายป้ายไฟที่บ้านกรูด",
+      "date": "2015-03-10",
+      "date_label": "10 March 2015, 06:00",
+      "date_precision": "day",
+      "time_local": "06:00",
+      "location_name": "Ban Krut (Thailand)",
+      "location_name_th": "บ้านกรูด จังหวัดประจวบคีรีขันธ์",
+      "province": "Prachuap Khiri Khan",
+      "province_th": "ประจวบคีรีขันธ์",
+      "lat": 11.323,
+      "lng": 99.548,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "cylinder_other",
+      "shape": "Rectangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 10 March 2015 at 06:00 a witness at Ban Krut, Prachuap Khiri Khan, described a billboard of white light.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=118167"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "118167",
+      "explanation": null,
+      "case_no": "TH-0032",
+      "year": 2015
+    },
+    {
+      "id": "khao-kala-2015",
+      "title": "Khao Kala, Nakhon Sawan — a long-running UFO community",
+      "title_th": "เขากะลา นครสวรรค์ — ชุมชนที่เล่าถึงจานบินมานาน",
+      "date": "2015-05-24",
+      "date_label": "Feature published 24 May 2015 (individual encounters often undated)",
+      "date_precision": "month",
+      "time_local": null,
+      "location_name": "Khao Kala (Hill 145), Nakhon Sawan",
+      "location_name_th": "เขากะลา (เนิน 145) จังหวัดนครสวรรค์",
+      "province": "Nakhon Sawan",
+      "province_th": "นครสวรรค์",
+      "lat": 15.523,
+      "lng": 100.125,
+      "coord_precision": "area",
+      "coord_note": "Geocoded to the Khao Kala area of Nakhon Sawan, the hill named in the Bangkok Post feature.",
+      "category": "disc",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "A newspaper feature collecting local testimony, not a single dated, instrumented sighting. Dates of several encounters are not given. This is a documented hotspot of claims, not verified evidence of craft.",
+      "summary": "A Bangkok Post investigation described the village around Khao Kala, or Hill 145, in Nakhon Sawan as a well-known gathering place for people who say they see lights and disc-shaped objects and, in some cases, meditate to contact them. The article quotes a girl who recalled an 'upside-down wok' in the morning sky, a man who described a bright orange-centred rotating object, and a neighbour who said a quiet, light-covered object came close one evening and then sped away. Almost every house the reporter visited in the village had some unexplained-sky story. The accounts are presented here as media-reported testimony, not as confirmed events with firm dates.",
+      "summary_th": "บทความพิเศษของบางกอกโพสต์บรรยายหมู่บ้านรอบเขากะลาหรือเนิน 145 จังหวัดนครสวรรค์ ว่าเป็นจุดรวมตัวของผู้ที่เล่าว่าเห็นแสงและวัตถุคล้ายจานบิน และบางคนนั่งสมาธิเพื่อติดต่อ บทความอ้างคำบอกเล่าของเด็กที่เห็นวัตถุคล้ายกระทะคว่ำในฟ้าเช้า คนที่เห็นวัตถุกลมมีแสงส้มหมุน และเพื่อนบ้านที่เล่าวัตถุเงียบมีไฟเข้ามาใกล้แล้วพุ่งหนี ผู้สื่อข่าวระบุว่าเกือบทุกบ้านในหมู่บ้านมีเรื่องบนฟ้าที่อธิบายไม่ได้ ไฟล์นี้เป็นคำบอกเล่าที่สื่อรายงาน ไม่ใช่เหตุการณ์ที่ยืนยันวันเวลาได้อย่างแน่นหนา",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "Bangkok Post — The truth is out there ... in Nakhon Sawan",
+          "url": "https://www.bangkokpost.com/thailand/special-reports/570855/the-truth-is-out-there-in-nakhon-sawan"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0033",
+      "year": 2015
+    },
+    {
+      "id": "fireball-2015-09-07",
+      "title": "Daylight fireball over Bangkok, Korat and Kanchanaburi",
+      "title_th": "ลูกไฟกลางวันเหนือกรุงเทพฯ นครราชสีมา และกาญจนบุรี",
+      "date": "2015-09-07",
+      "date_label": "7 September 2015, about 08:40",
+      "date_precision": "day",
+      "time_local": "08:40",
+      "location_name": "Bangkok (also reported in Nakhon Ratchasima and Kanchanaburi)",
+      "location_name_th": "กรุงเทพมหานคร (มีรายงานจากนครราชสีมาและกาญจนบุรีด้วย)",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Widely seen; the pin is in Bangkok, where many street-level reports were filed. The object was estimated 80–120 km up, so it was not over a single neighbourhood.",
+      "category": "fireball",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "A well-documented, multi-province event. Officials did not all name the same object, but they agreed it was a natural or orbital re-entry fireball, not an unknown craft.",
+      "summary": "A bright fireball with a smoke trail crossed the northern sky of Bangkok around 08:40, and people in Nakhon Ratchasima and Kanchanaburi reported the same light. Videos spread quickly. The National Astronomical Research Institute of Thailand studied the clips and put the object 80 to 120 kilometres up. Officials left open whether it was a meteor or space junk; a tracking site listed a Planet Labs CubeSat as due to re-enter near that time.",
+      "summary_th": "ลูกไฟสว่างพร้อมรอยควันพาดท้องฟ้าด้านเหนือของกรุงเทพฯ ราว 08.40 น. และมีผู้เห็นที่นครราชสีมาและกาญจนบุรี สดร. ตรวจคลิปแล้วประเมินว่าวัตถุอยู่สูง 80–120 กิโลเมตร โดยยังไม่ชี้ขาดว่าเป็นดาวตกหรือขยะอวกาศ และมีข้อมูลจากเว็บติดตามดาวเทียมว่าชิ้นส่วน Flock 1B-11 กำหนดเผาไหม้ราวเวลานั้น",
+      "explanation": "Likely a meteor or decaying space debris. NARIT examined clips and estimated an altitude of 80–120 km. The site satview.org listed Planet Labs Flock 1B-11 (object 40459U) as due to re-enter around that time. A Bangkok Planetarium official also mentioned a burning balloon as a less favoured idea. Astronomer Phil Plait publicly described it as a rock burning up.",
+      "explanation_th": "มีโอกาสสูงว่าเป็นดาวตกหรือเศษซากอวกาศ สดร. ตรวจคลิปแล้วประมาณว่าอยู่สูง 80–120 กม. เว็บ satview.org ระบุว่าชิ้นส่วน Flock 1B-11 (40459U) กำหนดเผาไหม้ในบรรยากาศราวเวลานั้น เจ้าหน้าที่ท้องฟ้าจำลองกรุงเทพฯ เคยเสนอว่าอาจเป็นบอลลูนไหม้ นักดาราศาสตร์ฟิล เพลต กล่าวว่าน่าจะเป็นหินที่เผาไหม้ในบรรยากาศ",
+      "sources": [
+        {
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/thailand/general/683596/fireball-hurtles-over-thailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0034",
+      "year": 2015
+    },
+    {
+      "id": "naga-2015",
+      "title": "Naga fireballs, Nong Khai — police tally of 759 lights",
+      "title_th": "บั้งไฟพญานาคหนองคาย — สถิติตำรวจ 759 ลูก",
+      "date": "2015-10-27",
+      "date_label": "27 October 2015, from 18:16",
+      "date_precision": "day",
+      "time_local": "18:16",
+      "location_name": "Phon Phisai and Rattanawapi, Nong Khai",
+      "location_name_th": "อำเภอโพนพิสัยและรัตนวาปี จังหวัดหนองคาย",
+      "province": "Nong Khai",
+      "province_th": "หนองคาย",
+      "lat": 18.111,
+      "lng": 103.128,
+      "coord_precision": "area",
+      "coord_note": "Placed between the two main viewing districts named in the reports, Phon Phisai and Rattanawapi.",
+      "category": "naga_fireballs",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "Covered the same night by Manager Online, citing a Nong Khai provincial police information centre tally described as unofficial.",
+      "summary": "On Wan Ok Phansa in 2015, crowds waited along the Mekong in Rattanawapi and Phon Phisai. The first group of lights — 33 balls — was reported at 18:16 at Ban Phon Phaeng in Rattanawapi. By 19:45 reporters had counted 585. A later Manager Online story said the provincial police information centre's unofficial tally from 18:16 to 22:00 reached 759 balls, spread across Mueang Nong Khai, Phon Phisai and Rattanawapi, with Ban Phon Phaeng among the busiest spots.",
+      "summary_th": "ในวันออกพรรษาปี 2558 ผู้คนรอชมบั้งไฟพญานาคที่อำเภอรัตนวาปีและโพนพิสัย ชุดแรก 33 ลูกปรากฏเวลา 18.16 น. ที่บ้านโพนแพง อ.รัตนวาปี ถึงเวลา 19.45 น. สื่อนับได้ 585 ลูก ข่าวผู้จัดการออนไลน์ฉบับหลังระบุว่าศูนย์ข้อมูลกองกำกับการตำรวจภูธรจังหวัดหนองคายรวบรวมสถิติอย่างไม่เป็นทางการตั้งแต่ 18.16–22.00 น. ได้ 759 ลูก ในพื้นที่เมืองหนองคาย โพนพิสัย และรัตนวาปี",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "Manager Online (27 Oct 2015)",
+          "url": "https://mgronline.com/local/detail/9580000120100"
+        },
+        {
+          "name": "Manager Online (updated tally)",
+          "url": "https://mgronline.com/local/detail/9580000120165"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0035",
+      "year": 2015
+    },
+    {
+      "id": "fireball-2015-11-02",
+      "title": "Suspected meteor over many Thai provinces",
+      "title_th": "วัตถุต้องสงสัยว่าเป็นดาวตกเหนือหลายจังหวัด",
+      "date": "2015-11-02",
+      "date_label": "2 November 2015, about 20:35",
+      "date_precision": "day",
+      "time_local": "20:35",
+      "location_name": "Bangkok and several provinces",
+      "location_name_th": "กรุงเทพมหานครและหลายจังหวัด",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Seen from Bangkok, Chon Buri, Ratchaburi, Kanchanaburi, Khon Kaen, Nakhon Pathom and elsewhere. The pin is in Bangkok as a representative location for a high-altitude fireball.",
+      "category": "fireball",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Multi-province videos and an immediate statement from the Thai Astronomical Society.",
+      "summary": "Around 20:35 a large ball of fire was seen from Bangkok, Chon Buri, Ratchaburi, Kanchanaburi, Khon Kaen, Nakhon Pathom and other provinces. The Thai Astronomical Society said shortly afterwards that the object was expected to be a meteor.",
+      "summary_th": "ราว 20.35 น. มีลูกไฟขนาดใหญ่ให้เห็นจากกรุงเทพฯ ชลบุรี ราชบุรี กาญจนบุรี ขอนแก่น นครปฐม และจังหวัดอื่น สมาคมดาราศาสตร์ไทยแถลงไม่นานหลังจากนั้นว่าคาดว่าเป็นดาวตก",
+      "explanation": "The Thai Astronomical Society said it was expected to be a meteor. This was a few hours after dusk on 2 November, during the period of the Taurid meteor shower.",
+      "explanation_th": "สมาคมดาราศาสตร์ไทยระบุว่าคาดว่าเป็นดาวตก เหตุเกิดช่วงค่ำวันที่ 2 พฤศจิกายน ซึ่งอยู่ในช่วงฝนดาวตกทอริดส์",
+      "sources": [
+        {
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/thailand/general/751972/suspected-meteor-lights-up-thai-skies"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0036",
+      "year": 2015
+    },
+    {
+      "id": "nuforc-124977",
+      "title": "A bright, stationary 'orbiting' object on New Year's morning — maybe a planet",
+      "title_th": "วัตถุสว่างนิ่งคล้ายวงโคจรเช้าวันปีใหม่ — อาจเป็นดาวเคราะห์",
+      "date": "2016-01-01",
+      "date_label": "1 January 2016, 00:03",
+      "date_precision": "day",
+      "time_local": "00:03",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Orb",
+      "credibility": "explained",
+      "credibility_note": "A NUFORC editor suggested a planet near the Moon.",
+      "summary": "Just after midnight on 1 January 2016 a Bangkok witness described a bright, stationary object that appeared to be in orbit. A NUFORC editor's note asks whether it was a planet near the Moon.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=124977"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "124977",
+      "explanation": null,
+      "case_no": "TH-0037",
+      "year": 2016
+    },
+    {
+      "id": "nuforc-128584",
+      "title": "Five teardrop objects in a delta over Bangkok in a storm",
+      "title_th": "วัตถุรูปหยดน้ำห้าชิ้นเรียงสามเหลี่ยมเหนือกรุงเทพฯ ขณะพายุ",
+      "date": "2016-07-18",
+      "date_label": "18 July 2016, 20:00",
+      "date_precision": "day",
+      "time_local": "20:00",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "disc",
+      "shape": "Teardrop",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 18 July 2016 at 20:00, during a heavy thunderstorm, a visitor in Bangkok reported five teardrop- or fang-shaped objects in a delta formation.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=128584"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "128584",
+      "explanation": null,
+      "case_no": "TH-0038",
+      "year": 2016
+    },
+    {
+      "id": "nuforc-134659",
+      "title": "An unidentified object from a patio near Chiang Rai airport",
+      "title_th": "วัตถุไม่ทราบชนิดจากระเบียงบ้านใกล้สนามบินเชียงราย",
+      "date": "2017-06-18",
+      "date_label": "18 June 2017, 20:08",
+      "date_precision": "day",
+      "time_local": "20:08",
+      "location_name": "Chiang Rai (Thailand)",
+      "location_name_th": "เชียงราย",
+      "province": "Chiang Rai",
+      "province_th": "เชียงราย",
+      "lat": 19.9072,
+      "lng": 99.8308,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Unknown",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 18 June 2017 around 20:08 a witness grilling on a patio near Chiang Rai, and used to ordinary airport traffic, reported something they could not immediately identify in the dark sky. The public index line is truncated.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=134659"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "134659",
+      "explanation": null,
+      "case_no": "TH-0039",
+      "year": 2017
+    },
+    {
+      "id": "rocket-ubon-2017",
+      "title": "Streak, mid-air boom, then metal debris in Khong Chiam",
+      "title_th": "ลำแสง เสียงระเบิดกลางอากาศ แล้วพบเศษโลหะที่โขงเจียม",
+      "date": "2017-11-15",
+      "date_label": "15 November 2017, about 02:00",
+      "date_precision": "day",
+      "time_local": "02:00",
+      "location_name": "Na Pho Klang, Khong Chiam, Ubon Ratchathani",
+      "location_name_th": "ตำบลนาโพธิ์กลาง อำเภอโขงเจียม จังหวัดอุบลราชธานี",
+      "province": "Ubon Ratchathani",
+      "province_th": "อุบลราชธานี",
+      "lat": 15.348,
+      "lng": 105.518,
+      "coord_precision": "area",
+      "coord_note": "Geocoded to tambon Na Pho Klang, Khong Chiam, where debris was collected from four villages along the Thai–Lao border.",
+      "category": "rocket_reentry_starlink",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Physical debris was recovered and examined; the identification comes from a named expert quoted in contemporaneous news.",
+      "summary": "About 02:00 on 15 November 2017, people living along the Thai–Lao border saw a long streak of light, then heard a mid-air explosion across several districts of Ubon Ratchathani. At dawn, metal fragments were found in four villages of tambon Na Pho Klang, Khong Chiam. After inspection, a Thai space expert said the pieces were from an orbital launch vehicle.",
+      "summary_th": "ราว 02.00 น. ของวันที่ 15 พฤศจิกายน 2560 ชาวบ้านตามแนวชายแดนไทย–ลาวเห็นลำแสงพุ่งยาว แล้วได้ยินเสียงระเบิดกลางอากาศในหลายอำเภอของอุบลราชธานี รุ่งเช้าพบเศษโลหะในสี่หมู่บ้านของตำบลนาโพธิ์กลาง อ.โขงเจียม ผู้เชี่ยวชาญด้านอวกาศของไทยระบุหลังจากตรวจสอบว่าเป็นชิ้นส่วนจรวดส่งยานขึ้นสู่วงโคจร",
+      "explanation": "A Thai space specialist who inspected the wreckage identified it as part of a launch vehicle used to place a craft into orbit — space debris — not a mystery aircraft.",
+      "explanation_th": "ผู้เชี่ยวชาญด้านอวกาศของไทยที่ตรวจชิ้นส่วนระบุว่าเป็นชิ้นส่วนจรวดส่งยานขึ้นสู่วงโคจร หรือขยะอวกาศ ไม่ใช่ยานปริศนา",
+      "sources": [
+        {
+          "name": "Manager Online",
+          "url": "https://mgronline.com/local/detail/9600000115927"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0040",
+      "year": 2017
+    },
+    {
+      "id": "nuforc-143648",
+      "title": "A triangle over Pattaya that the witnesses said was not a plane",
+      "title_th": "วัตถุสามเหลี่ยมเหนือพัทยา ที่ผู้เห็นย้ำว่าไม่ใช่เครื่องบิน",
+      "date": "2018-11-02",
+      "date_label": "2 November 2018, 21:30",
+      "date_precision": "day",
+      "time_local": "21:30",
+      "location_name": "Pattaya (Thailand)",
+      "location_name_th": "พัทยา จังหวัดชลบุรี",
+      "province": "Chon Buri",
+      "province_th": "ชลบุรี",
+      "lat": 12.9236,
+      "lng": 100.8825,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "triangle",
+      "shape": "Triangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 2 November 2018 at 21:30 Pattaya witnesses who said they regularly see airliners from Bangkok and U-Tapao reported a craft they insisted did not look like a plane.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=143648"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "143648",
+      "explanation": null,
+      "case_no": "TH-0041",
+      "year": 2018
+    },
+    {
+      "id": "nuforc-154794",
+      "title": "A low, quiet triangle gliding over Bangkok",
+      "title_th": "สามเหลี่ยมบินต่ำ เสียงเบากล้ายไถลเหนือกรุงเทพฯ",
+      "date": "2020-04-04",
+      "date_label": "4 April 2020, 19:23",
+      "date_precision": "day",
+      "time_local": "19:23",
+      "location_name": "Bangkok (Thailand)",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "triangle",
+      "shape": "Triangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 4 April 2020 at 19:23 a Bangkok witness described a low-flying triangular object just under low cloud, without the usual jet sound, gliding from the south-west toward the east. Lights were a dull off-white, not flashing.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=154794"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "154794",
+      "explanation": null,
+      "case_no": "TH-0042",
+      "year": 2020
+    },
+    {
+      "id": "nuforc-157040",
+      "title": "A fast, silent object estimated tens of metres long over Koh Samui",
+      "title_th": "วัตถุเงียบเคลื่อนเร็ว ประมาณยาวหลายเมตรเหนือเกาะสมุย",
+      "date": "2020-06-14",
+      "date_label": "14 June 2020, 20:00",
+      "date_precision": "day",
+      "time_local": "20:00",
+      "location_name": "Koh Samui (Thailand)",
+      "location_name_th": "เกาะสมุย จังหวัดสุราษฎร์ธานี",
+      "province": "Surat Thani",
+      "province_th": "สุราษฎร์ธานี",
+      "lat": 9.512,
+      "lng": 100.013,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Unknown",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 14 June 2020 at 20:00 a Koh Samui witness described an object flying south-west to north-east, estimated under 1,000 feet up, very fast, silent, and perhaps 10–20 metres long.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=157040"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "157040",
+      "explanation": null,
+      "case_no": "TH-0043",
+      "year": 2020
+    },
+    {
+      "id": "chiangmai-lantern-2020",
+      "title": "Dark oval over Doi Suthep — NARIT says a sky lantern",
+      "title_th": "วัตถุสีเข้มเหนือดอยสุเทพ — สดร. ชี้เป็นโคมลอย",
+      "date": "2020-10-08",
+      "date_label": "8 October 2020, afternoon",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Chiang Mai, toward Doi Suthep",
+      "location_name_th": "เชียงใหม่ ทิศทางดอยสุเทพ",
+      "province": "Chiang Mai",
+      "province_th": "เชียงใหม่",
+      "lat": 18.805,
+      "lng": 98.922,
+      "coord_precision": "area",
+      "coord_note": "Geocoded toward Doi Suthep, the landmark named in the circulating video and in NARIT's note.",
+      "category": "light_orb",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "A widely shared video, followed the next day by a public technical note from Thailand's national astronomy institute.",
+      "summary": "A video of a dark oval object above Chiang Mai, apparently toward Doi Suthep, circulated on 8 October 2020 and was widely called a UFO. The next day NARIT, the National Astronomical Research Institute of Thailand, said the object looked nearby, slow and solid black rather than washed out by distance, and was most likely a sky lantern.",
+      "summary_th": "คลิปวัตถุสีเข้มรูปไข่เหนือเมืองเชียงใหม่ คล้ายทิศดอยสุเทพ แพร่กระจายเมื่อ 8 ตุลาคม 2563 และถูกเรียกกันว่ายูเอฟโอ วันต่อมาสถาบันวิจัยดาราศาสตร์แห่งชาติระบุว่าวัตถุดูใกล้ พื้นดิน เคลื่อนช้า และสีดำทึบ จึงน่าจะเป็นโคมลอย",
+      "explanation": "NARIT concluded the object was most likely a floating sky lantern: it was dark, not sky-coloured, apparently close to the ground, and moved slowly — consistent with lantern releases common in the area, not a distant craft.",
+      "explanation_th": "สดร. สรุปว่าวัตถุน่าจะเป็นโคมลอย เพราะมีสีดำไม่กลืนกับฟ้า ลอยค่อนข้างต่ำ และเคลื่อนที่ช้า ซึ่งสอดคล้องกับการปล่อยโคมในพื้นที่ ไม่ใช่ยานที่อยู่ไกล",
+      "sources": [
+        {
+          "name": "Thai PBS, citing NARIT",
+          "url": "https://www.thaipbs.or.th/news/content/297215"
+        }
+      ],
+      "photos": [
+        {
+          "src": "img/illustrations/radar-disc.png",
+          "alt": "Stylized illustration of a night-sky object over a radar scope",
+          "credit": "Illustration only — not evidence, and not a frame from the 2020 video. Generated for this archive.",
+          "kind": "illustration"
+        }
+      ],
+      "media_in_source": true,
+      "case_no": "TH-0044",
+      "year": 2020
+    },
+    {
+      "id": "iss-prachuap-2021",
+      "title": "Slow bright object over Prachuap Khiri Khan — the ISS",
+      "title_th": "วัตถุสว่างเคลื่อนช้าเหนือประจวบคีรีขันธ์ — สถานีอวกาศนานาชาติ",
+      "date": "2021-01-13",
+      "date_label": "13 January 2021, night",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Mueang Prachuap Khiri Khan",
+      "location_name_th": "อำเภอเมืองประจวบคีรีขันธ์",
+      "province": "Prachuap Khiri Khan",
+      "province_th": "ประจวบคีรีขันธ์",
+      "lat": 11.811,
+      "lng": 99.797,
+      "coord_precision": "area",
+      "coord_note": "Geocoded to Mueang district, Prachuap Khiri Khan, as named in The Nation's report.",
+      "category": "rocket_reentry_starlink",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Identified the same evening by a local science park that tracks passes.",
+      "summary": "Residents of Mueang Prachuap Khiri Khan watched a bright, slowly moving object just above the horizon heading northeast and took it for something unknown. Later that night the nearby King Mongkut Memorial Park of Science and Technology said the International Space Station had just crossed the country.",
+      "summary_th": "ชาวอำเภอเมืองประจวบคีรีขันธ์เห็นวัตถุสว่างเคลื่อนช้าเหนือขอบฟ้าไปทางตะวันออกเฉียงเหนือ จึงสงสัยว่าเป็นวัตถุปริศนา ต่อมาในคืนเดียวกันอุทยานวิทยาศาสตร์ ณ หว้ากอชี้แจงว่าเป็นสถานีอวกาศนานาชาติที่เพิ่งเคลื่อนผ่านประเทศไทย",
+      "explanation": "King Mongkut Memorial Park of Science and Technology (Wa Ko) said the International Space Station had passed southwest to northeast over Indonesia, Thailand and Cambodia that evening, brighter than nearby stars, at about 7.66 km/s, with seven astronauts aboard.",
+      "explanation_th": "อุทยานวิทยาศาสตร์ ณ หว้ากอ ระบุว่าสถานีอวกาศนานาชาติเคลื่อนจากตะวันตกเฉียงใต้ไปตะวันออกเฉียงเหนือ ผ่านอินโดนีเซีย ไทย และกัมพูชาในค่ำนั้น สว่างกว่าดาวใกล้เคียง ด้วยความเร็วประมาณ 7.66 กม./วินาที และมีนักบินอวกาศ 7 คนอยู่บนสถานี",
+      "sources": [
+        {
+          "name": "The Nation",
+          "url": "https://www.nationthailand.com/in-focus/30401240"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0045",
+      "year": 2021
+    },
+    {
+      "id": "krabi-2021-balloon",
+      "title": "Dark bus-sized object over Krabi town — possible weather balloon",
+      "title_th": "วัตถุสีเข้มขนาดราวรถบัสเหนือเมืองกระบี่ — อาจเป็นบอลลูนตรวจอากาศ",
+      "date": "2021-06",
+      "date_label": "June 2021 (report published 19 June 2021; exact sighting day not stated)",
+      "date_precision": "month",
+      "time_local": null,
+      "location_name": "Pak Nam, Mueang Krabi (activity field by the municipality office)",
+      "location_name_th": "ตำบลปากน้ำ อำเภอเมืองกระบี่ (ลานกิจกรรมใกล้สำนักงานเทศบาล)",
+      "province": "Krabi",
+      "province_th": "กระบี่",
+      "lat": 8.0863,
+      "lng": 98.9063,
+      "coord_precision": "area",
+      "coord_note": "Geocoded to Pak Nam, Mueang Krabi, the neighbourhood named in the Thai News report.",
+      "category": "disc",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "About ten model-aircraft hobbyists reported a shared daytime sighting. The most common expert view was a weather balloon, but it was not photographed with enough detail for a laboratory identification.",
+      "summary": "Hobbyists flying model aircraft at a field beside Krabi's municipal office described a silent, dark object about the size of a bus, roughly a kilometre up, that hung for three or four minutes and then faded. The story spread on 19 June 2021. Several university scientists publicly favoured a weather balloon; one noted that 'UFO' only means the object had not yet been identified.",
+      "summary_th": "กลุ่มผู้เล่นเครื่องบินบังคับที่ลานข้างสำนักงานเทศบาลเมืองกระบี่เล่าว่าเห็นวัตถุสีเข้มเงียบ กรขนาดราวรถบัส สูงประมาณหนึ่งกิโลเมตร ลอยนิ่งสามถึงสี่นาทีแล้วจางหาย ข่าวนี้ออกเมื่อ 19 มิถุนายน 2564 นักวิทยาศาสตร์หลายคนเสนอว่าเป็นบอลลูนตรวจอากาศ และมีผู้ย้ำว่าคำว่า UFO ในที่นี้หมายถึงยังระบุไม่ได้",
+      "explanation": "Chulalongkorn physicists suggested a weather balloon or small helicopter, noting the site is not far from an airport and that a pale balloon can look black in backlight. Jessada Denduangboripant also leaned toward a weather balloon. Another academic, Weerachai Phutdhawong, said that until it was identified it remained a UFO in the literal sense — unidentified — not that it was alien.",
+      "explanation_th": "นักฟิสิกส์จุฬาฯ เสนอว่าอาจเป็นบอลลูนตรวจอากาศหรือเฮลิคอปเตอร์ขนาดเล็ก เพราะอยู่ไม่ไกลสนามบิน และบอลลูนสีอ่อนอาจดูดำเมื่อถ่ายย้อนแสง อาจารย์เจษฎาโน้มไปทางบอลลูนเช่นกัน ส่วนอาจารย์วีรชัยระบุว่าตอนนั้นยังเรียกว่า UFO ได้ในความหมายว่ายังระบุไม่ได้ ไม่ได้หมายความว่าเป็นยานต่างดาว",
+      "sources": [
+        {
+          "name": "Thai News Online",
+          "url": "https://www.thainewsonline.co/news/816816"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0046",
+      "year": 2021
+    },
+    {
+      "id": "naga-2021",
+      "title": "Naga fireballs, Nong Khai — official count of 600",
+      "title_th": "บั้งไฟพญานาคหนองคาย — ยอดทางการ 600 ลูก",
+      "date": "2021-10-21",
+      "date_label": "21 October 2021 (15th waxing day of the 11th lunar month)",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Nong Khai (Mekong)",
+      "location_name_th": "จังหวัดหนองคาย (แม่น้ำโขง)",
+      "province": "Nong Khai",
+      "province_th": "หนองคาย",
+      "lat": 17.8782,
+      "lng": 102.7413,
+      "coord_precision": "province",
+      "coord_note": "The BBC Thai report gives a province-wide official total, not a single viewing point.",
+      "category": "naga_fireballs",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "BBC Thai cited the province's official record for the 2021 festival. A later dispute about what the lights are does not change the fact that lights were officially counted that night.",
+      "summary": "BBC Thai reported that Nong Khai's official record for the 2021 Ok Phansa festival, held on 21 October, listed 600 fireballs rising from the Mekong. The same article discussed a public argument between a sceptic Facebook page and the provincial administration about whether the lights are a natural or man-made effect. This file records the official count, not a verdict on the cause.",
+      "summary_th": "บีบีซีไทยรายงานว่าบันทึกทางการของจังหวัดหนองคายในงานวันออกพรรษา 21 ตุลาคม 2564 ระบุว่ามีลูกไฟลอยขึ้นจากแม่น้ำโขง 600 ลูก บทความเดียวกันกล่าวถึงข้อถกเถียงระหว่างเพจที่พยายามพิสูจน์ปรากฏการณ์กับทางจังหวัดว่าแสงนี้เป็นธรรมชาติหรือมนุษย์ทำให้เกิด ไฟล์นี้บันทึกยอดทางการ ไม่ได้ชี้ขาดสาเหตุ",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "BBC Thai",
+          "url": "https://www.bbc.com/thai/thailand-59048224"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0047",
+      "year": 2021
+    },
+    {
+      "id": "phitsanulok-fireball-2021",
+      "title": "Green fireball and a boom over the lower north",
+      "title_th": "ลูกไฟสีเขียวและเสียงดังเหนือภาคเหนือตอนล่าง",
+      "date": "2021-11-03",
+      "date_label": "3 November 2021, about 19:25",
+      "date_precision": "day",
+      "time_local": "19:25",
+      "location_name": "Phitsanulok (also seen in several neighbouring provinces)",
+      "location_name_th": "พิษณุโลก (มีผู้เห็นในจังหวัดใกล้เคียงด้วย)",
+      "province": "Phitsanulok",
+      "province_th": "พิษณุโลก",
+      "lat": 16.8211,
+      "lng": 100.2659,
+      "coord_precision": "area",
+      "coord_note": "Many provinces saw the same high-altitude fireball. The pin is in Phitsanulok, the province named in the Thairath headline and several dashcam clips.",
+      "category": "fireball",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Multi-province dashcam clips plus a NARIT explanation the same week.",
+      "summary": "At about 19:25 on 3 November 2021 a large green fireball was seen over Phitsanulok, Uttaradit, Phetchabun, Loei, Udon Thani, Nong Khai, Khon Kaen and Kamphaeng Phet, with a boom lasting several seconds. NARIT said it was a bolide and that debris had almost certainly burned up.",
+      "summary_th": "ราว 19.25 น. ของวันที่ 3 พฤศจิกายน 2564 มีลูกไฟสีเขียวขนาดใหญ่ให้เห็นที่พิษณุโลก อุตรดิตถ์ เพชรบูรณ์ เลย อุดรธานี หนองคาย ขอนแก่น และกำแพงเพชร พร้อมเสียงดังคล้ายระเบิดหลายวินาที สดร. ชี้ว่าเป็นดาวตกชนิดลูกไฟ และชิ้นส่วนน่าจะไหม้หมดในบรรยากาศ",
+      "explanation": "NARIT said the object was a fireball (bolide) — a bright meteor — and that any fragments had likely already burned to dust. The date falls near the Taurid and approaching Leonid showers. No ground damage was reported.",
+      "explanation_th": "สดร. ระบุว่าเป็นดาวตกชนิดลูกไฟ (ไฟร์บอล) และชิ้นส่วนน่าจะไหม้เป็นฝุ่นในบรรยากาศแล้ว วันดังกล่าวใกล้ช่วงฝนดาวตกทอริดส์และใกล้ลีโอนิดส์ ไม่มีรายงานความเสียหายบนพื้น",
+      "sources": [
+        {
+          "name": "Thairath",
+          "url": "https://www.thairath.co.th/news/local/north/2235765"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0048",
+      "year": 2021
+    },
+    {
+      "id": "prachuap-balloon-2022",
+      "title": "Star-like object over Prachuap — a weather balloon",
+      "title_th": "วัตถุคล้ายดาวเหนือประจวบฯ — บอลลูนตรวจอากาศ",
+      "date": "2022-04-16",
+      "date_label": "16 April 2022, morning",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Bang Saphan Noi to Mueang Prachuap Khiri Khan",
+      "location_name_th": "จากบางสะพานน้อยถึงเมืองประจวบคีรีขันธ์",
+      "province": "Prachuap Khiri Khan",
+      "province_th": "ประจวบคีรีขันธ์",
+      "lat": 11.4,
+      "lng": 99.6,
+      "coord_precision": "area",
+      "coord_note": "Seen along a stretch from Bang Saphan Noi to Mueang. The pin is between those districts.",
+      "category": "light_orb",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Identified visually through a telescope by a local professional astronomy team the same morning.",
+      "summary": "On the morning of 16 April 2022, people from Bang Saphan Noi to Mueang Prachuap Khiri Khan shared clips of a star-like object in the northwest sky that some called a UFO. The astronomy team at Wa Ko Science Park observed a white sphere with a hanging line and almost no motion, and identified a weather balloon.",
+      "summary_th": "เช้าวันที่ 16 เมษายน 2565 มีผู้แชร์คลิปวัตถุคล้ายดาวทางทิศตะวันตกเฉียงเหนือตั้งแต่บางสะพานน้อยถึงเมืองประจวบคีรีขันธ์ ทีมดาราศาสตร์อุทยานวิทยาศาสตร์ ณ หว้ากอสังเกตเห็นทรงกลมสีขาวมีเชือกห้อยและแทบไม่เคลื่อน จึงสรุปว่าเป็นบอลลูนตรวจอากาศ",
+      "explanation": "Astronomers at Wa Ko Science Park viewed it through a telescope: a white sphere, not twinkling, with a hanging cord, and almost stationary. They ruled out a star or planet (no twinkle, no telescopic features), a satellite or the ISS (too still, and not reported in other provinces), and a sky lantern (shape and size). They identified a meteorological weather balloon.",
+      "explanation_th": "นักดาราศาสตร์ที่อุทยานวิทยาศาสตร์หว้ากอมองผ่านกล้องโทรทรรศน์เห็นทรงกลมสีขาว ไม่กระพริบ มีเชือกห้อย และแทบไม่เคลื่อนที่ จึงตัดดาวฤกษ์ ดาวเคราะห์ สถานีอวกาศ ดาวเทียม และลูกโป่งสวรรค์ออก และสรุปว่าเป็นบอลลูนตรวจอากาศ",
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "url": "https://www.thaipbs.or.th/news/content/314665"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0049",
+      "year": 2022
+    },
+    {
+      "id": "naga-2022",
+      "title": "Naga fireballs, Nong Khai — unofficial count of 63",
+      "title_th": "บั้งไฟพญานาคหนองคาย — ยอดไม่เป็นทางการ 63 ลูก",
+      "date": "2022-10-10",
+      "date_label": "10 October 2022 (Ok Phansa)",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Nong Khai (Mekong)",
+      "location_name_th": "จังหวัดหนองคาย (แม่น้ำโขง)",
+      "province": "Nong Khai",
+      "province_th": "หนองคาย",
+      "lat": 17.8782,
+      "lng": 102.7413,
+      "coord_precision": "province",
+      "coord_note": "Province-level unofficial total; no single viewing point is isolated in the source.",
+      "category": "naga_fireballs",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "The Thaiger report described the 63-ball figure as unofficial.",
+      "summary": "The Thaiger reported that on Ok Phansa, 10 October 2022, Nong Khai's unofficial count of Naga fireballs was 63 — a quieter night than several surrounding years. The outlet noted that some viewing continued the following day.",
+      "summary_th": "The Thaiger รายงานว่าในวันออกพรรษา 10 ตุลาคม 2565 จังหวัดหนองคายนับบั้งไฟพญานาคอย่างไม่เป็นทางการได้ 63 ลูก น้อยกว่าหลายปีใกล้เคียง และระบุว่ายังอาจชมต่อได้ในวันถัดไป",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "The Thaiger",
+          "url": "https://thethaiger.com/th/news/682375/"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0050",
+      "year": 2022
+    },
+    {
+      "id": "nuforc-173726",
+      "title": "A cylinder that at first looked like part of an airliner's wing",
+      "title_th": "ทรงกระบอกที่ตอนแรกดูคล้ายส่วนปีกเครื่องบิน",
+      "date": "2022-11-27",
+      "date_label": "27 November 2022, 19:00",
+      "date_precision": "day",
+      "time_local": "19:00",
+      "location_name": "Thailand - flying above straight of malacca/andaman sea",
+      "location_name_th": "ทะเลอันดามัน (ใกล้ภูเก็ต)",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The witness was on a flight over the Strait of Malacca / Andaman Sea. No island or airport is named, so there is no map pin.",
+      "category": "cylinder_other",
+      "shape": "Cylinder",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 27 November 2022 at 19:00 a traveller flying over the Strait of Malacca / Andaman Sea described an object that first seemed to be an extension of an aeroplane wing until it flew away. The report is tied to Thai airspace only loosely.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=173726"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "173726",
+      "explanation": null,
+      "case_no": "TH-0051",
+      "year": 2022
+    },
+    {
+      "id": "starlink-north-2023",
+      "title": "Train of lights over northern Thailand — Starlink",
+      "title_th": "ขบวนแสงเหนือภาคเหนือ — ดาวเทียมสตาร์ลิงก์",
+      "date": "2023-06-01",
+      "date_label": "1 June 2023, about 19:55",
+      "date_precision": "day",
+      "time_local": "19:55",
+      "location_name": "Northern Thailand (several provinces)",
+      "location_name_th": "ภาคเหนือของประเทศไทย (หลายจังหวัด)",
+      "province": "Chiang Mai",
+      "province_th": "เชียงใหม่",
+      "lat": 18.7883,
+      "lng": 98.9853,
+      "coord_precision": "area",
+      "coord_note": "NARIT said the train crossed the northern sky generally. The pin is in Chiang Mai as a representative northern point, not a precise flight path.",
+      "category": "rocket_reentry_starlink",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "A same-night identification by Thailand's national astronomy institute, later reported by Thai PBS and other outlets.",
+      "summary": "Around 19:55 on 1 June 2023, people in the north of Thailand reported a strange line of lights crossing the sky. NARIT checked orbital data and said the lights were 22 Starlink satellites from launch group G6-3 moving through the northern sky in formation.",
+      "summary_th": "ราว 19.55 น. ของวันที่ 1 มิถุนายน 2566 มีผู้ในภาคเหนือรายงานว่าเห็นแสงประหลาดเคลื่อนเป็นขบวน สดร. ตรวจข้อมูลวงโคจรแล้วระบุว่าเป็นดาวเทียมสตาร์ลิงก์กลุ่ม G6-3 จำนวน 22 ดวงที่กำลังเคลื่อนผ่านท้องฟ้าภาคเหนือ",
+      "explanation": "NARIT matched the time and appearance to Starlink group G6-3: 22 newly launched satellites moving together, looking like a line of stars that travel faster than the stars around them.",
+      "explanation_th": "สดร. จับเวลาและลักษณะที่เห็นได้กับดาวเทียมสตาร์ลิงก์กลุ่ม G6-3 จำนวน 22 ดวงที่เพิ่งปล่อยและเคลื่อนเป็นขบวน ดูคล้ายดาวเรียงแถวแต่เคลื่อนเร็วกว่าดาวรอบข้าง",
+      "sources": [
+        {
+          "name": "Thai PBS, citing NARIT",
+          "url": "https://www.thaipbs.or.th/news/content/328426"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0052",
+      "year": 2023
+    },
+    {
+      "id": "nuforc-176150",
+      "title": "A hovering circular object over Hat Yai",
+      "title_th": "วัตถุวงกลมลอยค้างเหนือหาดใหญ่",
+      "date": "2023-06-09",
+      "date_label": "9 June 2023, 21:21",
+      "date_precision": "day",
+      "time_local": "21:21",
+      "location_name": "Hat Yai",
+      "location_name_th": "หาดใหญ่ จังหวัดสงขลา",
+      "province": "Songkhla",
+      "province_th": "สงขลา",
+      "lat": 7.0084,
+      "lng": 100.4767,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 9 June 2023 at 21:21 a Hat Yai filing describes some type of flying object on hover. The NUFORC index marks the record as having media attached.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=176150"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": true,
+      "nuforc_id": "176150",
+      "explanation": null,
+      "case_no": "TH-0053",
+      "year": 2023
+    },
+    {
+      "id": "nuforc-176966",
+      "title": "A dim, very fast egg-shaped object over Saphan Sung",
+      "title_th": "วัตถุทรงไข่แสงจางเคลื่อนเร็วมากที่สะพานสูง",
+      "date": "2023-07-26",
+      "date_label": "26 July 2023, 20:03",
+      "date_precision": "day",
+      "time_local": "20:03",
+      "location_name": "Saphan sung",
+      "location_name_th": "เขตสะพานสูง กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.77,
+      "lng": 100.686,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "disc",
+      "shape": "Egg",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 26 July 2023 at 20:03 a witness in Saphan Sung, Bangkok, reported a not-very-bright object travelling too fast.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=176966"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "176966",
+      "explanation": null,
+      "case_no": "TH-0054",
+      "year": 2023
+    },
+    {
+      "id": "nuforc-178233",
+      "title": "A star-like oval in photographs at Sukhothai Historical Park",
+      "title_th": "วัตถุคล้ายดาวรูปรีในภาพถ่ายที่อุทยานประวัติศาสตร์สุโขทัย",
+      "date": "2023-09-14",
+      "date_label": "14 September 2023, 15:56",
+      "date_precision": "day",
+      "time_local": "15:56",
+      "location_name": "Sukhothai UNESCO world heritage site",
+      "location_name_th": "อุทยานประวัติศาสตร์สุโขทัย",
+      "province": "Sukhothai",
+      "province_th": "สุโขทัย",
+      "lat": 17.017,
+      "lng": 99.703,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Other",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 14 September 2023 around 15:50–15:56, two closely timed NUFORC filings from the Sukhothai UNESCO World Heritage site describe a star-like object that looked oval when a photograph was magnified. They are treated here as one event. Media is flagged on the index.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=178233"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        },
+        {
+          "name": "NUFORC addendum (178262)",
+          "url": "https://nuforc.org/sighting/?id=178262"
+        }
+      ],
+      "photos": [],
+      "media_in_source": true,
+      "nuforc_id": "178233",
+      "explanation": null,
+      "case_no": "TH-0055",
+      "year": 2023
+    },
+    {
+      "id": "khonkaen-clouds-2023",
+      "title": "Four 'craft' in a Khon Kaen photograph — likely clouds",
+      "title_th": "ภาพวัตถุสี่ชิ้นที่ขอนแก่น — น่าจะเป็นก้อนเมฆ",
+      "date": "2023-09-22",
+      "date_label": "22 September 2023",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Ban Thaen, Chonnabot, Khon Kaen",
+      "location_name_th": "บ้านแท่น อำเภอชนบท จังหวัดขอนแก่น",
+      "province": "Khon Kaen",
+      "province_th": "ขอนแก่น",
+      "lat": 16.005,
+      "lng": 102.625,
+      "coord_precision": "area",
+      "coord_note": "Geocoded to Chonnabot district, Khon Kaen, where the hospital director who posted the pictures works in tambon Ban Thaen.",
+      "category": "disc",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "A single set of photographs interpreted after the fact. The 'explained' tag follows the publicly quoted scientific commentary, not a formal investigation.",
+      "summary": "On 22 September 2023 the director of a sub-district health-promoting hospital in Ban Thaen, Chonnabot, Khon Kaen, posted pictures of what he took to be about four unusual objects in the sky. The images were widely shared. A few days later Weerachai Phutdhawong told Thairath the shapes were consistent with clouds and pareidolia rather than spacecraft.",
+      "summary_th": "เมื่อ 22 กันยายน 2566 ผู้อำนวยการโรงพยาบาลส่งเสริมสุขภาพตำบลบ้านแท่น อ.ชนบท จ.ขอนแก่น โพสต์ภาพที่เขาเห็นว่ามีวัตถุประหลาดราวสี่ชิ้นบนฟ้า ภาพถูกแชร์กว้าง หลายวันต่อมา รศ.ดร.วีรชัย พุทธวงศ์ ให้สัมภาษณ์ว่าลักษณะที่เห็นสอดคล้องกับก้อนเมฆและอาการแพริโดเลียมากกว่ายานอวกาศ",
+      "explanation": "Chemist and public science commentator Weerachai 'Ajarn Odd' Phutdhawong said the photograph showed moving cloud masses and shadows, and that reading them as spacecraft was consistent with pareidolia. He did not claim a laboratory analysis of the original file, and he left open that NASA had not closed the broader UAP question.",
+      "explanation_th": "รศ.ดร.วีรชัย พุทธวงศ์ (อาจารย์อ๊อด) ให้ความเห็นว่าภาพที่เห็นเป็นการเคลื่อนของก้อนเมฆและเงา และการมองเป็นยานอาจเข้าได้กับอาการแพริโดเลีย โดยไม่ได้ตรวจไฟล์ต้นฉบับในห้องปฏิบัติการ และย้ำว่าหน่วยงานอย่าง NASA ก็ยังไม่ได้ปิดประเด็น UAP โดยรวม",
+      "sources": [
+        {
+          "name": "The Thaiger, citing Thairath and Weerachai Phutdhawong",
+          "url": "https://thethaiger.com/th/news/950583/"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0056",
+      "year": 2023
+    },
+    {
+      "id": "naga-2023",
+      "title": "Naga fireballs, Nong Khai — 289 balls in two districts",
+      "title_th": "บั้งไฟพญานาคหนองคาย — 289 ลูกในสองอำเภอ",
+      "date": "2023-10",
+      "date_label": "October 2023 festival (compilation published 30 October 2023)",
+      "date_precision": "month",
+      "time_local": null,
+      "location_name": "Rattanawapi and Phon Phisai, Nong Khai",
+      "location_name_th": "อำเภอรัตนวาปีและโพนพิสัย จังหวัดหนองคาย",
+      "province": "Nong Khai",
+      "province_th": "หนองคาย",
+      "lat": 18.111,
+      "lng": 103.128,
+      "coord_precision": "area",
+      "coord_note": "Placed between Rattanawapi (243 balls) and Phon Phisai (46), as listed by the provincial PR office.",
+      "category": "naga_fireballs",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "Channel 8 published a point-by-point list credited to the Nong Khai PR Facebook page. A 2024 PPTV recap independently stated that 2023's total was 82 balls fewer than 2024's 371, which matches 289. The exact calendar night is not named in the Channel 8 article itself, so the date is given as October 2023.",
+      "summary": "Nong Khai's public relations office issued a location-by-location tally for the 2023 festival: 243 balls in Rattanawapi district and 46 in Phon Phisai, 289 in all, with first lights at some spots around 18:10–18:46. Channel 8 published the list on 30 October 2023. A later PPTV recap of the 2024 festival also treated 289 as the 2023 total. Bueng Kan viewers at Pak Khat were reported to have been disappointed that night.",
+      "summary_th": "สำนักงานประชาสัมพันธ์จังหวัดหนองคายรวบรวมสถิติปี 2566 เป็นรายจุด: อำเภอรัตนวาปี 243 ลูก และโพนพิสัย 46 ลูก รวม 289 ลูก โดยบางจุดเริ่มราว 18.10–18.46 น. ช่อง 8 เผยแพร่เมื่อ 30 ตุลาคม 2566 และข่าว PPTV ปีถัดมายืนยันว่ายอดปี 2566 น้อยกว่าปี 2567 จำนวน 82 ลูก ซึ่งสอดคล้องกับ 289 ลูก ที่บึงกาฬมีรายงานว่าผู้ชมที่ปากคาดผิดหวัง",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "Thai Channel 8, citing PR.Nongkhai",
+          "url": "https://www.thaich8.com/news_detail/131329"
+        },
+        {
+          "name": "PPTV (2024 recap confirming the 2023 total)",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/234907"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0057",
+      "year": 2023
+    },
+    {
+      "id": "kaeng-krachan-2023",
+      "title": "Green glow over Kaeng Krachan — squid-boat lights, not an aurora",
+      "title_th": "แสงเขียวเหนือแก่งกระจาน — แสงเรือไดหมึก ไม่ใช่แสงเหนือ",
+      "date": "2023-11-03",
+      "date_label": "Around 3 November 2023 (photos circulated from that Friday)",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Panoenthung viewpoint, Kaeng Krachan National Park, Phetchaburi",
+      "location_name_th": "จุดชมวิวพะเนินทุ่ง อุทยานแห่งชาติแก่งกระจาน จังหวัดเพชรบุรี",
+      "province": "Phetchaburi",
+      "province_th": "เพชรบุรี",
+      "lat": 12.868,
+      "lng": 99.486,
+      "coord_precision": "area",
+      "coord_note": "Geocoded to the Panoenthung (Khao Phanoen Thung) viewpoint named in official photographs and news reports.",
+      "category": "light_orb",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Photographs were circulated by a national-park-related page. The identification as boat lights, not aurora, was made by scientists and repeated by Bangkok Post, Thai PBS and Thairath.",
+      "summary": "Photographs of a green band in the sky, taken from the Panoenthung viewpoint in Kaeng Krachan National Park, circulated from Friday 3 November 2023 and prompted talk of an aurora. Officials and astronomers said it was not an aurora and pointed instead to green lights from squid-fishing boats reflecting on cloud.",
+      "summary_th": "ภาพแถบแสงสีเขียวจากจุดชมวิวพะเนินทุ่งในอุทยานแห่งชาติแก่งกระจาน เริ่มถูกเผยแพร่ตั้งแต่วันศุกร์ที่ 3 พฤศจิกายน 2566 จนมีคนสงสัยว่าเป็นแสงเหนือ ทางการและนักดาราศาสตร์ชี้ว่าไม่ใช่ และอธิบายว่าเป็นแสงเรือไดหมึกที่สะท้อนกับเมฆ",
+      "explanation": "Authorities and astronomers said the glow was not an aurora. Thailand is too far from the magnetic poles for aurora displays of this kind. Commentators including Jessada Denduangboripant attributed the colour to powerful green lamps on squid boats in the Gulf, reflecting off clouds.",
+      "explanation_th": "ทางการและนักดาราศาสตร์ระบุว่าไม่ใช่แสงออโรรา เพราะประเทศไทยอยู่ไกลขั้วโลกมาก อาจารย์เจษฎาและผู้ให้ความเห็นอื่นชี้ว่าเป็นแสงไฟสีเขียวของเรือไดหมึกในอ่าวไทยที่สะท้อนกับก้อนเมฆ",
+      "sources": [
+        {
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/thailand/general/2678634/mysterious-green-light-above-thai-national-park-not-aurora"
+        },
+        {
+          "name": "Thai PBS",
+          "url": "https://www.thaipbs.or.th/news/content/333535"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0058",
+      "year": 2023
+    },
+    {
+      "id": "nuforc-179751",
+      "title": "Five flying objects over Mueang Chiang Rai — birds suggested",
+      "title_th": "วัตถุบินห้าชิ้นเหนือเมืองเชียงราย — มีหมายเหตุว่าอาจเป็นนก",
+      "date": "2023-12-18",
+      "date_label": "18 December 2023, 13:22",
+      "date_precision": "day",
+      "time_local": "13:22",
+      "location_name": "Mueang Chiang Rai",
+      "location_name_th": "อำเภอเมืองเชียงราย",
+      "province": "Chiang Rai",
+      "province_th": "เชียงราย",
+      "lat": 19.9072,
+      "lng": 99.8308,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Changing",
+      "credibility": "explained",
+      "credibility_note": "A NUFORC editor suggested the objects may have been birds.",
+      "summary": "On 18 December 2023 at 13:22 a Mueang Chiang Rai witness reported five flying objects. The NUFORC explanation column on the index asks whether they were birds.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=179751"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "179751",
+      "explanation": "Bird?",
+      "case_no": "TH-0059",
+      "year": 2023
+    },
+    {
+      "id": "fireball-2024-03-04",
+      "title": "Green fireball across central and eastern Thailand",
+      "title_th": "ลูกไฟสีเขียวพาดภาคกลางและภาคตะวันออก",
+      "date": "2024-03-04",
+      "date_label": "4 March 2024, about 21:00",
+      "date_precision": "day",
+      "time_local": "21:00",
+      "location_name": "Central and eastern Thailand (many provinces)",
+      "location_name_th": "ภาคกลางและภาคตะวันออก (หลายจังหวัด)",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Seen from Bangkok and its vicinity, Ayutthaya, Suphan Buri, Kanchanaburi, Chon Buri, Samut Sakhon, Nakhon Nayok, Prachin Buri, Phetchaburi, Ratchaburi and Chachoengsao. The pin is in Bangkok as a representative point for a high-altitude fireball.",
+      "category": "fireball",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Many independent clips from different provinces, plus a NARIT identification the next day.",
+      "summary": "Around 21:00 on 4 March 2024 a large green fireball was filmed crossing the sky over a long list of central and eastern provinces, including Bangkok, Ayutthaya, Suphan Buri, Kanchanaburi, Chon Buri, Samut Sakhon, Nakhon Nayok, Prachin Buri, Phetchaburi, Ratchaburi and Chachoengsao. NARIT said it was a meteor fireball.",
+      "summary_th": "ราว 21.00 น. ของวันที่ 4 มีนาคม 2567 มีลูกไฟสีเขียวขนาดใหญ่ถูกถ่ายไว้ในหลายจังหวัดภาคกลางและตะวันออก รวมกรุงเทพฯ พระนครศรีอยุธยา สุพรรณบุรี กาญจนบุรี ชลบุรี สมุทรสาคร นครนายก ปราจีนบุรี เพชรบุรี ราชบุรี และฉะเชิงเทรา สดร. ระบุว่าเป็นดาวตกชนิดลูกไฟ",
+      "explanation": "NARIT, quoted by Thai PBS, identified a bright meteor fireball.",
+      "explanation_th": "สดร. ซึ่งไทยพีบีเอสอ้างถึง ระบุว่าเป็นดาวตกชนิดลูกไฟ",
+      "sources": [
+        {
+          "name": "Thai PBS, citing NARIT",
+          "url": "https://www.thaipbs.or.th/news/content/337721"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0060",
+      "year": 2024
+    },
+    {
+      "id": "nuforc-182848",
+      "title": "Slow-turning blue and white lights over Pattaya at dawn",
+      "title_th": "แสงฟ้าขาวหมุนช้าเหนือพัทยาตอนรุ่ง",
+      "date": "2024-08-04",
+      "date_label": "4 August 2024, 05:00",
+      "date_precision": "day",
+      "time_local": "05:00",
+      "location_name": "Muang Pattaya",
+      "location_name_th": "เมืองพัทยา จังหวัดชลบุรี",
+      "province": "Chon Buri",
+      "province_th": "ชลบุรี",
+      "lat": 12.9236,
+      "lng": 100.8825,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "cylinder_other",
+      "shape": "Cone",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 4 August 2024 at 05:00 a Muang Pattaya witness described blue and white lights turning slowly.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=182848"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "182848",
+      "explanation": null,
+      "case_no": "TH-0061",
+      "year": 2024
+    },
+    {
+      "id": "naga-2024",
+      "title": "Naga fireballs, Nong Khai — 371 balls, large festival crowd",
+      "title_th": "บั้งไฟพญานาคหนองคาย — 371 ลูก ผู้ชมกว่าแสนคน",
+      "date": "2024-10-17",
+      "date_label": "17 October 2024",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Rattanawapi and Phon Phisai, Nong Khai",
+      "location_name_th": "อำเภอรัตนวาปีและโพนพิสัย จังหวัดหนองคาย",
+      "province": "Nong Khai",
+      "province_th": "หนองคาย",
+      "lat": 18.111,
+      "lng": 103.128,
+      "coord_precision": "area",
+      "coord_note": "District-level totals: 299 balls in Rattanawapi, 72 in Phon Phisai.",
+      "category": "naga_fireballs",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "PPTV reported official-style district totals and a crowd estimate the following day.",
+      "summary": "PPTV reported that on 17 October 2024, lights were counted in two Nong Khai districts: 299 balls in Rattanawapi and 72 in Phon Phisai, 371 in all — 82 more than the previous year. About 147,700 people were estimated to have come to watch in those two districts.",
+      "summary_th": "PPTV รายงานว่าในคืนวันที่ 17 ตุลาคม 2567 มีลูกไฟในสองอำเภอของหนองคาย ได้แก่รัตนวาปี 299 ลูก และโพนพิสัย 72 ลูก รวม 371 ลูก มากกว่าปีก่อน 82 ลูก และมีผู้ชมในสองอำเภอรวมกันประมาณ 147,700 คน",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "PPTVHD36",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/234907"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0062",
+      "year": 2024
+    },
+    {
+      "id": "nuforc-185054",
+      "title": "Lights above the water in southern Thailand — no town named",
+      "title_th": "แสงเหนือผิวน้ำทางภาคใต้ — ไม่ระบุเมือง",
+      "date": "2024-12-13",
+      "date_label": "13 December 2024, 04:10",
+      "date_precision": "day",
+      "time_local": "04:10",
+      "location_name": "Location not stated",
+      "location_name_th": "ไม่ระบุสถานที่",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The report does not name a town that can be geocoded with confidence, so it is not placed on the map.",
+      "category": "light_orb",
+      "shape": "Light",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 13 December 2024 at 04:10 a NUFORC report describes lights above the water in southern Thailand but does not name a province or beach. It is listed without a map pin.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=185054"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "185054",
+      "explanation": null,
+      "case_no": "TH-0063",
+      "year": 2024
+    },
+    {
+      "id": "nuforc-185675",
+      "title": "Three flashing lights on a seaward horizon at Khao Niwet",
+      "title_th": "แสงกระพริบสามดวงบนขอบฟ้าทะเลที่เขานิเวศน์",
+      "date": "2024-12-20",
+      "date_label": "20 December 2024, 23:55",
+      "date_precision": "day",
+      "time_local": "23:55",
+      "location_name": "Khao Niwet",
+      "location_name_th": "Khao Niwet",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The report does not name a town that can be geocoded with confidence, so it is not placed on the map.",
+      "category": "light_orb",
+      "shape": "Flash",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 20 December 2024 at 23:55 a witness at a place given as Khao Niwet reported three horizontal lights flashing across the horizon on the sea, moving at various speeds. The name is not unique in Thailand and could not be geocoded with confidence, so this case has no map pin.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=185675"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "185675",
+      "explanation": null,
+      "case_no": "TH-0064",
+      "year": 2024
+    },
+    {
+      "id": "nuforc-188235",
+      "title": "A yellow light moving at great speed — no place given",
+      "title_th": "แสงเหลืองเคลื่อนเร็วมาก — ไม่ระบุสถานที่",
+      "date": "2025-03-10",
+      "date_label": "10 March 2025, 23:50",
+      "date_precision": "day",
+      "time_local": "23:50",
+      "location_name": "Location not stated",
+      "location_name_th": "ไม่ระบุสถานที่",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The report does not name a town that can be geocoded with confidence, so it is not placed on the map.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 10 March 2025 at 23:50 a witness described a yellow light moving at great speed but did not name a town. It is listed without a map pin.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=188235"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "188235",
+      "explanation": null,
+      "case_no": "TH-0065",
+      "year": 2025
+    },
+    {
+      "id": "nuforc-191093",
+      "title": "A black sphere seen from a Hua Hin hotel pool in cloudy weather",
+      "title_th": "ทรงกลมสีดำจากสระโรงแรมที่หัวหินในวันที่เมฆมาก",
+      "date": "2025-05-28",
+      "date_label": "28 May 2025, 16:30",
+      "date_precision": "day",
+      "time_local": "16:30",
+      "location_name": "Hua Hin",
+      "location_name_th": "หัวหิน จังหวัดประจวบคีรีขันธ์",
+      "province": "Prachuap Khiri Khan",
+      "province_th": "ประจวบคีรีขันธ์",
+      "lat": 12.5706,
+      "lng": 99.9588,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Sphere",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 28 May 2025 at 16:30 a witness at a rooftop hotel pool in Hua Hin, in very cloudy weather, reported a black spot perhaps a couple of kilometres away and about a mile up. The index marks media attached.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=191093"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": true,
+      "nuforc_id": "191093",
+      "explanation": null,
+      "case_no": "TH-0066",
+      "year": 2025
+    },
+    {
+      "id": "fireball-2025-08-04",
+      "title": "Midnight fireball and boom over the Northeast",
+      "title_th": "ลูกไฟและเสียงดังหลังเที่ยงคืนเหนือภาคตะวันออกเฉียงเหนือ",
+      "date": "2025-08-04",
+      "date_label": "4 August 2025, just after midnight",
+      "date_precision": "day",
+      "time_local": "00:10",
+      "location_name": "Northeastern Thailand (Nakhon Ratchasima, Surin, Buri Ram, Si Sa Ket and some central provinces)",
+      "location_name_th": "ภาคตะวันออกเฉียงเหนือ (นครราชสีมา สุรินทร์ บุรีรัมย์ ศรีสะเกษ และบางจังหวัดภาคกลาง)",
+      "province": "Nakhon Ratchasima",
+      "province_th": "นครราชสีมา",
+      "lat": 14.9799,
+      "lng": 102.0978,
+      "coord_precision": "area",
+      "coord_note": "The Thai Astronomical Society listed several northeastern provinces and some central ones. The pin is in Nakhon Ratchasima, the first province named.",
+      "category": "fireball",
+      "shape": null,
+      "credibility": "explained",
+      "credibility_note": "Multi-province recordings and a same-day statement by the Thai Astronomical Society, also reported by the Bangkok Post.",
+      "summary": "Just after midnight on Monday 4 August 2025 a very bright fireball and a loud boom were reported in Nakhon Ratchasima, Surin, Buri Ram, Si Sa Ket and some central provinces. The sudden flash briefly fuelled rumours of a drone or a blast linked to border tension. The Thai Astronomical Society said it was a meteor burning 80 to 120 kilometres up.",
+      "summary_th": "หลังเที่ยงคืนของวันจันทร์ที่ 4 สิงหาคม 2568 มีลูกไฟสว่างมากและเสียงดังรายงานจากนครราชสีมา สุรินทร์ บุรีรัมย์ ศรีสะเกษ และบางจังหวัดภาคกลาง แสงวาบทำให้มีคนสงสัยเรื่องโดรนหรือสถานการณ์ชายแดน สมาคมดาราศาสตร์ไทยชี้ว่าเป็นดาวตกที่เผาไหม้สูง 80–120 กิโลเมตร",
+      "explanation": "The Thai Astronomical Society said a meteor entered the atmosphere at about 80–120 km, producing a green flash (often linked to nickel) comparable in brightness to Venus, plus a sonic boom. Some residents first wondered about a drone or a border-related explosion; astronomers called it a natural fireball. It occurred during the wider Perseid season.",
+      "explanation_th": "สมาคมดาราศาสตร์ไทยระบุว่าสะเก็ดดาวเข้าบรรยากาศที่ความสูงราว 80–120 กม. เกิดแสงวาบสีเขียว (มักสัมพันธ์กับนิกเกิล) สว่างเทียบดาวศุกร์ และมีคลื่นกระแทก ชาวบ้านบางคนเคยสงสัยว่าเป็นโดรนหรือเกี่ยวข้องกับสถานการณ์ชายแดน แต่นักดาราศาสตร์ชี้ว่าเป็นลูกไฟธรรมชาติ ช่วงเวลานี้ใกล้ฝนดาวตกเพอร์เซอิดส์",
+      "sources": [
+        {
+          "name": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/thailand/general/3080924/fireball-lights-up-night-sky-over-several-provinces"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0067",
+      "year": 2025
+    },
+    {
+      "id": "nuforc-192966",
+      "title": "A submarine-shaped object in a Bangkok pre-dawn sky",
+      "title_th": "วัตถุคล้ายเรือดำน้ำบนฟ้ากรุงเทพฯ ก่อนรุ่ง",
+      "date": "2025-10-03",
+      "date_label": "3 October 2025, 03:00",
+      "date_precision": "day",
+      "time_local": "03:00",
+      "location_name": "Bangkok",
+      "location_name_th": "กรุงเทพมหานคร",
+      "province": "Bangkok",
+      "province_th": "กรุงเทพมหานคร",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "unspecified",
+      "shape": "Other",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 3 October 2025 at 03:00 a Bangkok witness said they saw a submarine-like object in the sky after getting up in the night. The index marks media attached.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=192966"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": true,
+      "nuforc_id": "192966",
+      "explanation": null,
+      "case_no": "TH-0068",
+      "year": 2025
+    },
+    {
+      "id": "naga-2025",
+      "title": "Naga fireballs, Nong Khai — official count of 287",
+      "title_th": "บั้งไฟพญานาคหนองคาย — ยอดทางการ 287 ลูก",
+      "date": "2025-10-07",
+      "date_label": "7 October 2025 (Ok Phansa)",
+      "date_precision": "day",
+      "time_local": null,
+      "location_name": "Rattanawapi and Phon Phisai, Nong Khai",
+      "location_name_th": "อำเภอรัตนวาปีและโพนพิสัย จังหวัดหนองคาย",
+      "province": "Nong Khai",
+      "province_th": "หนองคาย",
+      "lat": 18.111,
+      "lng": 103.128,
+      "coord_precision": "area",
+      "coord_note": "Official district totals: 237 in Rattanawapi, 50 in Phon Phisai. The busiest named spot was Ban Nong Kaeo / Nong Kaeo Nuea, tambon Phon Phaeng, Rattanawapi (40 balls).",
+      "category": "naga_fireballs",
+      "shape": null,
+      "credibility": "media_reported",
+      "credibility_note": "PPTV and Matichon both cited official figures forwarded by the districts to Nong Khai provincial disaster-prevention officials.",
+      "summary": "On Ok Phansa, 7 October 2025, official district reports tallied 287 Naga fireballs in Nong Khai: 237 in Rattanawapi and 50 in Phon Phisai. The single busiest named site was Ban Nong Kaeo–Nong Kaeo Nuea in Rattanawapi, with 40 balls. About 31,500 people came to watch — far fewer than the more than 140,000 reported the year before. The 2025 total was 84 balls below 2024.",
+      "summary_th": "ในวันออกพรรษา 7 ตุลาคม 2568 ข้อมูลทางการที่อำเภอรายงานไปยังป้องกันจังหวัดหนองคายระบุว่ามีลูกไฟ 287 ลูก แบ่งเป็นรัตนวาปี 237 ลูก และโพนพิสัย 50 ลูก จุดที่มีจำนวนมากที่สุดคือบ้านหนองแก้ว–หนองแก้วเหนือ ต.โพนแพง อ.รัตนวาปี จำนวน 40 ลูก มีผู้ชมประมาณ 31,500 คน น้อยกว่าปี 2567 ทั้งจำนวนลูกไฟ (น้อยกว่า 84 ลูก) และจำนวนผู้ชม",
+      "explanation": null,
+      "explanation_th": null,
+      "sources": [
+        {
+          "name": "PPTVHD36",
+          "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/258729"
+        },
+        {
+          "name": "Matichon",
+          "url": "https://www.matichon.co.th/region/news_5402036"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "case_no": "TH-0069",
+      "year": 2025
+    },
+    {
+      "id": "nuforc-194130",
+      "title": "A black rectangle — no place given",
+      "title_th": "สี่เหลี่ยมสีดำ — ไม่ระบุสถานที่",
+      "date": "2025-11-14",
+      "date_label": "14 November 2025, 16:00",
+      "date_precision": "day",
+      "time_local": "16:00",
+      "location_name": "Location not stated",
+      "location_name_th": "ไม่ระบุสถานที่",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The report does not name a town that can be geocoded with confidence, so it is not placed on the map.",
+      "category": "cylinder_other",
+      "shape": "Rectangle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 14 November 2025 at 16:00 a NUFORC filing describes a black rectangular object but names no town. It is listed without a map pin.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=194130"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "194130",
+      "explanation": null,
+      "case_no": "TH-0070",
+      "year": 2025
+    },
+    {
+      "id": "nuforc-194486",
+      "title": "A star-like moving light over Tambon Suranari",
+      "title_th": "แสงคล้ายดาวที่เคลื่อนที่เหนือตำบลสุรนารี",
+      "date": "2025-11-30",
+      "date_label": "30 November 2025, 05:51",
+      "date_precision": "day",
+      "time_local": "05:51",
+      "location_name": "Tambon Suranari",
+      "location_name_th": "ตำบลสุรนารี นครราชสีมา",
+      "province": "Nakhon Ratchasima",
+      "province_th": "นครราชสีมา",
+      "lat": 14.974,
+      "lng": 102.083,
+      "coord_precision": "area",
+      "coord_note": "Geocoded from the place name on the NUFORC index, not from a measured bearing or GPS fix.",
+      "category": "light_orb",
+      "shape": "Circle",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 30 November 2025 at 05:51 a witness in tambon Suranari, Nakhon Ratchasima, described an object about the apparent size of a star, only clearer, moving in one direction. Media is flagged on the index.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=194486"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": true,
+      "nuforc_id": "194486",
+      "explanation": null,
+      "case_no": "TH-0071",
+      "year": 2025
+    },
+    {
+      "id": "nuforc-197577",
+      "title": "A fireball-like object said to react to lasers — Ban Pho",
+      "title_th": "วัตถุคล้ายลูกไฟที่ผู้เห็นว่าตอบสนองต่อเลเซอร์ — ตำบลบ้านโพธิ์",
+      "date": "2025-12-25",
+      "date_label": "25 December 2025, 02:42",
+      "date_precision": "day",
+      "time_local": "02:42",
+      "location_name": "ตำบล บ้านโพธิ์",
+      "location_name_th": "ตำบล บ้านโพธิ์",
+      "province": null,
+      "province_th": null,
+      "lat": null,
+      "lng": null,
+      "coord_precision": "unspecified",
+      "coord_note": "The report does not name a town that can be geocoded with confidence, so it is not placed on the map.",
+      "category": "fireball",
+      "shape": "Fireball",
+      "credibility": "witness_report",
+      "credibility_note": "A public witness report in the NUFORC archive. It has not been independently verified for this dashboard.",
+      "summary": "On 25 December 2025 at 02:42 a filing from 'tambon Ban Pho' describes a fireball-like object moving back and forth at high speed, which the witness associated with high-intensity lasers. Ban Pho is a common sub-district name in several provinces, so this case has no map pin.",
+      "summary_th": "รายงานพยานที่ส่งถึงศูนย์รายงานยูเอฟโอแห่งชาติสหรัฐ (NUFORC) ข้อความนี้เรียบเรียงจากสารบัญสาธารณะ ไม่ได้คัดลอกคำให้การเต็ม และยังไม่ได้รับการตรวจสอบอิสระในแดชบอร์ดนี้",
+      "sources": [
+        {
+          "name": "NUFORC public report",
+          "url": "https://nuforc.org/sighting/?id=197577"
+        },
+        {
+          "name": "NUFORC Thailand index (Wayback Machine, 13 May 2026)",
+          "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
+        }
+      ],
+      "photos": [],
+      "media_in_source": false,
+      "nuforc_id": "197577",
+      "explanation": null,
+      "case_no": "TH-0072",
+      "year": 2025
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+[
+  {
+    "id": "naga-2013",
+    "title": "Naga fireballs photographed on the Mekong",
+    "title_th": "ภาพถ่ายบั้งไฟพญานาคเหนือแม่น้ำโขง",
+    "date": "2013-10-19",
+    "date_label": "19 October 2013, evening",
+    "date_precision": "day",
+    "time_local": "20:38",
+    "location_name": "Mekong River, Nong Khai",
+    "location_name_th": "แม่น้ำโขง จังหวัดหนองคาย",
+    "province": "Nong Khai",
+    "province_th": "หนองคาย",
+    "lat": 17.8782,
+    "lng": 102.7413,
+    "coord_precision": "area",
+    "coord_note": "Geocoded to Nong Khai on the Mekong; the photographer described the balls rising in and around the Nong Khai / Vientiane stretch.",
+    "category": "naga_fireballs",
+    "credibility": "media_reported",
+    "credibility_note": "Photographs taken on the festival night and published on Wikimedia Commons. The cause of the lights is disputed (folk belief, marsh gas, or flares/tracers from the Lao bank).",
+    "summary": "A visitor photographed rosy-pink balls of light rising from the Mekong around Nong Khai on the night that ends Buddhist Lent (Ok Phansa). The images, later released under a Creative Commons licence, show the annual phenomenon locally called bang fai phaya nak. The lights are said to climb a short way and vanish. Explanations offered over the years include ignited river gas, ceremonial flares, and tracer rounds; none is universally accepted.",
+    "summary_th": "ผู้มาเยือนได้ถ่ายภาพลูกไฟสีชมพูอมแดงพุ่งขึ้นจากแม่น้ำโขงแถวจังหวัดหนองคายในคืนวันออกพรรษา ภาพชุดนี้เผยแพร่ในวิกิมีเดียคอมมอนส์ภายใต้สัญญาอนุญาตครีเอทีฟคอมมอนส์ แสดงปรากฏการณ์ที่ชาวบ้านเรียกว่าบั้งไฟพญานาค คำอธิบายที่มีการเสนอมีทั้งแก๊สจากลำน้ำ แสงพลุ และกระสุนส่องทางจากฝั่งลาว แต่ยังไม่มีข้อสรุปที่เป็นที่ยอมรับร่วมกัน",
+    "sources": [
+      {
+        "name": "Wikimedia Commons — J A Forbes, 'Beung Fai Phraya Nag' (CC BY-SA 4.0)",
+        "url": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(183)_ball.JPG"
+      },
+      {
+        "name": "Wikipedia — Naga fireball",
+        "url": "https://en.wikipedia.org/wiki/Naga_fireball"
+      }
+    ],
+    "photos": [
+      {
+        "src": "img/commons/naga-183.jpg",
+        "alt": "Pinkish ball of light above a riverbank at night, photographed in Nong Khai, 19 October 2013",
+        "credit": "Photo: J A Forbes, 19 Oct 2013, near Nong Khai / the Mekong. Licence: CC BY-SA 4.0. Source: Wikimedia Commons.",
+        "page": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(183)_ball.JPG",
+        "kind": "source_photo"
+      },
+      {
+        "src": "img/commons/naga-187.jpg",
+        "alt": "Another frame of a Naga fireball over the Mekong, 19 October 2013",
+        "credit": "Photo: J A Forbes, 19 Oct 2013. Licence: CC BY-SA 4.0. Source: Wikimedia Commons.",
+        "page": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(187)_ball.JPG",
+        "kind": "source_photo"
+      }
+    ]
+  },
+  {
+    "id": "naga-2015",
+    "title": "Naga fireballs, Nong Khai — police tally of 759 lights",
+    "title_th": "บั้งไฟพญานาคหนองคาย — สถิติตำรวจ 759 ลูก",
+    "date": "2015-10-27",
+    "date_label": "27 October 2015, from 18:16",
+    "date_precision": "day",
+    "time_local": "18:16",
+    "location_name": "Phon Phisai and Rattanawapi, Nong Khai",
+    "location_name_th": "อำเภอโพนพิสัยและรัตนวาปี จังหวัดหนองคาย",
+    "province": "Nong Khai",
+    "province_th": "หนองคาย",
+    "lat": 18.111,
+    "lng": 103.128,
+    "coord_precision": "area",
+    "coord_note": "Placed between the two main viewing districts named in the reports, Phon Phisai and Rattanawapi.",
+    "category": "naga_fireballs",
+    "credibility": "media_reported",
+    "credibility_note": "Covered the same night by Manager Online, citing a Nong Khai provincial police information centre tally described as unofficial.",
+    "summary": "On Wan Ok Phansa in 2015, crowds waited along the Mekong in Rattanawapi and Phon Phisai. The first group of lights — 33 balls — was reported at 18:16 at Ban Phon Phaeng in Rattanawapi. By 19:45 reporters had counted 585. A later Manager Online story said the provincial police information centre's unofficial tally from 18:16 to 22:00 reached 759 balls, spread across Mueang Nong Khai, Phon Phisai and Rattanawapi, with Ban Phon Phaeng among the busiest spots.",
+    "summary_th": "ในวันออกพรรษาปี 2558 ผู้คนรอชมบั้งไฟพญานาคที่อำเภอรัตนวาปีและโพนพิสัย ชุดแรก 33 ลูกปรากฏเวลา 18.16 น. ที่บ้านโพนแพง อ.รัตนวาปี ถึงเวลา 19.45 น. สื่อนับได้ 585 ลูก ข่าวผู้จัดการออนไลน์ฉบับหลังระบุว่าศูนย์ข้อมูลกองกำกับการตำรวจภูธรจังหวัดหนองคายรวบรวมสถิติอย่างไม่เป็นทางการตั้งแต่ 18.16–22.00 น. ได้ 759 ลูก ในพื้นที่เมืองหนองคาย โพนพิสัย และรัตนวาปี",
+    "sources": [
+      {
+        "name": "Manager Online (27 Oct 2015)",
+        "url": "https://mgronline.com/local/detail/9580000120100"
+      },
+      {
+        "name": "Manager Online (updated tally)",
+        "url": "https://mgronline.com/local/detail/9580000120165"
+      }
+    ]
+  },
+  {
+    "id": "naga-2021",
+    "title": "Naga fireballs, Nong Khai — official count of 600",
+    "title_th": "บั้งไฟพญานาคหนองคาย — ยอดทางการ 600 ลูก",
+    "date": "2021-10-21",
+    "date_label": "21 October 2021 (15th waxing day of the 11th lunar month)",
+    "date_precision": "day",
+    "location_name": "Nong Khai (Mekong)",
+    "location_name_th": "จังหวัดหนองคาย (แม่น้ำโขง)",
+    "province": "Nong Khai",
+    "province_th": "หนองคาย",
+    "lat": 17.8782,
+    "lng": 102.7413,
+    "coord_precision": "province",
+    "coord_note": "The BBC Thai report gives a province-wide official total, not a single viewing point.",
+    "category": "naga_fireballs",
+    "credibility": "media_reported",
+    "credibility_note": "BBC Thai cited the province's official record for the 2021 festival. A later dispute about what the lights are does not change the fact that lights were officially counted that night.",
+    "summary": "BBC Thai reported that Nong Khai's official record for the 2021 Ok Phansa festival, held on 21 October, listed 600 fireballs rising from the Mekong. The same article discussed a public argument between a sceptic Facebook page and the provincial administration about whether the lights are a natural or man-made effect. This file records the official count, not a verdict on the cause.",
+    "summary_th": "บีบีซีไทยรายงานว่าบันทึกทางการของจังหวัดหนองคายในงานวันออกพรรษา 21 ตุลาคม 2564 ระบุว่ามีลูกไฟลอยขึ้นจากแม่น้ำโขง 600 ลูก บทความเดียวกันกล่าวถึงข้อถกเถียงระหว่างเพจที่พยายามพิสูจน์ปรากฏการณ์กับทางจังหวัดว่าแสงนี้เป็นธรรมชาติหรือมนุษย์ทำให้เกิด ไฟล์นี้บันทึกยอดทางการ ไม่ได้ชี้ขาดสาเหตุ",
+    "sources": [
+      {
+        "name": "BBC Thai",
+        "url": "https://www.bbc.com/thai/thailand-59048224"
+      }
+    ]
+  },
+  {
+    "id": "naga-2022",
+    "title": "Naga fireballs, Nong Khai — unofficial count of 63",
+    "title_th": "บั้งไฟพญานาคหนองคาย — ยอดไม่เป็นทางการ 63 ลูก",
+    "date": "2022-10-10",
+    "date_label": "10 October 2022 (Ok Phansa)",
+    "date_precision": "day",
+    "location_name": "Nong Khai (Mekong)",
+    "location_name_th": "จังหวัดหนองคาย (แม่น้ำโขง)",
+    "province": "Nong Khai",
+    "province_th": "หนองคาย",
+    "lat": 17.8782,
+    "lng": 102.7413,
+    "coord_precision": "province",
+    "coord_note": "Province-level unofficial total; no single viewing point is isolated in the source.",
+    "category": "naga_fireballs",
+    "credibility": "media_reported",
+    "credibility_note": "The Thaiger report described the 63-ball figure as unofficial.",
+    "summary": "The Thaiger reported that on Ok Phansa, 10 October 2022, Nong Khai's unofficial count of Naga fireballs was 63 — a quieter night than several surrounding years. The outlet noted that some viewing continued the following day.",
+    "summary_th": "The Thaiger รายงานว่าในวันออกพรรษา 10 ตุลาคม 2565 จังหวัดหนองคายนับบั้งไฟพญานาคอย่างไม่เป็นทางการได้ 63 ลูก น้อยกว่าหลายปีใกล้เคียง และระบุว่ายังอาจชมต่อได้ในวันถัดไป",
+    "sources": [
+      {
+        "name": "The Thaiger",
+        "url": "https://thethaiger.com/th/news/682375/"
+      }
+    ]
+  },
+  {
+    "id": "naga-2023",
+    "title": "Naga fireballs, Nong Khai — 289 balls in two districts",
+    "title_th": "บั้งไฟพญานาคหนองคาย — 289 ลูกในสองอำเภอ",
+    "date": "2023-10",
+    "date_label": "October 2023 festival (compilation published 30 October 2023)",
+    "date_precision": "month",
+    "location_name": "Rattanawapi and Phon Phisai, Nong Khai",
+    "location_name_th": "อำเภอรัตนวาปีและโพนพิสัย จังหวัดหนองคาย",
+    "province": "Nong Khai",
+    "province_th": "หนองคาย",
+    "lat": 18.111,
+    "lng": 103.128,
+    "coord_precision": "area",
+    "coord_note": "Placed between Rattanawapi (243 balls) and Phon Phisai (46), as listed by the provincial PR office.",
+    "category": "naga_fireballs",
+    "credibility": "media_reported",
+    "credibility_note": "Channel 8 published a point-by-point list credited to the Nong Khai PR Facebook page. A 2024 PPTV recap independently stated that 2023's total was 82 balls fewer than 2024's 371, which matches 289. The exact calendar night is not named in the Channel 8 article itself, so the date is given as October 2023.",
+    "summary": "Nong Khai's public relations office issued a location-by-location tally for the 2023 festival: 243 balls in Rattanawapi district and 46 in Phon Phisai, 289 in all, with first lights at some spots around 18:10–18:46. Channel 8 published the list on 30 October 2023. A later PPTV recap of the 2024 festival also treated 289 as the 2023 total. Bueng Kan viewers at Pak Khat were reported to have been disappointed that night.",
+    "summary_th": "สำนักงานประชาสัมพันธ์จังหวัดหนองคายรวบรวมสถิติปี 2566 เป็นรายจุด: อำเภอรัตนวาปี 243 ลูก และโพนพิสัย 46 ลูก รวม 289 ลูก โดยบางจุดเริ่มราว 18.10–18.46 น. ช่อง 8 เผยแพร่เมื่อ 30 ตุลาคม 2566 และข่าว PPTV ปีถัดมายืนยันว่ายอดปี 2566 น้อยกว่าปี 2567 จำนวน 82 ลูก ซึ่งสอดคล้องกับ 289 ลูก ที่บึงกาฬมีรายงานว่าผู้ชมที่ปากคาดผิดหวัง",
+    "sources": [
+      {
+        "name": "Thai Channel 8, citing PR.Nongkhai",
+        "url": "https://www.thaich8.com/news_detail/131329"
+      },
+      {
+        "name": "PPTV (2024 recap confirming the 2023 total)",
+        "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/234907"
+      }
+    ]
+  },
+  {
+    "id": "naga-2024",
+    "title": "Naga fireballs, Nong Khai — 371 balls, large festival crowd",
+    "title_th": "บั้งไฟพญานาคหนองคาย — 371 ลูก ผู้ชมกว่าแสนคน",
+    "date": "2024-10-17",
+    "date_label": "17 October 2024",
+    "date_precision": "day",
+    "location_name": "Rattanawapi and Phon Phisai, Nong Khai",
+    "location_name_th": "อำเภอรัตนวาปีและโพนพิสัย จังหวัดหนองคาย",
+    "province": "Nong Khai",
+    "province_th": "หนองคาย",
+    "lat": 18.111,
+    "lng": 103.128,
+    "coord_precision": "area",
+    "coord_note": "District-level totals: 299 balls in Rattanawapi, 72 in Phon Phisai.",
+    "category": "naga_fireballs",
+    "credibility": "media_reported",
+    "credibility_note": "PPTV reported official-style district totals and a crowd estimate the following day.",
+    "summary": "PPTV reported that on 17 October 2024, lights were counted in two Nong Khai districts: 299 balls in Rattanawapi and 72 in Phon Phisai, 371 in all — 82 more than the previous year. About 147,700 people were estimated to have come to watch in those two districts.",
+    "summary_th": "PPTV รายงานว่าในคืนวันที่ 17 ตุลาคม 2567 มีลูกไฟในสองอำเภอของหนองคาย ได้แก่รัตนวาปี 299 ลูก และโพนพิสัย 72 ลูก รวม 371 ลูก มากกว่าปีก่อน 82 ลูก และมีผู้ชมในสองอำเภอรวมกันประมาณ 147,700 คน",
+    "sources": [
+      {
+        "name": "PPTVHD36",
+        "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/234907"
+      }
+    ]
+  },
+  {
+    "id": "naga-2025",
+    "title": "Naga fireballs, Nong Khai — official count of 287",
+    "title_th": "บั้งไฟพญานาคหนองคาย — ยอดทางการ 287 ลูก",
+    "date": "2025-10-07",
+    "date_label": "7 October 2025 (Ok Phansa)",
+    "date_precision": "day",
+    "location_name": "Rattanawapi and Phon Phisai, Nong Khai",
+    "location_name_th": "อำเภอรัตนวาปีและโพนพิสัย จังหวัดหนองคาย",
+    "province": "Nong Khai",
+    "province_th": "หนองคาย",
+    "lat": 18.111,
+    "lng": 103.128,
+    "coord_precision": "area",
+    "coord_note": "Official district totals: 237 in Rattanawapi, 50 in Phon Phisai. The busiest named spot was Ban Nong Kaeo / Nong Kaeo Nuea, tambon Phon Phaeng, Rattanawapi (40 balls).",
+    "category": "naga_fireballs",
+    "credibility": "media_reported",
+    "credibility_note": "PPTV and Matichon both cited official figures forwarded by the districts to Nong Khai provincial disaster-prevention officials.",
+    "summary": "On Ok Phansa, 7 October 2025, official district reports tallied 287 Naga fireballs in Nong Khai: 237 in Rattanawapi and 50 in Phon Phisai. The single busiest named site was Ban Nong Kaeo–Nong Kaeo Nuea in Rattanawapi, with 40 balls. About 31,500 people came to watch — far fewer than the more than 140,000 reported the year before. The 2025 total was 84 balls below 2024.",
+    "summary_th": "ในวันออกพรรษา 7 ตุลาคม 2568 ข้อมูลทางการที่อำเภอรายงานไปยังป้องกันจังหวัดหนองคายระบุว่ามีลูกไฟ 287 ลูก แบ่งเป็นรัตนวาปี 237 ลูก และโพนพิสัย 50 ลูก จุดที่มีจำนวนมากที่สุดคือบ้านหนองแก้ว–หนองแก้วเหนือ ต.โพนแพง อ.รัตนวาปี จำนวน 40 ลูก มีผู้ชมประมาณ 31,500 คน น้อยกว่าปี 2567 ทั้งจำนวนลูกไฟ (น้อยกว่า 84 ลูก) และจำนวนผู้ชม",
+    "sources": [
+      {
+        "name": "PPTVHD36",
+        "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/258729"
+      },
+      {
+        "name": "Matichon",
+        "url": "https://www.matichon.co.th/region/news_5402036"
+      }
+    ]
+  },
+  {
+    "id": "fireball-2015-09-07",
+    "title": "Daylight fireball over Bangkok, Korat and Kanchanaburi",
+    "title_th": "ลูกไฟกลางวันเหนือกรุงเทพฯ นครราชสีมา และกาญจนบุรี",
+    "date": "2015-09-07",
+    "date_label": "7 September 2015, about 08:40",
+    "date_precision": "day",
+    "time_local": "08:40",
+    "location_name": "Bangkok (also reported in Nakhon Ratchasima and Kanchanaburi)",
+    "location_name_th": "กรุงเทพมหานคร (มีรายงานจากนครราชสีมาและกาญจนบุรีด้วย)",
+    "province": "Bangkok",
+    "province_th": "กรุงเทพมหานคร",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "coord_precision": "area",
+    "coord_note": "Widely seen; the pin is in Bangkok, where many street-level reports were filed. The object was estimated 80–120 km up, so it was not over a single neighbourhood.",
+    "category": "fireball",
+    "credibility": "explained",
+    "explanation": "Likely a meteor or decaying space debris. NARIT examined clips and estimated an altitude of 80–120 km. The site satview.org listed Planet Labs Flock 1B-11 (object 40459U) as due to re-enter around that time. A Bangkok Planetarium official also mentioned a burning balloon as a less favoured idea. Astronomer Phil Plait publicly described it as a rock burning up.",
+    "explanation_th": "มีโอกาสสูงว่าเป็นดาวตกหรือเศษซากอวกาศ สดร. ตรวจคลิปแล้วประมาณว่าอยู่สูง 80–120 กม. เว็บ satview.org ระบุว่าชิ้นส่วน Flock 1B-11 (40459U) กำหนดเผาไหม้ในบรรยากาศราวเวลานั้น เจ้าหน้าที่ท้องฟ้าจำลองกรุงเทพฯ เคยเสนอว่าอาจเป็นบอลลูนไหม้ นักดาราศาสตร์ฟิล เพลต กล่าวว่าน่าจะเป็นหินที่เผาไหม้ในบรรยากาศ",
+    "credibility_note": "A well-documented, multi-province event. Officials did not all name the same object, but they agreed it was a natural or orbital re-entry fireball, not an unknown craft.",
+    "summary": "A bright fireball with a smoke trail crossed the northern sky of Bangkok around 08:40, and people in Nakhon Ratchasima and Kanchanaburi reported the same light. Videos spread quickly. The National Astronomical Research Institute of Thailand studied the clips and put the object 80 to 120 kilometres up. Officials left open whether it was a meteor or space junk; a tracking site listed a Planet Labs CubeSat as due to re-enter near that time.",
+    "summary_th": "ลูกไฟสว่างพร้อมรอยควันพาดท้องฟ้าด้านเหนือของกรุงเทพฯ ราว 08.40 น. และมีผู้เห็นที่นครราชสีมาและกาญจนบุรี สดร. ตรวจคลิปแล้วประเมินว่าวัตถุอยู่สูง 80–120 กิโลเมตร โดยยังไม่ชี้ขาดว่าเป็นดาวตกหรือขยะอวกาศ และมีข้อมูลจากเว็บติดตามดาวเทียมว่าชิ้นส่วน Flock 1B-11 กำหนดเผาไหม้ราวเวลานั้น",
+    "sources": [
+      {
+        "name": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/general/683596/fireball-hurtles-over-thailand"
+      }
+    ]
+  },
+  {
+    "id": "fireball-2015-11-02",
+    "title": "Suspected meteor over many Thai provinces",
+    "title_th": "วัตถุต้องสงสัยว่าเป็นดาวตกเหนือหลายจังหวัด",
+    "date": "2015-11-02",
+    "date_label": "2 November 2015, about 20:35",
+    "date_precision": "day",
+    "time_local": "20:35",
+    "location_name": "Bangkok and several provinces",
+    "location_name_th": "กรุงเทพมหานครและหลายจังหวัด",
+    "province": "Bangkok",
+    "province_th": "กรุงเทพมหานคร",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "coord_precision": "area",
+    "coord_note": "Seen from Bangkok, Chon Buri, Ratchaburi, Kanchanaburi, Khon Kaen, Nakhon Pathom and elsewhere. The pin is in Bangkok as a representative location for a high-altitude fireball.",
+    "category": "fireball",
+    "credibility": "explained",
+    "explanation": "The Thai Astronomical Society said it was expected to be a meteor. This was a few hours after dusk on 2 November, during the period of the Taurid meteor shower.",
+    "explanation_th": "สมาคมดาราศาสตร์ไทยระบุว่าคาดว่าเป็นดาวตก เหตุเกิดช่วงค่ำวันที่ 2 พฤศจิกายน ซึ่งอยู่ในช่วงฝนดาวตกทอริดส์",
+    "credibility_note": "Multi-province videos and an immediate statement from the Thai Astronomical Society.",
+    "summary": "Around 20:35 a large ball of fire was seen from Bangkok, Chon Buri, Ratchaburi, Kanchanaburi, Khon Kaen, Nakhon Pathom and other provinces. The Thai Astronomical Society said shortly afterwards that the object was expected to be a meteor.",
+    "summary_th": "ราว 20.35 น. มีลูกไฟขนาดใหญ่ให้เห็นจากกรุงเทพฯ ชลบุรี ราชบุรี กาญจนบุรี ขอนแก่น นครปฐม และจังหวัดอื่น สมาคมดาราศาสตร์ไทยแถลงไม่นานหลังจากนั้นว่าคาดว่าเป็นดาวตก",
+    "sources": [
+      {
+        "name": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/general/751972/suspected-meteor-lights-up-thai-skies"
+      }
+    ]
+  },
+  {
+    "id": "khao-kala-2015",
+    "title": "Khao Kala, Nakhon Sawan — a long-running UFO community",
+    "title_th": "เขากะลา นครสวรรค์ — ชุมชนที่เล่าถึงจานบินมานาน",
+    "date": "2015-05-24",
+    "date_label": "Feature published 24 May 2015 (individual encounters often undated)",
+    "date_precision": "month",
+    "time_local": null,
+    "location_name": "Khao Kala (Hill 145), Nakhon Sawan",
+    "location_name_th": "เขากะลา (เนิน 145) จังหวัดนครสวรรค์",
+    "province": "Nakhon Sawan",
+    "province_th": "นครสวรรค์",
+    "lat": 15.523,
+    "lng": 100.125,
+    "coord_precision": "area",
+    "coord_note": "Geocoded to the Khao Kala area of Nakhon Sawan, the hill named in the Bangkok Post feature.",
+    "category": "disc",
+    "credibility": "media_reported",
+    "credibility_note": "A newspaper feature collecting local testimony, not a single dated, instrumented sighting. Dates of several encounters are not given. This is a documented hotspot of claims, not verified evidence of craft.",
+    "summary": "A Bangkok Post investigation described the village around Khao Kala, or Hill 145, in Nakhon Sawan as a well-known gathering place for people who say they see lights and disc-shaped objects and, in some cases, meditate to contact them. The article quotes a girl who recalled an 'upside-down wok' in the morning sky, a man who described a bright orange-centred rotating object, and a neighbour who said a quiet, light-covered object came close one evening and then sped away. Almost every house the reporter visited in the village had some unexplained-sky story. The accounts are presented here as media-reported testimony, not as confirmed events with firm dates.",
+    "summary_th": "บทความพิเศษของบางกอกโพสต์บรรยายหมู่บ้านรอบเขากะลาหรือเนิน 145 จังหวัดนครสวรรค์ ว่าเป็นจุดรวมตัวของผู้ที่เล่าว่าเห็นแสงและวัตถุคล้ายจานบิน และบางคนนั่งสมาธิเพื่อติดต่อ บทความอ้างคำบอกเล่าของเด็กที่เห็นวัตถุคล้ายกระทะคว่ำในฟ้าเช้า คนที่เห็นวัตถุกลมมีแสงส้มหมุน และเพื่อนบ้านที่เล่าวัตถุเงียบมีไฟเข้ามาใกล้แล้วพุ่งหนี ผู้สื่อข่าวระบุว่าเกือบทุกบ้านในหมู่บ้านมีเรื่องบนฟ้าที่อธิบายไม่ได้ ไฟล์นี้เป็นคำบอกเล่าที่สื่อรายงาน ไม่ใช่เหตุการณ์ที่ยืนยันวันเวลาได้อย่างแน่นหนา",
+    "sources": [
+      {
+        "name": "Bangkok Post — The truth is out there ... in Nakhon Sawan",
+        "url": "https://www.bangkokpost.com/thailand/special-reports/570855/the-truth-is-out-there-in-nakhon-sawan"
+      }
+    ]
+  },
+  {
+    "id": "rocket-ubon-2017",
+    "title": "Streak, mid-air boom, then metal debris in Khong Chiam",
+    "title_th": "ลำแสง เสียงระเบิดกลางอากาศ แล้วพบเศษโลหะที่โขงเจียม",
+    "date": "2017-11-15",
+    "date_label": "15 November 2017, about 02:00",
+    "date_precision": "day",
+    "time_local": "02:00",
+    "location_name": "Na Pho Klang, Khong Chiam, Ubon Ratchathani",
+    "location_name_th": "ตำบลนาโพธิ์กลาง อำเภอโขงเจียม จังหวัดอุบลราชธานี",
+    "province": "Ubon Ratchathani",
+    "province_th": "อุบลราชธานี",
+    "lat": 15.348,
+    "lng": 105.518,
+    "coord_precision": "area",
+    "coord_note": "Geocoded to tambon Na Pho Klang, Khong Chiam, where debris was collected from four villages along the Thai–Lao border.",
+    "category": "rocket_reentry_starlink",
+    "credibility": "explained",
+    "explanation": "A Thai space specialist who inspected the wreckage identified it as part of a launch vehicle used to place a craft into orbit — space debris — not a mystery aircraft.",
+    "explanation_th": "ผู้เชี่ยวชาญด้านอวกาศของไทยที่ตรวจชิ้นส่วนระบุว่าเป็นชิ้นส่วนจรวดส่งยานขึ้นสู่วงโคจร หรือขยะอวกาศ ไม่ใช่ยานปริศนา",
+    "credibility_note": "Physical debris was recovered and examined; the identification comes from a named expert quoted in contemporaneous news.",
+    "summary": "About 02:00 on 15 November 2017, people living along the Thai–Lao border saw a long streak of light, then heard a mid-air explosion across several districts of Ubon Ratchathani. At dawn, metal fragments were found in four villages of tambon Na Pho Klang, Khong Chiam. After inspection, a Thai space expert said the pieces were from an orbital launch vehicle.",
+    "summary_th": "ราว 02.00 น. ของวันที่ 15 พฤศจิกายน 2560 ชาวบ้านตามแนวชายแดนไทย–ลาวเห็นลำแสงพุ่งยาว แล้วได้ยินเสียงระเบิดกลางอากาศในหลายอำเภอของอุบลราชธานี รุ่งเช้าพบเศษโลหะในสี่หมู่บ้านของตำบลนาโพธิ์กลาง อ.โขงเจียม ผู้เชี่ยวชาญด้านอวกาศของไทยระบุหลังจากตรวจสอบว่าเป็นชิ้นส่วนจรวดส่งยานขึ้นสู่วงโคจร",
+    "sources": [
+      {
+        "name": "Manager Online",
+        "url": "https://mgronline.com/local/detail/9600000115927"
+      }
+    ]
+  },
+  {
+    "id": "chiangmai-lantern-2020",
+    "title": "Dark oval over Doi Suthep — NARIT says a sky lantern",
+    "title_th": "วัตถุสีเข้มเหนือดอยสุเทพ — สดร. ชี้เป็นโคมลอย",
+    "date": "2020-10-08",
+    "date_label": "8 October 2020, afternoon",
+    "date_precision": "day",
+    "location_name": "Chiang Mai, toward Doi Suthep",
+    "location_name_th": "เชียงใหม่ ทิศทางดอยสุเทพ",
+    "province": "Chiang Mai",
+    "province_th": "เชียงใหม่",
+    "lat": 18.805,
+    "lng": 98.922,
+    "coord_precision": "area",
+    "coord_note": "Geocoded toward Doi Suthep, the landmark named in the circulating video and in NARIT's note.",
+    "category": "light_orb",
+    "credibility": "explained",
+    "explanation": "NARIT concluded the object was most likely a floating sky lantern: it was dark, not sky-coloured, apparently close to the ground, and moved slowly — consistent with lantern releases common in the area, not a distant craft.",
+    "explanation_th": "สดร. สรุปว่าวัตถุน่าจะเป็นโคมลอย เพราะมีสีดำไม่กลืนกับฟ้า ลอยค่อนข้างต่ำ และเคลื่อนที่ช้า ซึ่งสอดคล้องกับการปล่อยโคมในพื้นที่ ไม่ใช่ยานที่อยู่ไกล",
+    "credibility_note": "A widely shared video, followed the next day by a public technical note from Thailand's national astronomy institute.",
+    "summary": "A video of a dark oval object above Chiang Mai, apparently toward Doi Suthep, circulated on 8 October 2020 and was widely called a UFO. The next day NARIT, the National Astronomical Research Institute of Thailand, said the object looked nearby, slow and solid black rather than washed out by distance, and was most likely a sky lantern.",
+    "summary_th": "คลิปวัตถุสีเข้มรูปไข่เหนือเมืองเชียงใหม่ คล้ายทิศดอยสุเทพ แพร่กระจายเมื่อ 8 ตุลาคม 2563 และถูกเรียกกันว่ายูเอฟโอ วันต่อมาสถาบันวิจัยดาราศาสตร์แห่งชาติระบุว่าวัตถุดูใกล้ พื้นดิน เคลื่อนช้า และสีดำทึบ จึงน่าจะเป็นโคมลอย",
+    "sources": [
+      {
+        "name": "Thai PBS, citing NARIT",
+        "url": "https://www.thaipbs.or.th/news/content/297215"
+      }
+    ],
+    "photos": [
+      {
+        "src": "img/illustrations/radar-disc.png",
+        "alt": "Stylized illustration of a night-sky object over a radar scope",
+        "credit": "Illustration only — not evidence, and not a frame from the 2020 video. Generated for this archive.",
+        "kind": "illustration"
+      }
+    ]
+  },
+  {
+    "id": "iss-prachuap-2021",
+    "title": "Slow bright object over Prachuap Khiri Khan — the ISS",
+    "title_th": "วัตถุสว่างเคลื่อนช้าเหนือประจวบคีรีขันธ์ — สถานีอวกาศนานาชาติ",
+    "date": "2021-01-13",
+    "date_label": "13 January 2021, night",
+    "date_precision": "day",
+    "location_name": "Mueang Prachuap Khiri Khan",
+    "location_name_th": "อำเภอเมืองประจวบคีรีขันธ์",
+    "province": "Prachuap Khiri Khan",
+    "province_th": "ประจวบคีรีขันธ์",
+    "lat": 11.811,
+    "lng": 99.797,
+    "coord_precision": "area",
+    "coord_note": "Geocoded to Mueang district, Prachuap Khiri Khan, as named in The Nation's report.",
+    "category": "rocket_reentry_starlink",
+    "credibility": "explained",
+    "explanation": "King Mongkut Memorial Park of Science and Technology (Wa Ko) said the International Space Station had passed southwest to northeast over Indonesia, Thailand and Cambodia that evening, brighter than nearby stars, at about 7.66 km/s, with seven astronauts aboard.",
+    "explanation_th": "อุทยานวิทยาศาสตร์ ณ หว้ากอ ระบุว่าสถานีอวกาศนานาชาติเคลื่อนจากตะวันตกเฉียงใต้ไปตะวันออกเฉียงเหนือ ผ่านอินโดนีเซีย ไทย และกัมพูชาในค่ำนั้น สว่างกว่าดาวใกล้เคียง ด้วยความเร็วประมาณ 7.66 กม./วินาที และมีนักบินอวกาศ 7 คนอยู่บนสถานี",
+    "credibility_note": "Identified the same evening by a local science park that tracks passes.",
+    "summary": "Residents of Mueang Prachuap Khiri Khan watched a bright, slowly moving object just above the horizon heading northeast and took it for something unknown. Later that night the nearby King Mongkut Memorial Park of Science and Technology said the International Space Station had just crossed the country.",
+    "summary_th": "ชาวอำเภอเมืองประจวบคีรีขันธ์เห็นวัตถุสว่างเคลื่อนช้าเหนือขอบฟ้าไปทางตะวันออกเฉียงเหนือ จึงสงสัยว่าเป็นวัตถุปริศนา ต่อมาในคืนเดียวกันอุทยานวิทยาศาสตร์ ณ หว้ากอชี้แจงว่าเป็นสถานีอวกาศนานาชาติที่เพิ่งเคลื่อนผ่านประเทศไทย",
+    "sources": [
+      {
+        "name": "The Nation",
+        "url": "https://www.nationthailand.com/in-focus/30401240"
+      }
+    ]
+  },
+  {
+    "id": "krabi-2021-balloon",
+    "title": "Dark bus-sized object over Krabi town — possible weather balloon",
+    "title_th": "วัตถุสีเข้มขนาดราวรถบัสเหนือเมืองกระบี่ — อาจเป็นบอลลูนตรวจอากาศ",
+    "date": "2021-06",
+    "date_label": "June 2021 (report published 19 June 2021; exact sighting day not stated)",
+    "date_precision": "month",
+    "location_name": "Pak Nam, Mueang Krabi (activity field by the municipality office)",
+    "location_name_th": "ตำบลปากน้ำ อำเภอเมืองกระบี่ (ลานกิจกรรมใกล้สำนักงานเทศบาล)",
+    "province": "Krabi",
+    "province_th": "กระบี่",
+    "lat": 8.0863,
+    "lng": 98.9063,
+    "coord_precision": "area",
+    "coord_note": "Geocoded to Pak Nam, Mueang Krabi, the neighbourhood named in the Thai News report.",
+    "category": "disc",
+    "credibility": "media_reported",
+    "explanation": "Chulalongkorn physicists suggested a weather balloon or small helicopter, noting the site is not far from an airport and that a pale balloon can look black in backlight. Jessada Denduangboripant also leaned toward a weather balloon. Another academic, Weerachai Phutdhawong, said that until it was identified it remained a UFO in the literal sense — unidentified — not that it was alien.",
+    "explanation_th": "นักฟิสิกส์จุฬาฯ เสนอว่าอาจเป็นบอลลูนตรวจอากาศหรือเฮลิคอปเตอร์ขนาดเล็ก เพราะอยู่ไม่ไกลสนามบิน และบอลลูนสีอ่อนอาจดูดำเมื่อถ่ายย้อนแสง อาจารย์เจษฎาโน้มไปทางบอลลูนเช่นกัน ส่วนอาจารย์วีรชัยระบุว่าตอนนั้นยังเรียกว่า UFO ได้ในความหมายว่ายังระบุไม่ได้ ไม่ได้หมายความว่าเป็นยานต่างดาว",
+    "credibility_note": "About ten model-aircraft hobbyists reported a shared daytime sighting. The most common expert view was a weather balloon, but it was not photographed with enough detail for a laboratory identification.",
+    "summary": "Hobbyists flying model aircraft at a field beside Krabi's municipal office described a silent, dark object about the size of a bus, roughly a kilometre up, that hung for three or four minutes and then faded. The story spread on 19 June 2021. Several university scientists publicly favoured a weather balloon; one noted that 'UFO' only means the object had not yet been identified.",
+    "summary_th": "กลุ่มผู้เล่นเครื่องบินบังคับที่ลานข้างสำนักงานเทศบาลเมืองกระบี่เล่าว่าเห็นวัตถุสีเข้มเงียบ กรขนาดราวรถบัส สูงประมาณหนึ่งกิโลเมตร ลอยนิ่งสามถึงสี่นาทีแล้วจางหาย ข่าวนี้ออกเมื่อ 19 มิถุนายน 2564 นักวิทยาศาสตร์หลายคนเสนอว่าเป็นบอลลูนตรวจอากาศ และมีผู้ย้ำว่าคำว่า UFO ในที่นี้หมายถึงยังระบุไม่ได้",
+    "sources": [
+      {
+        "name": "Thai News Online",
+        "url": "https://www.thainewsonline.co/news/816816"
+      }
+    ]
+  },
+  {
+    "id": "phitsanulok-fireball-2021",
+    "title": "Green fireball and a boom over the lower north",
+    "title_th": "ลูกไฟสีเขียวและเสียงดังเหนือภาคเหนือตอนล่าง",
+    "date": "2021-11-03",
+    "date_label": "3 November 2021, about 19:25",
+    "date_precision": "day",
+    "time_local": "19:25",
+    "location_name": "Phitsanulok (also seen in several neighbouring provinces)",
+    "location_name_th": "พิษณุโลก (มีผู้เห็นในจังหวัดใกล้เคียงด้วย)",
+    "province": "Phitsanulok",
+    "province_th": "พิษณุโลก",
+    "lat": 16.8211,
+    "lng": 100.2659,
+    "coord_precision": "area",
+    "coord_note": "Many provinces saw the same high-altitude fireball. The pin is in Phitsanulok, the province named in the Thairath headline and several dashcam clips.",
+    "category": "fireball",
+    "credibility": "explained",
+    "explanation": "NARIT said the object was a fireball (bolide) — a bright meteor — and that any fragments had likely already burned to dust. The date falls near the Taurid and approaching Leonid showers. No ground damage was reported.",
+    "explanation_th": "สดร. ระบุว่าเป็นดาวตกชนิดลูกไฟ (ไฟร์บอล) และชิ้นส่วนน่าจะไหม้เป็นฝุ่นในบรรยากาศแล้ว วันดังกล่าวใกล้ช่วงฝนดาวตกทอริดส์และใกล้ลีโอนิดส์ ไม่มีรายงานความเสียหายบนพื้น",
+    "credibility_note": "Multi-province dashcam clips plus a NARIT explanation the same week.",
+    "summary": "At about 19:25 on 3 November 2021 a large green fireball was seen over Phitsanulok, Uttaradit, Phetchabun, Loei, Udon Thani, Nong Khai, Khon Kaen and Kamphaeng Phet, with a boom lasting several seconds. NARIT said it was a bolide and that debris had almost certainly burned up.",
+    "summary_th": "ราว 19.25 น. ของวันที่ 3 พฤศจิกายน 2564 มีลูกไฟสีเขียวขนาดใหญ่ให้เห็นที่พิษณุโลก อุตรดิตถ์ เพชรบูรณ์ เลย อุดรธานี หนองคาย ขอนแก่น และกำแพงเพชร พร้อมเสียงดังคล้ายระเบิดหลายวินาที สดร. ชี้ว่าเป็นดาวตกชนิดลูกไฟ และชิ้นส่วนน่าจะไหม้หมดในบรรยากาศ",
+    "sources": [
+      {
+        "name": "Thairath",
+        "url": "https://www.thairath.co.th/news/local/north/2235765"
+      }
+    ]
+  },
+  {
+    "id": "prachuap-balloon-2022",
+    "title": "Star-like object over Prachuap — a weather balloon",
+    "title_th": "วัตถุคล้ายดาวเหนือประจวบฯ — บอลลูนตรวจอากาศ",
+    "date": "2022-04-16",
+    "date_label": "16 April 2022, morning",
+    "date_precision": "day",
+    "location_name": "Bang Saphan Noi to Mueang Prachuap Khiri Khan",
+    "location_name_th": "จากบางสะพานน้อยถึงเมืองประจวบคีรีขันธ์",
+    "province": "Prachuap Khiri Khan",
+    "province_th": "ประจวบคีรีขันธ์",
+    "lat": 11.4,
+    "lng": 99.6,
+    "coord_precision": "area",
+    "coord_note": "Seen along a stretch from Bang Saphan Noi to Mueang. The pin is between those districts.",
+    "category": "light_orb",
+    "credibility": "explained",
+    "explanation": "Astronomers at Wa Ko Science Park viewed it through a telescope: a white sphere, not twinkling, with a hanging cord, and almost stationary. They ruled out a star or planet (no twinkle, no telescopic features), a satellite or the ISS (too still, and not reported in other provinces), and a sky lantern (shape and size). They identified a meteorological weather balloon.",
+    "explanation_th": "นักดาราศาสตร์ที่อุทยานวิทยาศาสตร์หว้ากอมองผ่านกล้องโทรทรรศน์เห็นทรงกลมสีขาว ไม่กระพริบ มีเชือกห้อย และแทบไม่เคลื่อนที่ จึงตัดดาวฤกษ์ ดาวเคราะห์ สถานีอวกาศ ดาวเทียม และลูกโป่งสวรรค์ออก และสรุปว่าเป็นบอลลูนตรวจอากาศ",
+    "credibility_note": "Identified visually through a telescope by a local professional astronomy team the same morning.",
+    "summary": "On the morning of 16 April 2022, people from Bang Saphan Noi to Mueang Prachuap Khiri Khan shared clips of a star-like object in the northwest sky that some called a UFO. The astronomy team at Wa Ko Science Park observed a white sphere with a hanging line and almost no motion, and identified a weather balloon.",
+    "summary_th": "เช้าวันที่ 16 เมษายน 2565 มีผู้แชร์คลิปวัตถุคล้ายดาวทางทิศตะวันตกเฉียงเหนือตั้งแต่บางสะพานน้อยถึงเมืองประจวบคีรีขันธ์ ทีมดาราศาสตร์อุทยานวิทยาศาสตร์ ณ หว้ากอสังเกตเห็นทรงกลมสีขาวมีเชือกห้อยและแทบไม่เคลื่อน จึงสรุปว่าเป็นบอลลูนตรวจอากาศ",
+    "sources": [
+      {
+        "name": "Thai PBS",
+        "url": "https://www.thaipbs.or.th/news/content/314665"
+      }
+    ]
+  },
+  {
+    "id": "starlink-north-2023",
+    "title": "Train of lights over northern Thailand — Starlink",
+    "title_th": "ขบวนแสงเหนือภาคเหนือ — ดาวเทียมสตาร์ลิงก์",
+    "date": "2023-06-01",
+    "date_label": "1 June 2023, about 19:55",
+    "date_precision": "day",
+    "time_local": "19:55",
+    "location_name": "Northern Thailand (several provinces)",
+    "location_name_th": "ภาคเหนือของประเทศไทย (หลายจังหวัด)",
+    "province": "Chiang Mai",
+    "province_th": "เชียงใหม่",
+    "lat": 18.7883,
+    "lng": 98.9853,
+    "coord_precision": "area",
+    "coord_note": "NARIT said the train crossed the northern sky generally. The pin is in Chiang Mai as a representative northern point, not a precise flight path.",
+    "category": "rocket_reentry_starlink",
+    "credibility": "explained",
+    "explanation": "NARIT matched the time and appearance to Starlink group G6-3: 22 newly launched satellites moving together, looking like a line of stars that travel faster than the stars around them.",
+    "explanation_th": "สดร. จับเวลาและลักษณะที่เห็นได้กับดาวเทียมสตาร์ลิงก์กลุ่ม G6-3 จำนวน 22 ดวงที่เพิ่งปล่อยและเคลื่อนเป็นขบวน ดูคล้ายดาวเรียงแถวแต่เคลื่อนเร็วกว่าดาวรอบข้าง",
+    "credibility_note": "A same-night identification by Thailand's national astronomy institute, later reported by Thai PBS and other outlets.",
+    "summary": "Around 19:55 on 1 June 2023, people in the north of Thailand reported a strange line of lights crossing the sky. NARIT checked orbital data and said the lights were 22 Starlink satellites from launch group G6-3 moving through the northern sky in formation.",
+    "summary_th": "ราว 19.55 น. ของวันที่ 1 มิถุนายน 2566 มีผู้ในภาคเหนือรายงานว่าเห็นแสงประหลาดเคลื่อนเป็นขบวน สดร. ตรวจข้อมูลวงโคจรแล้วระบุว่าเป็นดาวเทียมสตาร์ลิงก์กลุ่ม G6-3 จำนวน 22 ดวงที่กำลังเคลื่อนผ่านท้องฟ้าภาคเหนือ",
+    "sources": [
+      {
+        "name": "Thai PBS, citing NARIT",
+        "url": "https://www.thaipbs.or.th/news/content/328426"
+      }
+    ]
+  },
+  {
+    "id": "khonkaen-clouds-2023",
+    "title": "Four 'craft' in a Khon Kaen photograph — likely clouds",
+    "title_th": "ภาพวัตถุสี่ชิ้นที่ขอนแก่น — น่าจะเป็นก้อนเมฆ",
+    "date": "2023-09-22",
+    "date_label": "22 September 2023",
+    "date_precision": "day",
+    "location_name": "Ban Thaen, Chonnabot, Khon Kaen",
+    "location_name_th": "บ้านแท่น อำเภอชนบท จังหวัดขอนแก่น",
+    "province": "Khon Kaen",
+    "province_th": "ขอนแก่น",
+    "lat": 16.005,
+    "lng": 102.625,
+    "coord_precision": "area",
+    "coord_note": "Geocoded to Chonnabot district, Khon Kaen, where the hospital director who posted the pictures works in tambon Ban Thaen.",
+    "category": "disc",
+    "credibility": "explained",
+    "explanation": "Chemist and public science commentator Weerachai 'Ajarn Odd' Phutdhawong said the photograph showed moving cloud masses and shadows, and that reading them as spacecraft was consistent with pareidolia. He did not claim a laboratory analysis of the original file, and he left open that NASA had not closed the broader UAP question.",
+    "explanation_th": "รศ.ดร.วีรชัย พุทธวงศ์ (อาจารย์อ๊อด) ให้ความเห็นว่าภาพที่เห็นเป็นการเคลื่อนของก้อนเมฆและเงา และการมองเป็นยานอาจเข้าได้กับอาการแพริโดเลีย โดยไม่ได้ตรวจไฟล์ต้นฉบับในห้องปฏิบัติการ และย้ำว่าหน่วยงานอย่าง NASA ก็ยังไม่ได้ปิดประเด็น UAP โดยรวม",
+    "credibility_note": "A single set of photographs interpreted after the fact. The 'explained' tag follows the publicly quoted scientific commentary, not a formal investigation.",
+    "summary": "On 22 September 2023 the director of a sub-district health-promoting hospital in Ban Thaen, Chonnabot, Khon Kaen, posted pictures of what he took to be about four unusual objects in the sky. The images were widely shared. A few days later Weerachai Phutdhawong told Thairath the shapes were consistent with clouds and pareidolia rather than spacecraft.",
+    "summary_th": "เมื่อ 22 กันยายน 2566 ผู้อำนวยการโรงพยาบาลส่งเสริมสุขภาพตำบลบ้านแท่น อ.ชนบท จ.ขอนแก่น โพสต์ภาพที่เขาเห็นว่ามีวัตถุประหลาดราวสี่ชิ้นบนฟ้า ภาพถูกแชร์กว้าง หลายวันต่อมา รศ.ดร.วีรชัย พุทธวงศ์ ให้สัมภาษณ์ว่าลักษณะที่เห็นสอดคล้องกับก้อนเมฆและอาการแพริโดเลียมากกว่ายานอวกาศ",
+    "sources": [
+      {
+        "name": "The Thaiger, citing Thairath and Weerachai Phutdhawong",
+        "url": "https://thethaiger.com/th/news/950583/"
+      }
+    ]
+  },
+  {
+    "id": "kaeng-krachan-2023",
+    "title": "Green glow over Kaeng Krachan — squid-boat lights, not an aurora",
+    "title_th": "แสงเขียวเหนือแก่งกระจาน — แสงเรือไดหมึก ไม่ใช่แสงเหนือ",
+    "date": "2023-11-03",
+    "date_label": "Around 3 November 2023 (photos circulated from that Friday)",
+    "date_precision": "day",
+    "location_name": "Panoenthung viewpoint, Kaeng Krachan National Park, Phetchaburi",
+    "location_name_th": "จุดชมวิวพะเนินทุ่ง อุทยานแห่งชาติแก่งกระจาน จังหวัดเพชรบุรี",
+    "province": "Phetchaburi",
+    "province_th": "เพชรบุรี",
+    "lat": 12.868,
+    "lng": 99.486,
+    "coord_precision": "area",
+    "coord_note": "Geocoded to the Panoenthung (Khao Phanoen Thung) viewpoint named in official photographs and news reports.",
+    "category": "light_orb",
+    "credibility": "explained",
+    "explanation": "Authorities and astronomers said the glow was not an aurora. Thailand is too far from the magnetic poles for aurora displays of this kind. Commentators including Jessada Denduangboripant attributed the colour to powerful green lamps on squid boats in the Gulf, reflecting off clouds.",
+    "explanation_th": "ทางการและนักดาราศาสตร์ระบุว่าไม่ใช่แสงออโรรา เพราะประเทศไทยอยู่ไกลขั้วโลกมาก อาจารย์เจษฎาและผู้ให้ความเห็นอื่นชี้ว่าเป็นแสงไฟสีเขียวของเรือไดหมึกในอ่าวไทยที่สะท้อนกับก้อนเมฆ",
+    "credibility_note": "Photographs were circulated by a national-park-related page. The identification as boat lights, not aurora, was made by scientists and repeated by Bangkok Post, Thai PBS and Thairath.",
+    "summary": "Photographs of a green band in the sky, taken from the Panoenthung viewpoint in Kaeng Krachan National Park, circulated from Friday 3 November 2023 and prompted talk of an aurora. Officials and astronomers said it was not an aurora and pointed instead to green lights from squid-fishing boats reflecting on cloud.",
+    "summary_th": "ภาพแถบแสงสีเขียวจากจุดชมวิวพะเนินทุ่งในอุทยานแห่งชาติแก่งกระจาน เริ่มถูกเผยแพร่ตั้งแต่วันศุกร์ที่ 3 พฤศจิกายน 2566 จนมีคนสงสัยว่าเป็นแสงเหนือ ทางการและนักดาราศาสตร์ชี้ว่าไม่ใช่ และอธิบายว่าเป็นแสงเรือไดหมึกที่สะท้อนกับเมฆ",
+    "sources": [
+      {
+        "name": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/general/2678634/mysterious-green-light-above-thai-national-park-not-aurora"
+      },
+      {
+        "name": "Thai PBS",
+        "url": "https://www.thaipbs.or.th/news/content/333535"
+      }
+    ]
+  },
+  {
+    "id": "fireball-2024-03-04",
+    "title": "Green fireball across central and eastern Thailand",
+    "title_th": "ลูกไฟสีเขียวพาดภาคกลางและภาคตะวันออก",
+    "date": "2024-03-04",
+    "date_label": "4 March 2024, about 21:00",
+    "date_precision": "day",
+    "time_local": "21:00",
+    "location_name": "Central and eastern Thailand (many provinces)",
+    "location_name_th": "ภาคกลางและภาคตะวันออก (หลายจังหวัด)",
+    "province": "Bangkok",
+    "province_th": "กรุงเทพมหานคร",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "coord_precision": "area",
+    "coord_note": "Seen from Bangkok and its vicinity, Ayutthaya, Suphan Buri, Kanchanaburi, Chon Buri, Samut Sakhon, Nakhon Nayok, Prachin Buri, Phetchaburi, Ratchaburi and Chachoengsao. The pin is in Bangkok as a representative point for a high-altitude fireball.",
+    "category": "fireball",
+    "credibility": "explained",
+    "explanation": "NARIT, quoted by Thai PBS, identified a bright meteor fireball.",
+    "explanation_th": "สดร. ซึ่งไทยพีบีเอสอ้างถึง ระบุว่าเป็นดาวตกชนิดลูกไฟ",
+    "credibility_note": "Many independent clips from different provinces, plus a NARIT identification the next day.",
+    "summary": "Around 21:00 on 4 March 2024 a large green fireball was filmed crossing the sky over a long list of central and eastern provinces, including Bangkok, Ayutthaya, Suphan Buri, Kanchanaburi, Chon Buri, Samut Sakhon, Nakhon Nayok, Prachin Buri, Phetchaburi, Ratchaburi and Chachoengsao. NARIT said it was a meteor fireball.",
+    "summary_th": "ราว 21.00 น. ของวันที่ 4 มีนาคม 2567 มีลูกไฟสีเขียวขนาดใหญ่ถูกถ่ายไว้ในหลายจังหวัดภาคกลางและตะวันออก รวมกรุงเทพฯ พระนครศรีอยุธยา สุพรรณบุรี กาญจนบุรี ชลบุรี สมุทรสาคร นครนายก ปราจีนบุรี เพชรบุรี ราชบุรี และฉะเชิงเทรา สดร. ระบุว่าเป็นดาวตกชนิดลูกไฟ",
+    "sources": [
+      {
+        "name": "Thai PBS, citing NARIT",
+        "url": "https://www.thaipbs.or.th/news/content/337721"
+      }
+    ]
+  },
+  {
+    "id": "fireball-2025-08-04",
+    "title": "Midnight fireball and boom over the Northeast",
+    "title_th": "ลูกไฟและเสียงดังหลังเที่ยงคืนเหนือภาคตะวันออกเฉียงเหนือ",
+    "date": "2025-08-04",
+    "date_label": "4 August 2025, just after midnight",
+    "date_precision": "day",
+    "time_local": "00:10",
+    "location_name": "Northeastern Thailand (Nakhon Ratchasima, Surin, Buri Ram, Si Sa Ket and some central provinces)",
+    "location_name_th": "ภาคตะวันออกเฉียงเหนือ (นครราชสีมา สุรินทร์ บุรีรัมย์ ศรีสะเกษ และบางจังหวัดภาคกลาง)",
+    "province": "Nakhon Ratchasima",
+    "province_th": "นครราชสีมา",
+    "lat": 14.9799,
+    "lng": 102.0978,
+    "coord_precision": "area",
+    "coord_note": "The Thai Astronomical Society listed several northeastern provinces and some central ones. The pin is in Nakhon Ratchasima, the first province named.",
+    "category": "fireball",
+    "credibility": "explained",
+    "explanation": "The Thai Astronomical Society said a meteor entered the atmosphere at about 80–120 km, producing a green flash (often linked to nickel) comparable in brightness to Venus, plus a sonic boom. Some residents first wondered about a drone or a border-related explosion; astronomers called it a natural fireball. It occurred during the wider Perseid season.",
+    "explanation_th": "สมาคมดาราศาสตร์ไทยระบุว่าสะเก็ดดาวเข้าบรรยากาศที่ความสูงราว 80–120 กม. เกิดแสงวาบสีเขียว (มักสัมพันธ์กับนิกเกิล) สว่างเทียบดาวศุกร์ และมีคลื่นกระแทก ชาวบ้านบางคนเคยสงสัยว่าเป็นโดรนหรือเกี่ยวข้องกับสถานการณ์ชายแดน แต่นักดาราศาสตร์ชี้ว่าเป็นลูกไฟธรรมชาติ ช่วงเวลานี้ใกล้ฝนดาวตกเพอร์เซอิดส์",
+    "credibility_note": "Multi-province recordings and a same-day statement by the Thai Astronomical Society, also reported by the Bangkok Post.",
+    "summary": "Just after midnight on Monday 4 August 2025 a very bright fireball and a loud boom were reported in Nakhon Ratchasima, Surin, Buri Ram, Si Sa Ket and some central provinces. The sudden flash briefly fuelled rumours of a drone or a blast linked to border tension. The Thai Astronomical Society said it was a meteor burning 80 to 120 kilometres up.",
+    "summary_th": "หลังเที่ยงคืนของวันจันทร์ที่ 4 สิงหาคม 2568 มีลูกไฟสว่างมากและเสียงดังรายงานจากนครราชสีมา สุรินทร์ บุรีรัมย์ ศรีสะเกษ และบางจังหวัดภาคกลาง แสงวาบทำให้มีคนสงสัยเรื่องโดรนหรือสถานการณ์ชายแดน สมาคมดาราศาสตร์ไทยชี้ว่าเป็นดาวตกที่เผาไหม้สูง 80–120 กิโลเมตร",
+    "sources": [
+      {
+        "name": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/general/3080924/fireball-lights-up-night-sky-over-several-provinces"
+      }
+    ]
+  }
+]

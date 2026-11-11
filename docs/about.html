@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About — Thailand UFO Files</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="about-page">
+  <div class="scanlines" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="brand">
+      <div class="brand-kicker">Classified archive</div>
+      <div class="brand-title">THAILAND UFO FILES</div>
+      <div class="brand-sub">Methodology & sources</div>
+    </div>
+    <div class="header-actions">
+      <a class="btn" href="index.html">← Dashboard</a>
+    </div>
+  </header>
+  <main class="about-wrap" style="margin-top:96px">
+    <h1>About this archive</h1>
+    <p><strong>Thailand UFO Files</strong> is a public, static dashboard of reported unidentified aerial phenomena, unusual lights and related sky events in Thailand. It is styled after a classified case-file cabinet from 1990s science-fiction television. The theme is for atmosphere only.</p>
+
+    <h2>Disclaimer</h2>
+    <p>Every entry is an unverified report aggregated from public sources. Nothing here is proof of extraterrestrial craft, secret programmes or supernatural beings. Many of the most dramatic lights have ordinary explanations: meteors and fireballs, the International Space Station, Starlink satellite trains, weather balloons, sky lanterns, clouds, squid-boat lamps, and rocket or satellite debris. Credibility tags are labels about the kind of source, not a score for “how alien” something looks. Coordinates are geocoded from named places and are often only as precise as a city, district or province.</p>
+
+    <h2>What is in the data</h2>
+    <p>The dataset aims at 2015–2026 and also keeps notable older public reports when a source supports them (for example 1968 filings from U-Tapao and Udorn). Quality was favoured over a round number. If a hundred firmly sourced, distinct Thai events could not be documented from reachable public pages, the archive does not invent the rest.</p>
+
+    <h2>Sources</h2>
+    <ul>
+      <li><strong>NUFORC</strong> (National UFO Reporting Center) public Thailand index. The live site presented a Cloudflare challenge from this build environment, so the index was read from a public Internet Archive snapshot dated 13 May 2026. Case links still point at nuforc.org. Witness text was paraphrased, not copied at length.</li>
+      <li><strong>News and official science notes:</strong> Bangkok Post, The Nation, Thai PBS, Thairath, Manager Online, BBC Thai, The Thaiger, Thai Channel 8, PPTV, Matichon, and comments attributed to NARIT (the National Astronomical Research Institute of Thailand) or the Thai Astronomical Society.</li>
+      <li><strong>Naga fireballs (บั้งไฟพญานาค):</strong> included only for years with a post-event count or a contemporary photograph — not from festival previews alone. Wikipedia’s overview is linked as background. The cause of the Mekong lights is disputed and is not settled here.</li>
+    </ul>
+
+    <h2>Sources that were skipped</h2>
+    <p>nuforc.org could not be fetched live (Cloudflare). Reddit’s public JSON search returned an HTML interstitial, so no Reddit posts were added. MUFON was not available as an open public dump. Some news photo-galleries returned 404. Access walls and robots restrictions were not circumvented.</p>
+
+    <h2>Photographs</h2>
+    <p>Hosted photographs are from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>, specifically J A Forbes’s <em>Beung Fai Phraya Nag</em> series (19 October 2013, CC BY-SA 4.0). Credit appears under each image. News-agency photographs are <em>not</em> copied or hosted; those cases link back to the article (“View source”). Atmospheric images such as the Mekong night scene and the radar disc are generated illustrations and are labelled “illustration, not evidence.” They must not be treated as photographs of events.</p>
+
+    <h2>Map pins</h2>
+    <p>Latitude and longitude are geocoded from the place name in the source (a beach, district, city or province). Precision is marked as <em>area</em>, <em>province</em>, or <em>unspecified</em>. A pin is never called “verified.” Reports with no usable place name appear in the case list only.</p>
+
+    <h2>How to host your own copy</h2>
+    <p>This site is static files in the <code>docs/</code> folder and is meant to be served by GitHub Pages from the <code>main</code> branch. To publish your own:</p>
+    <ol>
+      <li>Fork or clone <a href="https://github.com/piyaster11/thailand-ufo-files">github.com/piyaster11/thailand-ufo-files</a>.</li>
+      <li>In the new repository, open Settings → Pages and set the source to <strong>Deploy from a branch</strong>, branch <strong>main</strong>, folder <strong>/docs</strong>.</li>
+      <li>After a few minutes the site will be at <code>https://&lt;your-username&gt;.github.io/thailand-ufo-files/</code>.</li>
+    </ol>
+    <p>To rebuild the JSON after editing sources, run <code>python3 pipeline/build_sightings.py</code> from the repository root.</p>
+
+    <h2>Licences</h2>
+    <ul>
+      <li>Site code: MIT (see the repository licence file).</li>
+      <li>NUFORC narratives remain the witnesses’ and NUFORC’s; this project only paraphrases public index lines and links to the original records.</li>
+      <li>News text is summarised in original wording; copyright stays with the publishers. Follow the source link.</li>
+      <li>Wikimedia photographs: CC BY-SA 4.0, J A Forbes.</li>
+      <li>Fonts: Share Tech Mono, VT323 and Special Elite, SIL Open Font Licence, via the Google Fonts project.</li>
+      <li>Map tiles: © OpenStreetMap contributors, © CARTO.</li>
+    </ul>
+
+    <p style="margin-top:32px"><a class="btn" href="index.html">Return to the dashboard</a></p>
+  </main>
+</body>
+</html>
