@@ -12,10 +12,16 @@ This is a classified-file aesthetic, not a claim of secret knowledge. Every entr
 
 ![iPhone](screenshots/ufo-iphone.png)
 
+![Boot splash](screenshots/ufo2-boot.png)
+
+![Gallery](screenshots/ufo2-gallery.png)
+
+![Case with illustration](screenshots/ufo2-illustration.png)
+
 ## What’s on the dashboard
 
 - Dark, phosphor-green map of Thailand (Leaflet + OpenStreetMap tiles with a green CRT filter) with pulsing markers, clustering, a radar-sweep overlay and an optional heatmap
-- Case-file drawer for each report, with a short original-language summary, source links, optional Commons photographs, and a shareable `#case=` URL
+- Case-file drawer for each report, with a short summary, source links, a “View source” button, a picture on every file, and a shareable `#case=` URL
 - Filters for year, province, category and credibility, plus a search box
 - A playable timeline, count-up statistics, and charts by year, category and province
 - English / Thai labels
@@ -43,9 +49,18 @@ Raw inputs live in `pipeline/nuforc_raw.json` and `pipeline/curated_events.json`
 
 ## Photographs and illustrations
 
-- Hosted event photographs are from Wikimedia Commons: J A Forbes, *Beung Fai Phraya Nag*, 19 October 2013, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Credit is shown on the case file.
-- News photographs are **not** copied. Those cases link back to the article.
-- Hero and radar images in `docs/img/illustrations/` are generated artwork and are labelled **illustration, not evidence**.
+Every case file has a picture. That is not the same as a photograph of the event.
+
+- The only hosted photographs of a specific Thai event are J A Forbes’s *Beung Fai Phraya Nag* series, 19 October 2013, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- A few other Wikimedia Commons stills are used as clearly captioned **examples** (a Starlink train, Yi Peng lanterns, the ISS, a weather balloon, Gulf of Thailand fishing lights, meteor fireballs taken outside Thailand) or as **Mekong location** photographs for later Naga fireball years. Credits and licences are on each case file. These must not be treated as pictures of that Thai night.
+- All other cases use a generated X-Files-style illustration in `docs/img/illustrations/cases/`, stamped **ILLUSTRATION — NOT EVIDENCE**, with the case number and province overlaid.
+- News photographs are **not** copied. Those cases keep a “View source” link.
+- The media filter and gallery distinguish real photographs from illustrations. Thumbnails appear in the case list, map popups and the gallery.
+- Hero and social images in `docs/img/illustrations/` are also generated artwork.
+
+## Sound
+
+Browsers block audio until a user gesture, so the site opens on an **ENTER THE FILES / CLICK TO INITIALIZE** splash. After that click, a low ambient drone (synthesized with the Web Audio API — no copyrighted X-Files music) starts with sound **on** by default. A mute toggle is always visible and is saved in `localStorage`. Audio is silenced when the tab is hidden. The typewriter boot is skippable and is skipped automatically under `prefers-reduced-motion`.
 
 ## Run it locally
 
@@ -65,4 +80,4 @@ GitHub Actions is intentionally not required. The site is already a static folde
 
 ## Licence
 
-Code is under the MIT Licence. Witness reports remain the witnesses’ and NUFORC’s; news text remains with its publishers. Fonts are SIL Open Font Licence (Share Tech Mono, VT323, Special Elite). Map tiles © OpenStreetMap contributors (rendered with a local green CRT colour filter).
+Code is under the MIT Licence. Witness reports remain the witnesses’ and NUFORC’s; news text remains with its publishers. Fonts are Share Tech Mono and VT323 (SIL Open Font Licence) and Special Elite (Apache License 2.0). Map tiles © OpenStreetMap contributors (rendered with a local green CRT colour filter).

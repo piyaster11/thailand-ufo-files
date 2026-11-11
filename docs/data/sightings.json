@@ -7,12 +7,12 @@
     "nuforc": "NUFORC's live site is behind a Cloudflare challenge, so the Thailand index was read from a public Wayback Machine snapshot dated 13 May 2026 (https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand). Individual report URLs still point at nuforc.org. Two addendum records were merged with their parent events. A creature report and a filing in which the writer said they had not seen a UFO were omitted.",
     "news": "Thai and English news and official science comments were added only when a dated article could be read. Naga fireball years are included only when a post-event count or a contemporary photograph exists. Festival preview articles were not treated as confirmation.",
     "skipped": "nuforc.org (Cloudflare challenge; used Wayback instead). Reddit public JSON returned an HTML interstitial, so no Reddit posts were added. MUFON public data was not reachable as an open dump. Some Thai news photo-galleries returned 404. Robots and access walls were not circumvented.",
-    "photos": "Only Wikimedia Commons photographs (CC BY-SA 4.0, attributed) and clearly labelled generated illustrations are hosted. News photographs are not copied; cases link back to the article."
+    "photos": "Every case file has a picture. Event photographs are hosted only when a freely licensed image of that event exists (J A Forbes's Naga fireball series, 19 October 2013, CC BY-SA 4.0). A smaller set of Wikimedia Commons stills is used as clearly captioned examples (a Starlink train, Yi Peng lanterns, the ISS, a weather balloon, Gulf of Thailand fishing lights, meteor fireballs photographed outside Thailand) or as Mekong location photographs for later Naga fireball years — never as pictures of those specific nights. All other cases use a generated X-Files-style illustration stamped 'ILLUSTRATION — NOT EVIDENCE'. News-agency photographs are not copied; those cases keep a 'View source' link. Example and location photographs must not be treated as evidence of the Thai event."
   },
   "counts": {
     "total": 72,
     "with_coordinates": 63,
-    "with_hosted_photos": 2,
+    "with_hosted_photos": 72,
     "by_credibility": {
       "witness_report": 47,
       "explained": 16,
@@ -50,7 +50,9 @@
       "Matichon": 1
     },
     "nuforc": 51,
-    "curated_news_and_naga": 21
+    "curated_news_and_naga": 21,
+    "with_real_photo": 17,
+    "with_illustration_only": 55
   },
   "sightings": [
     {
@@ -85,12 +87,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-108977.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Udon Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "108977",
       "explanation": null,
       "case_no": "TH-0001",
-      "year": 1968
+      "year": 1968,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-42146",
@@ -124,12 +135,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-42146.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Rayong, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "42146",
       "explanation": null,
       "case_no": "TH-0002",
-      "year": 1968
+      "year": 1968,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-29788",
@@ -163,12 +183,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-29788.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Thailand, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "29788",
       "explanation": null,
       "case_no": "TH-0003",
-      "year": 1985
+      "year": 1985,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-5893",
@@ -202,12 +231,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-5893.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Prachuap Khiri Khan, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "5893",
       "explanation": null,
       "case_no": "TH-0004",
-      "year": 1997
+      "year": 1997,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-2987",
@@ -241,12 +279,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-2987.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Phuket, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "2987",
       "explanation": null,
       "case_no": "TH-0005",
-      "year": 1997
+      "year": 1997,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-48523",
@@ -280,12 +327,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-48523.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Phuket, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "48523",
       "explanation": null,
       "case_no": "TH-0006",
-      "year": 1999
+      "year": 1999,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-18768",
@@ -319,12 +375,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-18768.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "18768",
       "explanation": null,
       "case_no": "TH-0007",
-      "year": 2000
+      "year": 2000,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-51312",
@@ -358,12 +423,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-51312.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Songkhla, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "51312",
       "explanation": null,
       "case_no": "TH-0008",
-      "year": 2001
+      "year": 2001,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-20465",
@@ -397,12 +471,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-20465.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "20465",
       "explanation": null,
       "case_no": "TH-0009",
-      "year": 2001
+      "year": 2001,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-162740",
@@ -436,12 +519,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-162740.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Trat, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "162740",
       "explanation": null,
       "case_no": "TH-0010",
-      "year": 2002
+      "year": 2002,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-196742",
@@ -475,12 +567,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-196742.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": true,
       "nuforc_id": "196742",
       "explanation": null,
       "case_no": "TH-0011",
-      "year": 2003
+      "year": 2003,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-35456",
@@ -514,12 +615,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-35456.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "35456",
       "explanation": null,
       "case_no": "TH-0012",
-      "year": 2003
+      "year": 2003,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-36767",
@@ -553,12 +663,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-36767.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "36767",
       "explanation": null,
       "case_no": "TH-0013",
-      "year": 2004
+      "year": 2004,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-40511",
@@ -592,12 +711,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-40511.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "40511",
       "explanation": null,
       "case_no": "TH-0014",
-      "year": 2004
+      "year": 2004,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-41643",
@@ -631,12 +759,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-41643.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "41643",
       "explanation": null,
       "case_no": "TH-0015",
-      "year": 2004
+      "year": 2004,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-43319",
@@ -670,12 +807,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-43319.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Chiang Mai, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "43319",
       "explanation": null,
       "case_no": "TH-0016",
-      "year": 2005
+      "year": 2005,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-70835",
@@ -709,12 +855,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-70835.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "70835",
       "explanation": null,
       "case_no": "TH-0017",
-      "year": 2005
+      "year": 2005,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-50463",
@@ -748,12 +903,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-50463.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Phuket, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "50463",
       "explanation": null,
       "case_no": "TH-0018",
-      "year": 2006
+      "year": 2006,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-165709",
@@ -787,12 +951,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-165709.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Chon Buri, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "165709",
       "explanation": null,
       "case_no": "TH-0019",
-      "year": 2006
+      "year": 2006,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-53965",
@@ -826,12 +999,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-53965.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "53965",
       "explanation": null,
       "case_no": "TH-0020",
-      "year": 2006
+      "year": 2006,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-54473",
@@ -865,12 +1047,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-54473.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Thailand, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "54473",
       "explanation": null,
       "case_no": "TH-0021",
-      "year": 2007
+      "year": 2007,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-100377",
@@ -904,12 +1095,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-100377.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Phuket, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "100377",
       "explanation": null,
       "case_no": "TH-0022",
-      "year": 2007
+      "year": 2007,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-59435",
@@ -943,12 +1143,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-59435.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "59435",
       "explanation": null,
       "case_no": "TH-0023",
-      "year": 2007
+      "year": 2007,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-59932",
@@ -982,12 +1191,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-59932.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Phuket, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "59932",
       "explanation": null,
       "case_no": "TH-0024",
-      "year": 2007
+      "year": 2007,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-79273",
@@ -1021,12 +1239,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-79273.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Nakhon Pathom, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "79273",
       "explanation": null,
       "case_no": "TH-0025",
-      "year": 2010
+      "year": 2010,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-93382",
@@ -1064,12 +1291,21 @@
           "url": "https://nuforc.org/sighting/?id=93383"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-93382.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "93382",
       "explanation": null,
       "case_no": "TH-0026",
-      "year": 2012
+      "year": 2012,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-144299",
@@ -1103,12 +1339,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-144299.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "144299",
       "explanation": null,
       "case_no": "TH-0027",
-      "year": 2012
+      "year": 2012,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-103238",
@@ -1142,12 +1387,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-103238.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "103238",
       "explanation": null,
       "case_no": "TH-0028",
-      "year": 2013
+      "year": 2013,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "naga-2013",
@@ -1185,23 +1439,29 @@
       ],
       "photos": [
         {
-          "src": "img/commons/naga-183.jpg",
-          "alt": "Pinkish ball of light above a riverbank at night, photographed in Nong Khai, 19 October 2013",
-          "credit": "Photo: J A Forbes, 19 Oct 2013, near Nong Khai / the Mekong. Licence: CC BY-SA 4.0. Source: Wikimedia Commons.",
+          "src": "img/commons/naga-183.webp",
+          "alt": "Pinkish ball of light above a riverbank at night, photographed near Nong Khai on 19 October 2013",
+          "credit": "Photo: J A Forbes, 2013-10-19 20:38:57. Licence: CC BY-SA 4.0. Source: Wikimedia Commons. Photographed on the festival night of 19 October 2013, near Nong Khai / the Mekong.",
           "page": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(183)_ball.JPG",
-          "kind": "source_photo"
+          "kind": "source_photo",
+          "license": "CC BY-SA 4.0",
+          "artist": "J A Forbes"
         },
         {
-          "src": "img/commons/naga-187.jpg",
+          "src": "img/commons/naga-187.webp",
           "alt": "Another frame of a Naga fireball over the Mekong, 19 October 2013",
-          "credit": "Photo: J A Forbes, 19 Oct 2013. Licence: CC BY-SA 4.0. Source: Wikimedia Commons.",
+          "credit": "Photo: J A Forbes, 2013-10-19 20:38:57. Licence: CC BY-SA 4.0. Source: Wikimedia Commons. Photographed on the same night, 19 October 2013.",
           "page": "https://commons.wikimedia.org/wiki/File:Beung_Fai_Phraya_Nag_(187)_ball.JPG",
-          "kind": "source_photo"
+          "kind": "source_photo",
+          "license": "CC BY-SA 4.0",
+          "artist": "J A Forbes"
         }
       ],
       "media_in_source": true,
       "case_no": "TH-0029",
-      "year": 2013
+      "year": 2013,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-103372",
@@ -1235,12 +1495,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-103372.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "103372",
       "explanation": null,
       "case_no": "TH-0030",
-      "year": 2013
+      "year": 2013,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-107662",
@@ -1274,12 +1543,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-107662.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Loei, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "107662",
       "explanation": null,
       "case_no": "TH-0031",
-      "year": 2014
+      "year": 2014,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-118167",
@@ -1313,12 +1591,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-118167.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Prachuap Khiri Khan, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "118167",
       "explanation": null,
       "case_no": "TH-0032",
-      "year": 2015
+      "year": 2015,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "khao-kala-2015",
@@ -1350,10 +1637,19 @@
           "url": "https://www.bangkokpost.com/thailand/special-reports/570855/the-truth-is-out-there-in-nakhon-sawan"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/khao-kala-2015.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Nakhon Sawan, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0033",
-      "year": 2015
+      "year": 2015,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "fireball-2015-09-07",
@@ -1385,10 +1681,19 @@
           "url": "https://www.bangkokpost.com/thailand/general/683596/fireball-hurtles-over-thailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/fireball-2015-09-07.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0034",
-      "year": 2015
+      "year": 2015,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "naga-2015",
@@ -1424,10 +1729,22 @@
           "url": "https://mgronline.com/local/detail/9580000120165"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/mekong-phonphisai.webp",
+          "alt": "The Mekong River at Phon Phisai. Location photograph — not a picture of the 2015 Naga fireballs.",
+          "credit": "Photo: Jeremy Holton, 6 July 2013. Licence: CC BY 3.0. Source: Wikimedia Commons. Location photograph of the Mekong in Nong Khai Province — not a picture of this year's Naga fireballs.",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Mekong_River_at_Phon_Phisai,_NE_Thailand_-_panoramio.jpg",
+          "kind": "location_photo",
+          "license": "CC BY 3.0",
+          "artist": "Jeremy Holton"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0035",
-      "year": 2015
+      "year": 2015,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "fireball-2015-11-02",
@@ -1459,10 +1776,22 @@
           "url": "https://www.bangkokpost.com/thailand/general/751972/suspected-meteor-lights-up-thai-skies"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/fireball-alma.webp",
+          "alt": "A meteor fireball falling over the ALMA observatory in Chile",
+          "credit": "Photo: ESO/C. Malin, 2014-04-07. Licence: CC BY 4.0. Source: Wikimedia Commons. Example photograph of a meteor fireball, taken outside Thailand. This is not a photograph of the Thai event in this case file.",
+          "page": "https://commons.wikimedia.org/wiki/File:Cosmic_Fireball_Falling_Over_ALMA.jpg",
+          "kind": "example_photo",
+          "license": "CC BY 4.0",
+          "artist": "ESO/C. Malin"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0036",
-      "year": 2015
+      "year": 2015,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-124977",
@@ -1496,12 +1825,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-124977.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "124977",
       "explanation": null,
       "case_no": "TH-0037",
-      "year": 2016
+      "year": 2016,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-128584",
@@ -1535,12 +1873,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-128584.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "128584",
       "explanation": null,
       "case_no": "TH-0038",
-      "year": 2016
+      "year": 2016,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-134659",
@@ -1574,12 +1921,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-134659.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Chiang Rai, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "134659",
       "explanation": null,
       "case_no": "TH-0039",
-      "year": 2017
+      "year": 2017,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "rocket-ubon-2017",
@@ -1611,10 +1967,19 @@
           "url": "https://mgronline.com/local/detail/9600000115927"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/rocket-ubon-2017.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Ubon Ratchathani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0040",
-      "year": 2017
+      "year": 2017,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-143648",
@@ -1648,12 +2013,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-143648.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Chon Buri, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "143648",
       "explanation": null,
       "case_no": "TH-0041",
-      "year": 2018
+      "year": 2018,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-154794",
@@ -1687,12 +2061,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-154794.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "154794",
       "explanation": null,
       "case_no": "TH-0042",
-      "year": 2020
+      "year": 2020,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-157040",
@@ -1726,12 +2109,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-157040.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Surat Thani, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "157040",
       "explanation": null,
       "case_no": "TH-0043",
-      "year": 2020
+      "year": 2020,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "chiangmai-lantern-2020",
@@ -1765,15 +2157,20 @@
       ],
       "photos": [
         {
-          "src": "img/illustrations/radar-disc.png",
-          "alt": "Stylized illustration of a night-sky object over a radar scope",
-          "credit": "Illustration only — not evidence, and not a frame from the 2020 video. Generated for this archive.",
-          "kind": "illustration"
+          "src": "img/commons/yipeng-chiangmai.webp",
+          "alt": "Sky lanterns released at the Yi Peng festival in Chiang Mai",
+          "credit": "Photo: Nik Cyclist from Bangkok, Thailand, 2013-11-16 19:58. Licence: CC BY 2.0. Source: Wikimedia Commons. Typical sky lanterns at Yi Peng in Chiang Mai. This is not a frame from the 2020 Doi Suthep video.",
+          "page": "https://commons.wikimedia.org/wiki/File:Yi_Peng_lanterns_in_Chiang_Mai_(11067469754).jpg",
+          "kind": "example_photo",
+          "license": "CC BY 2.0",
+          "artist": "Nik Cyclist from Bangkok, Thailand"
         }
       ],
       "media_in_source": true,
       "case_no": "TH-0044",
-      "year": 2020
+      "year": 2020,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "iss-prachuap-2021",
@@ -1805,10 +2202,22 @@
           "url": "https://www.nationthailand.com/in-focus/30401240"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/iss-sts134.webp",
+          "alt": "The International Space Station photographed from space shuttle Endeavour in 2011",
+          "credit": "Photo: NASA, 2011-05-30. Licence: Public domain. Source: Wikimedia Commons. NASA photograph of the ISS after STS-134 undocking, 30 May 2011 (public domain). Not taken from Prachuap Khiri Khan; the 2021 report described a bright, slowly moving light, not this close-up.",
+          "page": "https://commons.wikimedia.org/wiki/File:STS-134_International_Space_Station_after_undocking.jpg",
+          "kind": "example_photo",
+          "license": "Public domain",
+          "artist": "NASA"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0045",
-      "year": 2021
+      "year": 2021,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "krabi-2021-balloon",
@@ -1840,10 +2249,22 @@
           "url": "https://www.thainewsonline.co/news/816816"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/weather-balloon.webp",
+          "alt": "A meteorological weather balloon in flight",
+          "credit": "Photo: National Weather Service / NOAA, 2005-09-10 03:08:51. Licence: Public domain. Source: Wikimedia Commons. Public-domain U.S. government weather-balloon photograph (PD-US-NOAA). Public-domain U.S. National Weather Service / NOAA photograph of a weather balloon. Scientists suggested a balloon as one possible explanation for the 2021 Krabi object; this is not a photograph of that object.",
+          "page": "https://commons.wikimedia.org/wiki/File:Radiosonde-wx-balloon.jpg",
+          "kind": "example_photo",
+          "license": "Public domain",
+          "artist": "National Weather Service / NOAA"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0046",
-      "year": 2021
+      "year": 2021,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "naga-2021",
@@ -1875,10 +2296,22 @@
           "url": "https://www.bbc.com/thai/thailand-59048224"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/mekong-nongkhai-dusk.webp",
+          "alt": "The Mekong River at east of Nong Khai. Location photograph — not a picture of the 2021 Naga fireballs.",
+          "credit": "Photo: per-schultz, 18 January 2009. Licence: CC BY 3.0. Source: Wikimedia Commons. Location photograph of the Mekong in Nong Khai Province — not a picture of this year's Naga fireballs.",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Mekong_River_in_the_down_going_sun._East_of_Nong_Khai_-_panoramio.jpg",
+          "kind": "location_photo",
+          "license": "CC BY 3.0",
+          "artist": "per-schultz"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0047",
-      "year": 2021
+      "year": 2021,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "phitsanulok-fireball-2021",
@@ -1910,10 +2343,22 @@
           "url": "https://www.thairath.co.th/news/local/north/2235765"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/fireball-kittpeak.webp",
+          "alt": "A meteor fireball over Kitt Peak National Observatory, Arizona",
+          "credit": "Photo: KPNO/NOIRLab/NSF/AURA/J. Dai, 28 May 2025. Licence: CC BY 4.0. Source: Wikimedia Commons. Example photograph of a meteor fireball, taken outside Thailand. This is not a photograph of the Thai event in this case file.",
+          "page": "https://commons.wikimedia.org/wiki/File:Fireball_Over_Kitt_Peak_(iotw2522a).jpg",
+          "kind": "example_photo",
+          "license": "CC BY 4.0",
+          "artist": "KPNO/NOIRLab/NSF/AURA/J. Dai"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0048",
-      "year": 2021
+      "year": 2021,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "prachuap-balloon-2022",
@@ -1945,10 +2390,22 @@
           "url": "https://www.thaipbs.or.th/news/content/314665"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/weather-balloon.webp",
+          "alt": "A meteorological weather balloon in flight",
+          "credit": "Photo: National Weather Service / NOAA, 2005-09-10 03:08:51. Licence: Public domain. Source: Wikimedia Commons. Public-domain U.S. government weather-balloon photograph (PD-US-NOAA). Public-domain U.S. National Weather Service / NOAA photograph of a radiosonde weather balloon. An example of the kind of balloon identified at Wa Ko in 2022, not a picture of that Thai object.",
+          "page": "https://commons.wikimedia.org/wiki/File:Radiosonde-wx-balloon.jpg",
+          "kind": "example_photo",
+          "license": "Public domain",
+          "artist": "National Weather Service / NOAA"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0049",
-      "year": 2022
+      "year": 2022,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "naga-2022",
@@ -1980,10 +2437,22 @@
           "url": "https://thethaiger.com/th/news/682375/"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/mekong-phonphisai.webp",
+          "alt": "The Mekong River at Phon Phisai. Location photograph — not a picture of the 2022 Naga fireballs.",
+          "credit": "Photo: Jeremy Holton, 6 July 2013. Licence: CC BY 3.0. Source: Wikimedia Commons. Location photograph of the Mekong in Nong Khai Province — not a picture of this year's Naga fireballs.",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Mekong_River_at_Phon_Phisai,_NE_Thailand_-_panoramio.jpg",
+          "kind": "location_photo",
+          "license": "CC BY 3.0",
+          "artist": "Jeremy Holton"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0050",
-      "year": 2022
+      "year": 2022,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-173726",
@@ -2017,12 +2486,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-173726.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Thailand - flying above straight of malacca/andaman sea, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "173726",
       "explanation": null,
       "case_no": "TH-0051",
-      "year": 2022
+      "year": 2022,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "starlink-north-2023",
@@ -2054,10 +2532,22 @@
           "url": "https://www.thaipbs.or.th/news/content/328426"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/starlink-train.webp",
+          "alt": "A train of Starlink satellites crossing a night sky, photographed in 2020 outside Thailand",
+          "credit": "Photo: Jud McCranie, 2020-04-28 21:21:48. Licence: CC BY-SA 4.0. Source: Wikimedia Commons. Example photograph of a Starlink satellite train (Jud McCranie, 2020). Not a photograph of the 1 June 2023 northern-Thailand pass.",
+          "page": "https://commons.wikimedia.org/wiki/File:Starlink_6_satellites.jpg",
+          "kind": "example_photo",
+          "license": "CC BY-SA 4.0",
+          "artist": "Jud McCranie"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0052",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-176150",
@@ -2091,12 +2581,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-176150.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Songkhla, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": true,
       "nuforc_id": "176150",
       "explanation": null,
       "case_no": "TH-0053",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-176966",
@@ -2130,12 +2629,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-176966.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "176966",
       "explanation": null,
       "case_no": "TH-0054",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-178233",
@@ -2173,12 +2681,21 @@
           "url": "https://nuforc.org/sighting/?id=178262"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-178233.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Sukhothai, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": true,
       "nuforc_id": "178233",
       "explanation": null,
       "case_no": "TH-0055",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "khonkaen-clouds-2023",
@@ -2210,10 +2727,19 @@
           "url": "https://thethaiger.com/th/news/950583/"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/khonkaen-clouds-2023.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Khon Kaen, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0056",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "naga-2023",
@@ -2249,10 +2775,22 @@
           "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/234907"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/mekong-nongkhai-dusk.webp",
+          "alt": "The Mekong River at east of Nong Khai. Location photograph — not a picture of the 2023 Naga fireballs.",
+          "credit": "Photo: per-schultz, 18 January 2009. Licence: CC BY 3.0. Source: Wikimedia Commons. Location photograph of the Mekong in Nong Khai Province — not a picture of this year's Naga fireballs.",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Mekong_River_in_the_down_going_sun._East_of_Nong_Khai_-_panoramio.jpg",
+          "kind": "location_photo",
+          "license": "CC BY 3.0",
+          "artist": "per-schultz"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0057",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "kaeng-krachan-2023",
@@ -2288,10 +2826,22 @@
           "url": "https://www.thaipbs.or.th/news/content/333535"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/gulf-fishing-lights.webp",
+          "alt": "Blue and green fishing-boat lights in the Gulf of Thailand and the Andaman Sea, seen from the International Space Station",
+          "credit": "Photo: NASA Johnson Space Center, Taken on 2. Licence: Public domain. Source: Wikimedia Commons. NASA photograph of fishing-boat lights in the Gulf of Thailand and the Andaman Sea, taken from the ISS (public domain). An example of the lamps thought to have caused the 2023 Kaeng Krachan glow, not a picture from Panoenthung on 3 November 2023.",
+          "page": "https://commons.wikimedia.org/wiki/File:The_blue_and_green_lights_of_fishing_boats_dot_the_Gulf_of_Thailand_and_the_Andaman_Sea_(iss074e0526743).jpg",
+          "kind": "example_photo",
+          "license": "Public domain",
+          "artist": "NASA Johnson Space Center"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0058",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-179751",
@@ -2325,12 +2875,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-179751.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Chiang Rai, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "179751",
       "explanation": "Bird?",
       "case_no": "TH-0059",
-      "year": 2023
+      "year": 2023,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "fireball-2024-03-04",
@@ -2362,10 +2921,22 @@
           "url": "https://www.thaipbs.or.th/news/content/337721"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/fireball-alma.webp",
+          "alt": "A meteor fireball falling over the ALMA observatory in Chile",
+          "credit": "Photo: ESO/C. Malin, 2014-04-07. Licence: CC BY 4.0. Source: Wikimedia Commons. Example photograph of a meteor fireball, taken outside Thailand. This is not a photograph of the Thai event in this case file.",
+          "page": "https://commons.wikimedia.org/wiki/File:Cosmic_Fireball_Falling_Over_ALMA.jpg",
+          "kind": "example_photo",
+          "license": "CC BY 4.0",
+          "artist": "ESO/C. Malin"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0060",
-      "year": 2024
+      "year": 2024,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-182848",
@@ -2399,12 +2970,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-182848.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Chon Buri, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "182848",
       "explanation": null,
       "case_no": "TH-0061",
-      "year": 2024
+      "year": 2024,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "naga-2024",
@@ -2436,10 +3016,22 @@
           "url": "https://www.pptvhd36.com/news/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/234907"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/mekong-phonphisai.webp",
+          "alt": "The Mekong River at Phon Phisai. Location photograph — not a picture of the 2024 Naga fireballs.",
+          "credit": "Photo: Jeremy Holton, 6 July 2013. Licence: CC BY 3.0. Source: Wikimedia Commons. Location photograph of the Mekong in Nong Khai Province — not a picture of this year's Naga fireballs.",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Mekong_River_at_Phon_Phisai,_NE_Thailand_-_panoramio.jpg",
+          "kind": "location_photo",
+          "license": "CC BY 3.0",
+          "artist": "Jeremy Holton"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0062",
-      "year": 2024
+      "year": 2024,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-185054",
@@ -2473,12 +3065,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-185054.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Location not stated, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "185054",
       "explanation": null,
       "case_no": "TH-0063",
-      "year": 2024
+      "year": 2024,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-185675",
@@ -2512,12 +3113,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-185675.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Khao Niwet, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "185675",
       "explanation": null,
       "case_no": "TH-0064",
-      "year": 2024
+      "year": 2024,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-188235",
@@ -2551,12 +3161,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-188235.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Location not stated, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "188235",
       "explanation": null,
       "case_no": "TH-0065",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-191093",
@@ -2590,12 +3209,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-191093.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Prachuap Khiri Khan, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": true,
       "nuforc_id": "191093",
       "explanation": null,
       "case_no": "TH-0066",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "fireball-2025-08-04",
@@ -2627,10 +3255,22 @@
           "url": "https://www.bangkokpost.com/thailand/general/3080924/fireball-lights-up-night-sky-over-several-provinces"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/fireball-kittpeak.webp",
+          "alt": "A meteor fireball over Kitt Peak National Observatory, Arizona",
+          "credit": "Photo: KPNO/NOIRLab/NSF/AURA/J. Dai, 28 May 2025. Licence: CC BY 4.0. Source: Wikimedia Commons. Example photograph of a meteor fireball, taken outside Thailand. This is not a photograph of the Thai event in this case file.",
+          "page": "https://commons.wikimedia.org/wiki/File:Fireball_Over_Kitt_Peak_(iotw2522a).jpg",
+          "kind": "example_photo",
+          "license": "CC BY 4.0",
+          "artist": "KPNO/NOIRLab/NSF/AURA/J. Dai"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0067",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-192966",
@@ -2664,12 +3304,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-192966.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Bangkok, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": true,
       "nuforc_id": "192966",
       "explanation": null,
       "case_no": "TH-0068",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "naga-2025",
@@ -2705,10 +3354,22 @@
           "url": "https://www.matichon.co.th/region/news_5402036"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/commons/mekong-nongkhai-dusk.webp",
+          "alt": "The Mekong River at east of Nong Khai. Location photograph — not a picture of the 2025 Naga fireballs.",
+          "credit": "Photo: per-schultz, 18 January 2009. Licence: CC BY 3.0. Source: Wikimedia Commons. Location photograph of the Mekong in Nong Khai Province — not a picture of this year's Naga fireballs.",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Mekong_River_in_the_down_going_sun._East_of_Nong_Khai_-_panoramio.jpg",
+          "kind": "location_photo",
+          "license": "CC BY 3.0",
+          "artist": "per-schultz"
+        }
+      ],
       "media_in_source": false,
       "case_no": "TH-0069",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": true,
+      "has_illustration": false
     },
     {
       "id": "nuforc-194130",
@@ -2742,12 +3403,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-194130.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Location not stated, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "194130",
       "explanation": null,
       "case_no": "TH-0070",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-194486",
@@ -2781,12 +3451,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-194486.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over Nakhon Ratchasima, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": true,
       "nuforc_id": "194486",
       "explanation": null,
       "case_no": "TH-0071",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": false,
+      "has_illustration": true
     },
     {
       "id": "nuforc-197577",
@@ -2820,12 +3499,21 @@
           "url": "https://web.archive.org/web/20260513100815/https://nuforc.org/subndx/?id=cThailand"
         }
       ],
-      "photos": [],
+      "photos": [
+        {
+          "src": "img/illustrations/cases/nuforc-197577.webp",
+          "alt": "Atmospheric X-Files-style illustration of a night sky over ตำบล บ้านโพธิ์, labelled illustration not evidence",
+          "credit": "Generated illustration for this archive — not a photograph, not evidence of the reported object.",
+          "kind": "illustration"
+        }
+      ],
       "media_in_source": false,
       "nuforc_id": "197577",
       "explanation": null,
       "case_no": "TH-0072",
-      "year": 2025
+      "year": 2025,
+      "has_real_photo": false,
+      "has_illustration": true
     }
   ]
 }

@@ -9,6 +9,12 @@ import json
 import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+import sys
+
+_PIPE = Path(__file__).resolve().parent
+if str(_PIPE) not in sys.path:
+    sys.path.insert(0, str(_PIPE))
+from attach_photos import PHOTO_METHODOLOGY, attach_photos
 
 ROOT = Path(__file__).resolve().parents[1]
 PIPELINE = Path(__file__).resolve().parent
@@ -461,6 +467,7 @@ def main():
         curated_items.append(item)
 
     all_items = assign_case_numbers(nuforc_items + curated_items)
+    photo_stats = attach_photos(all_items)
 
     doc = {
         "generated_at": iso_now(),
@@ -492,10 +499,7 @@ def main():
                 "MUFON public data was not reachable as an open dump. "
                 "Some Thai news photo-galleries returned 404. Robots and access walls were not circumvented."
             ),
-            "photos": (
-                "Only Wikimedia Commons photographs (CC BY-SA 4.0, attributed) and clearly labelled generated "
-                "illustrations are hosted. News photographs are not copied; cases link back to the article."
-            ),
+            "photos": PHOTO_METHODOLOGY,
         },
         "counts": {},
         "sightings": all_items,
@@ -519,7 +523,9 @@ def main():
     doc["counts"] = {
         "total": len(all_items),
         "with_coordinates": mapped,
-        "with_hosted_photos": photos,
+        "with_hosted_photos": len(all_items),
+        "with_real_photo": photo_stats["with_real_photo"],
+        "with_illustration_only": photo_stats["with_illustration_only"],
         "by_credibility": cred,
         "by_category": cat,
         "by_source_family": src,
@@ -528,7 +534,7 @@ def main():
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(doc, ensure_ascii=False, indent=2), encoding="utf-8")
-    print("Wrote", OUT, "cases", len(all_items), "mapped", mapped, "photos", photos)
+    print("Wrote", OUT, "cases", len(all_items), "mapped", mapped, "real_photos", photo_stats["with_real_photo"], "illustrations", photo_stats["with_illustration_only"])
     print("credibility", cred)
     print("category", cat)
     years = sorted({it["year"] for it in all_items if it.get("year")})

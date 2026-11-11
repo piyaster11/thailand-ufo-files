@@ -2,22 +2,32 @@
 (() => {
   const $ = (id) => document.getElementById(id);
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const LS_SOUND = "tuf-sound";
+  const LS_BOOT = "tuf-boot-seen";
+  const SS_ENTERED = "tuf-entered";
 
   const I18N = {
     en: {
       menu: "Files", random: "Random case", sound: "Sound: off", soundOn: "Sound: on",
       about: "About", filters: "Filters", search: "Search", years: "Year range",
       province: "Province", category: "Category", credibility: "Credibility",
-      hasphoto: "Has hosted photo or source media", reset: "Reset filters",
+      media: "Media", mediaAll: "All files", mediaReal: "Real photograph",
+      mediaIllustration: "Illustration only", reset: "Reset filters",
       play: "Play timeline", pause: "Pause", chartYear: "By year", chartCat: "By category",
       chartProv: "By province", heat: "Heatmap", heatOn: "Heatmap: on",
+      gallery: "Gallery", galleryTitle: "Case gallery",
+      galleryHint: "Real photographs are credited. Generated art carries a yellow illustration badge and is not evidence.",
+      bootHint: "A click, tap or key starts a low ambient drone generated in the browser — no copyrighted music. You can mute at any time.",
       disclaimer: "Entries are unverified reports from public sources, not proof of alien craft. Many have mundane explanations. Pins are often approximate.",
       cases: "Case files", open: "Open file", fly: "Fly to pin", share: "Copy link",
       source: "Sources", viewSource: "View source", noPhoto: "No photograph is hosted for this file. Follow the source link for any images in the original report.",
       precision: "Coordinate precision", summary: "Summary", explain: "Explanation offered",
       unmapped: "No reliable map pin", illustration: "Illustration — not evidence",
+      photoEvent: "Photograph of this event",
+      photoExample: "Example photograph — not this event",
+      photoLocation: "Location photograph — not the reported lights",
       all: "All", empty: "No files match these filters.",
-      statsCases: "Case files", statsMapped: "On the map", statsExplained: "Tagged explained", statsPhotos: "With hosted photo",
+      statsCases: "Case files", statsMapped: "On the map", statsExplained: "Tagged explained", statsPhotos: "Real photographs",
       cred_witness_report: "Witness report", cred_media_reported: "Media-reported",
       cred_explained: "Explained", cred_unverified: "Unverified",
       cat_light_orb: "Light / orb", cat_fireball: "Fireball / meteor",
@@ -31,16 +41,23 @@
       menu: "แฟ้ม", random: "สุ่มแฟ้ม", sound: "เสียง: ปิด", soundOn: "เสียง: เปิด",
       about: "เกี่ยวกับ", filters: "ตัวกรอง", search: "ค้นหา", years: "ช่วงปี",
       province: "จังหวัด", category: "ประเภท", credibility: "ความน่าเชื่อถือของแหล่งข้อมูล",
-      hasphoto: "มีภาพที่โฮสต์หรือสื่อในแหล่งต้นทาง", reset: "ล้างตัวกรอง",
+      media: "สื่อ", mediaAll: "ทุกแฟ้ม", mediaReal: "ภาพถ่ายจริง",
+      mediaIllustration: "ภาพประกอบเท่านั้น", reset: "ล้างตัวกรอง",
       play: "เล่นไทม์ไลน์", pause: "หยุด", chartYear: "รายปี", chartCat: "รายประเภท",
       chartProv: "รายจังหวัด", heat: "แผนที่ความหนาแน่น", heatOn: "ความหนาแน่น: เปิด",
+      gallery: "แกลเลอรี", galleryTitle: "แกลเลอรีแฟ้มคดี",
+      galleryHint: "ภาพถ่ายจริงมีเครดิต ภาพที่สร้างขึ้นมีป้ายสีเหลืองว่าเป็นภาพประกอบ และไม่ใช่หลักฐาน",
+      bootHint: "การคลิก แตะ หรือกดปุ่มจะเริ่มเสียงโดรนเบา ๆ ที่สร้างในเบราว์เซอร์ ไม่มีเพลงลิขสิทธิ์ และปิดเสียงได้ตลอดเวลา",
       disclaimer: "รายการเหล่านี้เป็นรายงานจากแหล่งสาธารณะที่ยังไม่ได้พิสูจน์ ไม่ใช่หลักฐานของยานต่างดาว หลายเหตุการณ์มีคำอธิบายสามัญ จุดบนแผนที่มักเป็นตำแหน่งประมาณ",
       cases: "แฟ้มคดี", open: "เปิดแฟ้ม", fly: "บินไปที่หมุด", share: "คัดลอกลิงก์",
       source: "แหล่งที่มา", viewSource: "ดูแหล่งต้นทาง", noPhoto: "แฟ้มนี้ไม่ได้โฮสต์ภาพถ่าย กรุณาตามลิงก์แหล่งข่าวหากต้นทางมีภาพ",
       precision: "ความละเอียดพิกัด", summary: "สรุป", explain: "คำอธิบายที่มีการเสนอ",
       unmapped: "ไม่มีหมุดที่เชื่อถือได้", illustration: "ภาพประกอบ — ไม่ใช่หลักฐาน",
+      photoEvent: "ภาพถ่ายของเหตุการณ์นี้",
+      photoExample: "ภาพถ่ายตัวอย่าง — ไม่ใช่เหตุการณ์นี้",
+      photoLocation: "ภาพสถานที่ — ไม่ใช่แสงที่รายงาน",
       all: "ทั้งหมด", empty: "ไม่มีแฟ้มที่ตรงกับตัวกรองนี้",
-      statsCases: "แฟ้มคดี", statsMapped: "มีบนแผนที่", statsExplained: "ถูกระบุว่าอธิบายได้", statsPhotos: "มีภาพที่โฮสต์",
+      statsCases: "แฟ้มคดี", statsMapped: "มีบนแผนที่", statsExplained: "ถูกระบุว่าอธิบายได้", statsPhotos: "ภาพถ่ายจริง",
       cred_witness_report: "รายงานพยาน", cred_media_reported: "สื่อรายงาน",
       cred_explained: "มีคำอธิบาย", cred_unverified: "ยังไม่ตรวจสอบ",
       cat_light_orb: "แสง / ลูกไฟกลม", cat_fireball: "ลูกไฟ / ดาวตก",
@@ -71,6 +88,7 @@
     playTimer: null,
     sound: false,
     timelineIdx: null,
+    entered: false,
   };
 
   const t = (k) => (I18N[state.lang] && I18N[state.lang][k]) || I18N.en[k] || k;
@@ -94,6 +112,19 @@
     if (/^\d{4}$/.test(d)) d += "-06-30";
     return `${d}T${s.time_local || "00:00"}`;
   };
+  const isRealPhoto = (p) => p && (p.kind === "source_photo" || p.kind === "example_photo" || p.kind === "location_photo");
+  const hasRealPhoto = (s) => s.has_real_photo === true || (s.photos || []).some(isRealPhoto);
+  const primaryPhoto = (s) => {
+    const photos = s.photos || [];
+    return photos.find(isRealPhoto) || photos[0] || null;
+  };
+  const photoBadgeKey = (p) => {
+    if (!p) return "illustration";
+    if (p.kind === "source_photo") return "photoEvent";
+    if (p.kind === "example_photo") return "photoExample";
+    if (p.kind === "location_photo") return "photoLocation";
+    return "illustration";
+  };
 
   function applyI18n() {
     document.querySelectorAll("[data-i]").forEach((el) => {
@@ -103,52 +134,193 @@
       else if (k === "play") el.textContent = state.playTimer ? t("pause") : t("play");
       else el.textContent = t(k);
     });
+    const media = $("mediaFilter");
+    if (media) {
+      [...media.options].forEach((opt) => {
+        const key = opt.getAttribute("data-i");
+        if (key) opt.textContent = t(key);
+      });
+    }
     $("langBtn").textContent = state.lang === "en" ? "TH" : "EN";
     document.documentElement.lang = state.lang === "th" ? "th" : "en";
+    if ($("soundBtn")) $("soundBtn").setAttribute("aria-pressed", String(!!state.sound));
+  }
+
+  /* -------- sound (Web Audio only; no copyrighted cues) -------- */
+  const audio = {
+    ctx: null,
+    master: null,
+    pingTimer: null,
+    started: false,
+    init() {
+      if (this.started) {
+        this.resume();
+        this.applyMute();
+        return;
+      }
+      const AC = window.AudioContext || window.webkitAudioContext;
+      if (!AC) return;
+      this.ctx = new AC();
+      this.master = this.ctx.createGain();
+      this.master.gain.value = 0.0001;
+      this.master.connect(this.ctx.destination);
+      this.startDrone();
+      this.started = true;
+      this.resume();
+      this.applyMute();
+      this.schedulePings();
+    },
+    startDrone() {
+      const ctx = this.ctx;
+      const freqs = [55, 82.5, 110];
+      freqs.forEach((f, i) => {
+        const o = ctx.createOscillator();
+        const g = ctx.createGain();
+        o.type = i === 2 ? "triangle" : "sine";
+        o.frequency.value = f;
+        g.gain.value = i === 0 ? 0.22 : i === 1 ? 0.09 : 0.05;
+        const lfo = ctx.createOscillator();
+        const lg = ctx.createGain();
+        lfo.type = "sine";
+        lfo.frequency.value = 0.06 + i * 0.025;
+        lg.gain.value = 0.03;
+        lfo.connect(lg);
+        lg.connect(g.gain);
+        o.connect(g);
+        g.connect(this.master);
+        o.start();
+        lfo.start();
+      });
+    },
+    resume() {
+      if (this.ctx && this.ctx.state === "suspended") this.ctx.resume().catch(() => {});
+    },
+    applyMute() {
+      if (!this.master || !this.ctx) return;
+      const on = state.sound && !document.hidden;
+      const now = this.ctx.currentTime;
+      this.master.gain.cancelScheduledValues(now);
+      this.master.gain.linearRampToValueAtTime(on ? 0.08 : 0.0001, now + 0.12);
+      if (on) this.resume();
+    },
+    tone(freq, dur, type, gainVal) {
+      if (!this.ctx || !state.sound || document.hidden) return;
+      this.resume();
+      const o = this.ctx.createOscillator();
+      const g = this.ctx.createGain();
+      o.type = type || "sine";
+      o.frequency.value = freq;
+      g.gain.value = gainVal || 0.04;
+      o.connect(g);
+      g.connect(this.master);
+      const now = this.ctx.currentTime;
+      g.gain.setValueAtTime(gainVal || 0.04, now);
+      g.gain.exponentialRampToValueAtTime(0.0001, now + dur);
+      o.start(now);
+      o.stop(now + dur + 0.02);
+    },
+    beep() {
+      this.tone(880, 0.09, "square", 0.035);
+      setTimeout(() => this.tone(1320, 0.07, "square", 0.025), 80);
+    },
+    ping() {
+      this.tone(740, 0.35, "sine", 0.03);
+    },
+    schedulePings() {
+      if (this.pingTimer) clearInterval(this.pingTimer);
+      this.pingTimer = setInterval(() => {
+        if (state.sound && !document.hidden && !reduceMotion) this.ping();
+      }, 8000);
+    },
+  };
+
+  function setSound(on, { beepAfter } = {}) {
+    state.sound = !!on;
+    try { localStorage.setItem(LS_SOUND, state.sound ? "on" : "off"); } catch (_) {}
+    if ($("soundBtn")) $("soundBtn").setAttribute("aria-pressed", String(state.sound));
+    applyI18n();
+    audio.applyMute();
+    if (state.sound && beepAfter) audio.beep();
+  }
+
+  function enterArchive() {
+    const el = $("boot");
+    if (!el || el.classList.contains("done")) {
+      audio.init();
+      return;
+    }
+    el.classList.add("done");
+    state.entered = true;
+    try {
+      sessionStorage.setItem(SS_ENTERED, "1");
+      localStorage.setItem(LS_BOOT, "1");
+    } catch (_) {}
+    let preferOn = true;
+    try {
+      const saved = localStorage.getItem(LS_SOUND);
+      if (saved === "off") preferOn = false;
+    } catch (_) {}
+    audio.init();
+    setSound(preferOn, { beepAfter: preferOn });
+    openFromHash();
   }
 
   /* -------- boot -------- */
   function runBoot() {
     const el = $("boot");
     const pre = $("bootText");
-    const skip = () => { el.classList.add("done"); };
-    $("skipBoot").addEventListener("click", skip);
-    if (reduceMotion || location.hash) { skip(); return; }
+    const already = (() => { try { return sessionStorage.getItem(SS_ENTERED) === "1"; } catch (_) { return false; } })();
+    const seen = (() => { try { return localStorage.getItem(LS_BOOT) === "1"; } catch (_) { return false; } })();
+
+    const skipAnim = () => {
+      pre.textContent = [
+        "THAILAND UFO FILES  //  ACCESSING CLASSIFIED ARCHIVE",
+        "WARNING: REPORTS ARE UNVERIFIED. MANY HAVE MUNDANE EXPLANATIONS.",
+        "THE TRUTH IS OUT THERE.",
+      ].join("\n");
+    };
+
+    $("enterBoot").addEventListener("click", (e) => { e.preventDefault(); enterArchive(); });
+    $("skipBoot").addEventListener("click", (e) => { e.preventDefault(); enterArchive(); });
+    const keyEnter = (e) => {
+      if (el.classList.contains("done")) return;
+      if (e.key === "Enter" || e.key === " " || e.key === "Escape") {
+        e.preventDefault();
+        enterArchive();
+      }
+    };
+    document.addEventListener("keydown", keyEnter);
+
+    if (already) {
+      enterArchive();
+      return;
+    }
+    if (reduceMotion || seen || location.hash) {
+      skipAnim();
+      return;
+    }
     const lines = [
       "THAILAND UFO FILES  //  ACCESSING CLASSIFIED ARCHIVE",
       "-----------------------------------------------",
       "AUTH: PUBLIC TERMINAL",
       "CLEARANCE: OBSERVER",
       "LOADING CASE INDEX ........",
-      "GEOCODING PLACE NAMES .....",
+      "MOUNTING PHOTO ARCHIVE ....",
       "WARNING: REPORTS ARE UNVERIFIED. MANY HAVE MUNDANE EXPLANATIONS.",
+      "GENERATED ART IS NOT EVIDENCE.",
       "THE TRUTH IS OUT THERE.",
+      "",
+      "AWAITING OPERATOR CONFIRMATION.",
     ];
     let i = 0, shown = "";
     const tick = () => {
-      if (i >= lines.length) { setTimeout(skip, 500); return; }
+      if (el.classList.contains("done")) return;
+      if (i >= lines.length) return;
       shown += lines[i++] + "\n";
       pre.innerHTML = shown + '<span class="boot-cursor"></span>';
-      setTimeout(tick, 280);
+      setTimeout(tick, 260);
     };
     tick();
-  }
-
-  /* -------- sound -------- */
-  function beep() {
-    if (!state.sound) return;
-    try {
-      const ctx = new (window.AudioContext || window.webkitAudioContext)();
-      const o = ctx.createOscillator();
-      const g = ctx.createGain();
-      o.type = "square";
-      o.frequency.value = 880;
-      g.gain.value = 0.03;
-      o.connect(g); g.connect(ctx.destination);
-      o.start();
-      setTimeout(() => { o.frequency.value = 1320; }, 80);
-      setTimeout(() => { o.stop(); ctx.close(); }, 160);
-    } catch (_) { /* ignore */ }
   }
 
   /* -------- map -------- */
@@ -198,8 +370,11 @@
       if (!hasCoords(s)) return;
       const lat = Number(s.lat), lng = Number(s.lng);
       const m = L.marker([lat, lng], { icon: markerIcon(s), title: s.case_no + " " + titleOf(s) });
-      m.on("click", () => openCase(s, false));
-      m.bindPopup(`<strong>${esc(s.case_no)}</strong><br>${esc(titleOf(s))}<br>${esc(s.date_label || s.date || "")}`);
+      m.on("click", () => { audio.ping(); openCase(s, false); });
+      const p = primaryPhoto(s);
+      const thumb = p ? `<img class="pop-thumb" src="${esc(p.src)}" alt="${esc(p.alt || "")}" loading="lazy">` : "";
+      const badge = p ? `<span class="${isRealPhoto(p) ? "photo-tag" : "illus-tag"} ${p.kind || ""}">${esc(t(photoBadgeKey(p)))}</span><br>` : "";
+      m.bindPopup(`${thumb}${badge}<strong>${esc(s.case_no)}</strong><br>${esc(titleOf(s))}<br>${esc(s.date_label || s.date || "")}`);
       state.cluster.addLayer(m);
       state.markers.set(s.id, m);
       heatPts.push([lat, lng, 1]);
@@ -249,7 +424,7 @@
       applyFilters();
     });
     $("province").addEventListener("change", onChange);
-    $("hasPhoto").addEventListener("change", onChange);
+    $("mediaFilter").addEventListener("change", onChange);
     $("catChecks").addEventListener("change", (e) => {
       const boxes = [...$("catChecks").querySelectorAll("input")];
       state.cats = new Set(boxes.filter((b) => b.checked).map((b) => b.value));
@@ -263,7 +438,7 @@
     $("resetBtn").addEventListener("click", () => {
       $("q").value = "";
       $("province").value = "";
-      $("hasPhoto").checked = false;
+      $("mediaFilter").value = "";
       state.yearMin = state.dataYearMin;
       state.yearMax = state.dataYearMax;
       $("yearMin").value = state.yearMin;
@@ -281,7 +456,7 @@
   function applyFilters() {
     const q = ($("q").value || "").trim().toLowerCase();
     const prov = $("province").value;
-    const photo = $("hasPhoto").checked;
+    const media = $("mediaFilter").value;
     const cut = timelineCutoff();
     $("yearMinLab").textContent = String(state.yearMin);
     $("yearMaxLab").textContent = String(state.yearMax);
@@ -292,7 +467,8 @@
       if (prov && s.province !== prov) return false;
       if (state.cats.size && s.category && !state.cats.has(s.category)) return false;
       if (state.creds.size && s.credibility && !state.creds.has(s.credibility)) return false;
-      if (photo && !( (s.photos && s.photos.length) || s.media_in_source )) return false;
+      if (media === "real" && !hasRealPhoto(s)) return false;
+      if (media === "illustration" && hasRealPhoto(s)) return false;
       if (q) {
         const blob = [s.case_no, s.id, s.title, s.title_th, s.summary, s.location_name, s.location_name_th, s.province, s.province_th].join(" ").toLowerCase();
         if (!blob.includes(q)) return false;
@@ -306,6 +482,7 @@
     renderList(list);
     rebuildMarkers(list);
     renderCharts(list);
+    if (!$("gallery").hidden) renderGallery(list);
   }
 
   function num(v, fallback) {
@@ -316,7 +493,7 @@
   function renderStats(list) {
     const mapped = list.filter(hasCoords).length;
     const explained = list.filter((s) => s.credibility === "explained").length;
-    const photos = list.filter((s) => s.photos && s.photos.length).length;
+    const photos = list.filter(hasRealPhoto).length;
     const cells = [
       [list.length, "statsCases"],
       [mapped, "statsMapped"],
@@ -349,6 +526,13 @@
     return state.lang === "th" ? (s.location_name_th || s.location_name) : s.location_name;
   }
 
+  function thumbHtml(s) {
+    const p = primaryPhoto(s);
+    if (!p) return `<div class="case-thumb-wrap"></div>`;
+    const real = isRealPhoto(p);
+    return `<div class="case-thumb-wrap"><img class="case-thumb" src="${esc(p.src)}" alt="${esc(p.alt || "")}" loading="lazy" width="72" height="52"><span class="case-thumb-tag${real ? " real" : ""}">${esc(real ? "PHOTO" : "ILLUS.")}</span></div>`;
+  }
+
   function renderList(list) {
     const ul = $("caseList");
     if (!list.length) {
@@ -357,9 +541,12 @@
     }
     ul.innerHTML = list.map((s) => `
       <li data-id="${esc(s.id)}">
-        <span class="cn">${esc(s.case_no)} // ${esc(s.date_label || s.date || "—")}</span>
-        <span class="ct">${esc(titleOf(s))}</span>
-        <span class="cm">${esc(locOf(s) || "—")} · ${esc(t("cat_" + s.category))} · ${esc(t("cred_" + s.credibility))}</span>
+        ${thumbHtml(s)}
+        <div>
+          <span class="cn">${esc(s.case_no)} // ${esc(s.date_label || s.date || "—")}</span>
+          <span class="ct">${esc(titleOf(s))}</span>
+          <span class="cm">${esc(locOf(s) || "—")} · ${esc(t("cat_" + s.category))} · ${esc(t("cred_" + s.credibility))}</span>
+        </div>
       </li>`).join("");
     ul.querySelectorAll("li[data-id]").forEach((li) => {
       li.addEventListener("click", () => {
@@ -367,6 +554,39 @@
         if (s) openCase(s, true);
       });
     });
+  }
+
+  function renderGallery(list) {
+    const grid = $("galleryGrid");
+    if (!list.length) {
+      grid.innerHTML = `<p class="hint">${t("empty")}</p>`;
+      return;
+    }
+    grid.innerHTML = list.map((s) => {
+      const p = primaryPhoto(s);
+      if (!p) return "";
+      const real = isRealPhoto(p);
+      return `<button type="button" class="gallery-card" data-id="${esc(s.id)}">
+        <img src="${esc(p.src)}" alt="${esc(p.alt || titleOf(s))}" loading="lazy">
+        <span class="${real ? "photo-tag" : "illus-tag"} ${esc(p.kind || "")}">${esc(t(photoBadgeKey(p)))}</span>
+        <div class="meta"><span class="cn">${esc(s.case_no)}</span><span class="ct">${esc(titleOf(s))}</span></div>
+      </button>`;
+    }).join("");
+    grid.querySelectorAll(".gallery-card").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const s = state.data.sightings.find((x) => x.id === btn.getAttribute("data-id"));
+        closeGallery();
+        if (s) openCase(s, true);
+      });
+    });
+  }
+  function openGallery() {
+    $("gallery").hidden = false;
+    renderGallery(state.filtered);
+    audio.beep();
+  }
+  function closeGallery() {
+    $("gallery").hidden = true;
   }
 
   /* -------- charts -------- */
@@ -480,7 +700,7 @@
     return String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
   function openCase(s, fly) {
-    beep();
+    audio.beep();
     const drawer = $("drawer");
     const title = titleOf(s);
     const sum = summaryOf(s);
@@ -489,10 +709,12 @@
     const hasPin = hasCoords(s);
     const lat = hasPin ? Number(s.lat) : null, lng = hasPin ? Number(s.lng) : null;
     const photos = (s.photos || []).map((p) => {
-      const tag = p.kind === "illustration" ? `<span class="illus-tag">${t("illustration")}</span>` : "";
-      return `<figure>${tag}<img src="${esc(p.src)}" alt="${esc(p.alt || title)}" loading="lazy"><figcaption>${esc(p.credit || "")}${p.page ? ` · <a href="${esc(p.page)}" target="_blank" rel="noopener">Commons</a>` : ""}</figcaption></figure>`;
+      const tagClass = isRealPhoto(p) ? `photo-tag ${p.kind || ""}` : "illus-tag";
+      const commons = p.page ? ` · <a href="${esc(p.page)}" target="_blank" rel="noopener">Commons</a>` : "";
+      return `<figure><span class="${tagClass}">${esc(t(photoBadgeKey(p)))}</span><img src="${esc(p.src)}" alt="${esc(p.alt || title)}" loading="lazy"><figcaption>${esc(p.credit || "")}${commons}</figcaption></figure>`;
     }).join("");
     const sources = (s.sources || []).map((src) => `<li><a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.name || t("viewSource"))}</a></li>`).join("");
+    const firstSource = (s.sources || [])[0];
     const explain = state.lang === "th" ? (s.explanation_th || s.explanation) : (s.explanation || s.explanation_th);
     drawer.innerHTML = `
       <button class="close-x" type="button" id="closeDrawer" aria-label="Close">×</button>
@@ -501,7 +723,7 @@
       <div class="stamp-row">
         <span class="stamp">${esc(t("cred_" + s.credibility))}</span>
         <span class="stamp green">${esc(t("cat_" + s.category))}</span>
-        ${s.media_in_source || (s.photos && s.photos.length) ? `<span class="stamp amber">MEDIA</span>` : ""}
+        ${hasRealPhoto(s) ? `<span class="stamp amber">PHOTO</span>` : `<span class="stamp amber">ILLUS.</span>`}
       </div>
       <div class="case-meta">${esc(s.date_label || s.date || "—")} · ${esc(loc)}</div>
       <div class="kv">
@@ -520,6 +742,7 @@
       <ul class="source-list">${sources}</ul>
       <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px">
         ${hasPin ? `<button class="btn" type="button" id="flyBtn">${t("fly")}</button>` : ""}
+        ${firstSource ? `<a class="btn btn-ghost" href="${esc(firstSource.url)}" target="_blank" rel="noopener">${t("viewSource")}</a>` : ""}
         <button class="btn btn-ghost" type="button" id="shareBtn">${t("share")}</button>
       </div>
     `;
@@ -553,8 +776,9 @@
   function openFromHash() {
     const m = location.hash.match(/case=([^&]+)/);
     if (!m) return;
+    if (!$("boot").classList.contains("done")) return;
     const id = decodeURIComponent(m[1]);
-    const s = state.data.sightings.find((x) => x.id === id || x.case_no === id);
+    const s = state.data && state.data.sightings.find((x) => x.id === id || x.case_no === id);
     if (s) openCase(s, true);
   }
 
@@ -569,7 +793,6 @@
     $("langBtn").addEventListener("click", () => {
       state.lang = state.lang === "en" ? "th" : "en";
       applyI18n();
-      // re-render labels in lists/charts
       const sel = $("province");
       const cur = sel.value;
       const provinces = [...new Set(state.data.sightings.map((s) => s.province).filter(Boolean))].sort();
@@ -591,10 +814,8 @@
       }
     });
     $("soundBtn").addEventListener("click", () => {
-      state.sound = !state.sound;
-      $("soundBtn").setAttribute("aria-pressed", String(state.sound));
-      applyI18n();
-      if (state.sound) beep();
+      audio.init();
+      setSound(!state.sound, { beepAfter: !state.sound });
     });
     $("heatBtn").addEventListener("click", () => {
       state.heatOn = !state.heatOn;
@@ -602,6 +823,11 @@
       applyI18n();
       rebuildMarkers(state.filtered);
     });
+    $("galleryBtn").addEventListener("click", () => {
+      if ($("gallery").hidden) openGallery();
+      else closeGallery();
+    });
+    $("closeGallery").addEventListener("click", closeGallery);
     $("backdrop").addEventListener("click", closeCase);
     $("menuBtn").addEventListener("click", () => {
       const sb = $("sidebar");
@@ -610,7 +836,14 @@
       $("menuBtn").setAttribute("aria-expanded", String(open));
     });
     window.addEventListener("hashchange", openFromHash);
-    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeCase(); });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        if (!$("gallery").hidden) closeGallery();
+        else closeCase();
+      }
+    });
+    document.addEventListener("visibilitychange", () => audio.applyMute());
+    document.addEventListener("pointerdown", () => audio.resume(), { passive: true });
   }
 
   /* -------- init -------- */
@@ -623,7 +856,6 @@
     if (!res.ok) throw new Error("Could not load sightings.json");
     const data = await res.json();
     if (!data || !Array.isArray(data.sightings)) throw new Error("Bad sightings payload");
-    // harden against NaN in incoming data
     data.sightings.forEach((s) => {
       if (s.lat != null) { const n = Number(s.lat); s.lat = Number.isFinite(n) ? n : null; }
       if (s.lng != null) { const n = Number(s.lng); s.lng = Number.isFinite(n) ? n : null; }
@@ -632,10 +864,13 @@
     setupFilters(data.sightings);
     setupTimeline(data.sightings);
     applyFilters();
-    // fit map to pins
     const pts = data.sightings.filter(hasCoords).map((s) => [Number(s.lat), Number(s.lng)]);
     if (pts.length) state.map.fitBounds(pts, { padding: [30, 30], maxZoom: 7 });
-    openFromHash();
+    if ($("boot").classList.contains("done")) openFromHash();
+    window.__tufAudio = {
+      contextState: () => (audio.ctx ? audio.ctx.state : "none"),
+      soundOn: () => !!state.sound,
+    };
   }
 
   init().catch((err) => {

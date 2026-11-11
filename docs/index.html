@@ -18,9 +18,17 @@
   <div class="scanlines" aria-hidden="true"></div>
   <div class="vignette" aria-hidden="true"></div>
 
-  <div id="boot" class="boot" role="dialog" aria-label="Archive boot sequence">
-    <pre id="bootText"></pre>
-    <p><button class="btn" id="skipBoot" type="button">Skip // ข้าม</button></p>
+  <div id="boot" class="boot" role="dialog" aria-modal="true" aria-label="Archive boot sequence">
+    <div class="boot-inner">
+      <div class="boot-kicker">CLASSIFIED ARCHIVE  //  PUBLIC TERMINAL</div>
+      <pre id="bootText"></pre>
+      <button class="btn boot-enter" id="enterBoot" type="button">
+        ENTER THE FILES
+        <span>CLICK TO INITIALIZE</span>
+      </button>
+      <p class="boot-hint" data-i="bootHint">A click, tap or key starts a low ambient drone generated in the browser — no copyrighted music. You can mute at any time.</p>
+      <button class="btn btn-ghost" id="skipBoot" type="button">Skip animation // ข้าม</button>
+    </div>
   </div>
 
   <header class="site-header">
@@ -32,6 +40,7 @@
     </div>
     <div class="header-actions">
       <button class="btn btn-ghost" id="heatBtn" type="button" data-i="heat">Heatmap</button>
+      <button class="btn btn-ghost" id="galleryBtn" type="button" data-i="gallery">Gallery</button>
       <button class="btn" id="randomBtn" type="button" data-i="random">Random case</button>
       <button class="btn btn-ghost" id="langBtn" type="button" aria-label="Language">TH</button>
       <button class="btn btn-ghost" id="soundBtn" type="button" aria-pressed="false" data-i="sound">Sound: off</button>
@@ -70,9 +79,12 @@
         <label class="field" data-i="credibility">Credibility</label>
         <div class="checks" id="credChecks"></div>
 
-        <label class="checks" style="margin-top:8px">
-          <input type="checkbox" id="hasPhoto"> <span data-i="hasphoto">Has hosted photo or source media</span>
-        </label>
+        <label class="field" for="mediaFilter" data-i="media">Media</label>
+        <select id="mediaFilter">
+          <option value="" data-i="mediaAll">All files</option>
+          <option value="real" data-i="mediaReal">Real photograph</option>
+          <option value="illustration" data-i="mediaIllustration">Illustration only</option>
+        </select>
         <button class="btn btn-ghost" id="resetBtn" type="button" style="margin-top:10px" data-i="reset">Reset filters</button>
       </div>
 
@@ -101,6 +113,17 @@
 
   <div class="drawer-backdrop" id="backdrop"></div>
   <aside class="case-drawer" id="drawer" aria-live="polite"></aside>
+
+  <div id="gallery" class="gallery" hidden>
+    <div class="gallery-panel">
+      <div class="gallery-head">
+        <h2 data-i="galleryTitle">Case gallery</h2>
+        <button class="close-x" type="button" id="closeGallery" aria-label="Close gallery">×</button>
+      </div>
+      <p class="hint" data-i="galleryHint">Real photographs are credited. Generated art carries a yellow illustration badge and is not evidence.</p>
+      <div id="galleryGrid" class="gallery-grid"></div>
+    </div>
+  </div>
 
   <script src="js/vendor/leaflet.js"></script>
   <script src="js/vendor/leaflet.markercluster.js"></script>
